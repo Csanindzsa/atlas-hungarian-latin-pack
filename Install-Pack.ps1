@@ -42,10 +42,10 @@ function Find-Atlas {
     $found = @()
     foreach ($c in ($candidates | Sort-Object -Unique)) {
         $f = Join-Path $c $assetsPath
-        if ((Test-Path -LiteralPath (Join-Path $c 'Human Anatomy Atlas.exe')) -and (Test-Path -LiteralPath $f) -and ($known -contains (Get-Hash $f))) { $found += [IO.Path]::GetFullPath($c) }
+        if ((Test-Path -LiteralPath (Join-Path $c 'Human Anatomy Atlas.exe')) -and (Test-Path -LiteralPath $f) -and ($known -contains (Get-Hash $f))) { $found += ([IO.Path]::GetFullPath($c)).TrimEnd('\', '/').ToLowerInvariant() }
     }
     $found = @($found | Sort-Object -Unique)
-    if ($found.Count -eq 1) { return $found[0] }
+    if ($found.Count -eq 1) { return (Get-Item -LiteralPath $found[0]).FullName.TrimEnd('\', '/') }
     if ($found.Count -eq 0) { throw 'Nem találom az Atlas 7.4.01 telepítését. Adja meg: -AtlasDirectory "<mappa>" / Atlas 7.4.01 not found; pass -AtlasDirectory.' }
     throw ('Több Atlas-telepítést találtam, adja meg melyiket (-AtlasDirectory) / Several installs found: ' + ($found -join '; '))
 }

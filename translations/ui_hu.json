@@ -1,0 +1,1207 @@
+[
+  {
+    "row": 0,
+    "id": "switch_female",
+    "hu": "A modell nőire váltott."
+  },
+  {
+    "row": 1,
+    "id": "switch_male",
+    "hu": "A modell férfira váltott."
+  },
+  {
+    "row": 2,
+    "id": "show",
+    "hu": "Megjelenítés"
+  },
+  {
+    "row": 3,
+    "id": "fade",
+    "hu": "Halványítás"
+  },
+  {
+    "row": 4,
+    "id": "hide",
+    "hu": "Elrejtés"
+  },
+  {
+    "row": 5,
+    "id": "fade_others",
+    "hu": "Többi\\nhalványítása"
+  },
+  {
+    "row": 6,
+    "id": "hide_others",
+    "hu": "Többi\\nelrejtése"
+  },
+  {
+    "row": 7,
+    "id": "show_others",
+    "hu": "Többi\\nmegjelenítése"
+  },
+  {
+    "row": 8,
+    "id": "ok",
+    "hu": "OK"
+  },
+  {
+    "row": 9,
+    "id": "cancel",
+    "hu": "Mégse"
+  },
+  {
+    "row": 10,
+    "id": "help",
+    "hu": "Súgó"
+  },
+  {
+    "row": 11,
+    "id": "store",
+    "hu": "Áruház"
+  },
+  {
+    "row": 12,
+    "id": "other_apps",
+    "hu": "További alkalmazások"
+  },
+  {
+    "row": 13,
+    "id": "regional",
+    "hu": "Testtájak"
+  },
+  {
+    "row": 14,
+    "id": "skeletal",
+    "hu": "Csontrendszer"
+  },
+  {
+    "row": 15,
+    "id": "digestive",
+    "hu": "Emésztőrendszer"
+  },
+  {
+    "row": 16,
+    "id": "circulatory",
+    "hu": "Keringési rendszer"
+  },
+  {
+    "row": 17,
+    "id": "nervous",
+    "hu": "Idegrendszer"
+  },
+  {
+    "row": 18,
+    "id": "muscular",
+    "hu": "Izomrendszer"
+  },
+  {
+    "row": 19,
+    "id": "reproductive",
+    "hu": "Nemi szervek"
+  },
+  {
+    "row": 20,
+    "id": "respiratory",
+    "hu": "Légzőrendszer"
+  },
+  {
+    "row": 21,
+    "id": "urinary",
+    "hu": "Húgyúti rendszer"
+  },
+  {
+    "row": 22,
+    "id": "lymphatic",
+    "hu": "Nyirokrendszer"
+  },
+  {
+    "row": 23,
+    "id": "endocrine",
+    "hu": "Belső elválasztású mirigyek"
+  },
+  {
+    "row": 24,
+    "id": "integumentary",
+    "hu": "Kültakaró"
+  },
+  {
+    "row": 25,
+    "id": "add",
+    "hu": "Hozzáadás"
+  },
+  {
+    "row": 26,
+    "id": "go_to",
+    "hu": "Ugrás"
+  },
+  {
+    "row": 27,
+    "id": "select",
+    "hu": "Kijelölés"
+  },
+  {
+    "row": 28,
+    "id": "loading_message1",
+    "hu": "A Visible Body modelljeinek előkészítése folyamatban van."
+  },
+  {
+    "row": 29,
+    "id": "loading_message2",
+    "hu": "Ez néhány pillanatig eltarthat."
+  },
+  {
+    "row": 30,
+    "id": "loading_message3",
+    "hu": "Kérjük, ne zárja be és ne indítsa újra az alkalmazást. Köszönjük!"
+  },
+  {
+    "row": 31,
+    "id": "regional_views",
+    "hu": "Testtájankénti nézetek"
+  },
+  {
+    "row": 32,
+    "id": "skeletal_views",
+    "hu": "Csontrendszeri nézetek"
+  },
+  {
+    "row": 33,
+    "id": "digestive_views",
+    "hu": "Emésztőrendszeri nézetek"
+  },
+  {
+    "row": 34,
+    "id": "muscular_views",
+    "hu": "Izomrendszeri nézetek"
+  },
+  {
+    "row": 35,
+    "id": "circulatory_views",
+    "hu": "Keringési rendszeri nézetek"
+  },
+  {
+    "row": 36,
+    "id": "nervous_views",
+    "hu": "Idegrendszeri nézetek"
+  },
+  {
+    "row": 37,
+    "id": "respiratory_views",
+    "hu": "Légzőrendszeri nézetek"
+  },
+  {
+    "row": 38,
+    "id": "urinary_views_female",
+    "hu": "Húgyúti nézetek (nő)"
+  },
+  {
+    "row": 39,
+    "id": "urinary_views_male",
+    "hu": "Húgyúti nézetek (férfi)"
+  },
+  {
+    "row": 40,
+    "id": "endocrine_views",
+    "hu": "Belső elválasztású mirigyek nézetei"
+  },
+  {
+    "row": 41,
+    "id": "lymphatic_views",
+    "hu": "Nyirokrendszeri nézetek"
+  },
+  {
+    "row": 42,
+    "id": "reproductive_views_female",
+    "hu": "Nemi szervi nézetek (nő)"
+  },
+  {
+    "row": 43,
+    "id": "reproductive_views_male",
+    "hu": "Nemi szervi nézetek (férfi)"
+  },
+  {
+    "row": 44,
+    "id": "vein_search_addition",
+    "hu": "(véna)"
+  },
+  {
+    "row": 45,
+    "id": "artery_search_addition",
+    "hu": "(artéria)"
+  },
+  {
+    "row": 46,
+    "id": "saved_view",
+    "hu": "Mentett nézet"
+  },
+  {
+    "row": 47,
+    "id": "no_structure_selected",
+    "hu": "Nincs kijelölt képlet."
+  },
+  {
+    "row": 48,
+    "id": "select_structure_definition",
+    "hu": "Jelöljön ki egy képletet a leírásának megtekintéséhez."
+  },
+  {
+    "row": 49,
+    "id": "screenshot_saved_to_photos",
+    "hu": "A képernyőkép a Fotók közé került."
+  },
+  {
+    "row": 50,
+    "id": "no_definition_available",
+    "hu": "Nincs elérhető leírás."
+  },
+  {
+    "row": 51,
+    "id": "zero_results",
+    "hu": "A keresés nem adott találatot."
+  },
+  {
+    "row": 52,
+    "id": "done",
+    "hu": "Kész"
+  },
+  {
+    "row": 53,
+    "id": "search",
+    "hu": "Keresés"
+  },
+  {
+    "row": 54,
+    "id": "alert",
+    "hu": "Figyelmeztetés"
+  },
+  {
+    "row": 55,
+    "id": "incorrect_share_link_version_old",
+    "hu": "A megosztott hivatkozás a Human Anatomy Atlas korábbi verziójával készült. A megosztott nézet ebben az újabb verzióban valamelyest eltérhet."
+  },
+  {
+    "row": 56,
+    "id": "incorrect_share_link_version_new",
+    "hu": "A megosztott hivatkozás a Human Anatomy Atlas újabb verziójával készült. A megosztott nézet ebben a korábbi verzióban valamelyest eltérhet. Kérjük, frissítse a Human Anatomy Atlas alkalmazást az App Store-ban."
+  },
+  {
+    "row": 57,
+    "id": "multiselect",
+    "hu": "Többszörös kijelölés"
+  },
+  {
+    "row": 58,
+    "id": "multiselect_iphone",
+    "hu": "Többes\\nkijelölés"
+  },
+  {
+    "row": 59,
+    "id": "draw",
+    "hu": "Rajzolás"
+  },
+  {
+    "row": 60,
+    "id": "notes",
+    "hu": "Jegyzetek"
+  },
+  {
+    "row": 61,
+    "id": "share",
+    "hu": "Megosztás"
+  },
+  {
+    "row": 62,
+    "id": "history",
+    "hu": "Előzmények"
+  },
+  {
+    "row": 63,
+    "id": "favorites",
+    "hu": "Kedvencek"
+  },
+  {
+    "row": 64,
+    "id": "fullscreen",
+    "hu": "Teljes képernyő"
+  },
+  {
+    "row": 65,
+    "id": "systems",
+    "hu": "Rendszerek"
+  },
+  {
+    "row": 66,
+    "id": "selectlandmark",
+    "hu": "Jelöljön ki egy anatómiai tájékozódási pontot."
+  },
+  {
+    "row": 67,
+    "id": "exit",
+    "hu": "Kilépés"
+  },
+  {
+    "row": 68,
+    "id": "exploremuscle",
+    "hu": "Izom vizsgálata"
+  },
+  {
+    "row": 69,
+    "id": "muscleactions",
+    "hu": "Izomműködések"
+  },
+  {
+    "row": 70,
+    "id": "title",
+    "hu": "Human Anatomy Atlas"
+  },
+  {
+    "row": 71,
+    "id": "sortbyname",
+    "hu": "Rendezés név szerint"
+  },
+  {
+    "row": 72,
+    "id": "sortbydate",
+    "hu": "Rendezés dátum szerint"
+  },
+  {
+    "row": 73,
+    "id": "edit",
+    "hu": "Szerkesztés"
+  },
+  {
+    "row": 74,
+    "id": "views",
+    "hu": "Nézetek"
+  },
+  {
+    "row": 75,
+    "id": "quizzes",
+    "hu": "Kvízek"
+  },
+  {
+    "row": 76,
+    "id": "gender",
+    "hu": "Nem"
+  },
+  {
+    "row": 77,
+    "id": "color",
+    "hu": "Szín"
+  },
+  {
+    "row": 78,
+    "id": "englishsearch",
+    "hu": "Magyar keresés"
+  },
+  {
+    "row": 79,
+    "id": "latinsearch",
+    "hu": "Latin keresés"
+  },
+  {
+    "row": 80,
+    "id": "entertext",
+    "hu": "Írjon be szöveget..."
+  },
+  {
+    "row": 81,
+    "id": "submit",
+    "hu": "Küldés"
+  },
+  {
+    "row": 82,
+    "id": "tryagain",
+    "hu": "Újra\\npróbálás"
+  },
+  {
+    "row": 83,
+    "id": "showanswer",
+    "hu": "Válasz megjelenítése"
+  },
+  {
+    "row": 84,
+    "id": "next",
+    "hu": "Következő"
+  },
+  {
+    "row": 85,
+    "id": "restore",
+    "hu": "Visszaállítás"
+  },
+  {
+    "row": 86,
+    "id": "save",
+    "hu": "Mentés"
+  },
+  {
+    "row": 87,
+    "id": "email",
+    "hu": "E-mail"
+  },
+  {
+    "row": 88,
+    "id": "rateus",
+    "hu": "Értékelés"
+  },
+  {
+    "row": 89,
+    "id": "savetophotos",
+    "hu": "Mentés a\\nFotók közé"
+  },
+  {
+    "row": 90,
+    "id": "savetofavorites",
+    "hu": "Mentés a kedvencek közé"
+  },
+  {
+    "row": 91,
+    "id": "nameofviewsaved",
+    "hu": "mentve."
+  },
+  {
+    "row": 92,
+    "id": "atlas",
+    "hu": "Atlasz"
+  },
+  {
+    "row": 93,
+    "id": "colormode",
+    "hu": "Színmód"
+  },
+  {
+    "row": 94,
+    "id": "more",
+    "hu": "Továbbiak"
+  },
+  {
+    "row": 95,
+    "id": "screenshot",
+    "hu": "Képernyőkép"
+  },
+  {
+    "row": 96,
+    "id": "addnote",
+    "hu": "Jegyzet hozzáadása"
+  },
+  {
+    "row": 97,
+    "id": "favorite",
+    "hu": "Kedvenc"
+  },
+  {
+    "row": 98,
+    "id": "undo",
+    "hu": "Visszavonás"
+  },
+  {
+    "row": 99,
+    "id": "refresh",
+    "hu": "Frissítés"
+  },
+  {
+    "row": 100,
+    "id": "redo",
+    "hu": "Újra"
+  },
+  {
+    "row": 101,
+    "id": "close",
+    "hu": "Bezárás"
+  },
+  {
+    "row": 102,
+    "id": "buy",
+    "hu": "Vásárlás"
+  },
+  {
+    "row": 103,
+    "id": "download",
+    "hu": "Letöltés"
+  },
+  {
+    "row": 104,
+    "id": "purchased",
+    "hu": "Megvásárolva"
+  },
+  {
+    "row": 105,
+    "id": "media",
+    "hu": "Média"
+  },
+  {
+    "row": 106,
+    "id": "bonesskeletal",
+    "hu": "Csontok és vázizmok"
+  },
+  {
+    "row": 107,
+    "id": "cellstissues",
+    "hu": "Sejtek és szövetek"
+  },
+  {
+    "row": 108,
+    "id": "respirationcirculation",
+    "hu": "Légzés és keringés"
+  },
+  {
+    "row": 109,
+    "id": "nutritionelimination",
+    "hu": "Táplálkozás és kiválasztás"
+  },
+  {
+    "row": 110,
+    "id": "systemoverviews",
+    "hu": "Rendszerek áttekintése"
+  },
+  {
+    "row": 111,
+    "id": "rcpathology",
+    "hu": "Légzőszervi és keringési kórképek"
+  },
+  {
+    "row": 112,
+    "id": "dupathology",
+    "hu": "Emésztőszervi és húgyúti kórképek"
+  },
+  {
+    "row": 113,
+    "id": "mbpathology",
+    "hu": "Izom- és csontbetegségek"
+  },
+  {
+    "row": 114,
+    "id": "attachments",
+    "hu": "Rögzülések"
+  },
+  {
+    "row": 115,
+    "id": "bloodsupply",
+    "hu": "Vérellátás"
+  },
+  {
+    "row": 116,
+    "id": "innervation",
+    "hu": "Beidegzés"
+  },
+  {
+    "row": 117,
+    "id": "details",
+    "hu": "Részletek"
+  },
+  {
+    "row": 118,
+    "id": "bloodsupplywithcolon",
+    "hu": "Vérellátás:"
+  },
+  {
+    "row": 119,
+    "id": "innervationwithcolon",
+    "hu": "Beidegzés:"
+  },
+  {
+    "row": 120,
+    "id": "detailswithcolon",
+    "hu": "Részletek:"
+  },
+  {
+    "row": 121,
+    "id": "quizquestion",
+    "hu": "Kérdés"
+  },
+  {
+    "row": 122,
+    "id": "quizof",
+    "hu": "/"
+  },
+  {
+    "row": 123,
+    "id": "quiztries_pre",
+    "hu": "Még"
+  },
+  {
+    "row": 124,
+    "id": "quiztries",
+    "hu": "próbálkozás maradt"
+  },
+  {
+    "row": 125,
+    "id": "quizincorrect",
+    "hu": "Helytelen"
+  },
+  {
+    "row": 126,
+    "id": "quizresults",
+    "hu": "Eredmények"
+  },
+  {
+    "row": 127,
+    "id": "quizyougot",
+    "hu": "Elért eredmény:"
+  },
+  {
+    "row": 128,
+    "id": "quizoutof",
+    "hu": "/"
+  },
+  {
+    "row": 129,
+    "id": "quizquestionscorrect",
+    "hu": "helyes válasz"
+  },
+  {
+    "row": 130,
+    "id": "quizcorrect",
+    "hu": "Helyes"
+  },
+  {
+    "row": 131,
+    "id": "skeletalquizzes",
+    "hu": "Csontrendszeri kvízek"
+  },
+  {
+    "row": 132,
+    "id": "nervousquizzes",
+    "hu": "Idegrendszeri kvízek"
+  },
+  {
+    "row": 133,
+    "id": "circulatoryquizzes",
+    "hu": "Keringési rendszeri kvízek"
+  },
+  {
+    "row": 134,
+    "id": "respiratoryquizzes",
+    "hu": "Légzőrendszeri kvízek"
+  },
+  {
+    "row": 135,
+    "id": "muscularquizzes",
+    "hu": "Izomrendszeri kvízek"
+  },
+  {
+    "row": 136,
+    "id": "digestivequizzes",
+    "hu": "Emésztőrendszeri kvízek"
+  },
+  {
+    "row": 137,
+    "id": "urinaryquizzes",
+    "hu": "Húgyúti kvízek"
+  },
+  {
+    "row": 138,
+    "id": "reproductivequizzes",
+    "hu": "Nemi szervrendszeri kvízek"
+  },
+  {
+    "row": 139,
+    "id": "insertion",
+    "hu": "Tapadás:"
+  },
+  {
+    "row": 140,
+    "id": "origin",
+    "hu": "Eredés:"
+  },
+  {
+    "row": 141,
+    "id": "softtissue",
+    "hu": "Lágyrész"
+  },
+  {
+    "row": 142,
+    "id": "select_structure",
+    "hu": "Jelöljön ki egy képletet"
+  },
+  {
+    "row": 143,
+    "id": "storeskeletal",
+    "hu": "Csontrendszer"
+  },
+  {
+    "row": 144,
+    "id": "storemuscles",
+    "hu": "Izmok"
+  },
+  {
+    "row": 145,
+    "id": "storeanimations",
+    "hu": "Animációk"
+  },
+  {
+    "row": 146,
+    "id": "asksavenotes",
+    "hu": "Menti a bezárás előtt?"
+  },
+  {
+    "row": 147,
+    "id": "originsandinsertions",
+    "hu": "Eredések és tapadások:"
+  },
+  {
+    "row": 148,
+    "id": "typetitlehere",
+    "hu": "Ide írja a címet"
+  },
+  {
+    "row": 149,
+    "id": "notestextboxtitle",
+    "hu": "Ide írja a szövegdoboz címét"
+  },
+  {
+    "row": 150,
+    "id": "notestypehere",
+    "hu": "Ide írja a jegyzeteket"
+  },
+  {
+    "row": 151,
+    "id": "notestaptoinsert",
+    "hu": "[Kattintson a cím beírásához]"
+  },
+  {
+    "row": 152,
+    "id": "notesdragplace",
+    "hu": "Húzással helyezze el a jegyzetet."
+  },
+  {
+    "row": 153,
+    "id": "notespinch",
+    "hu": "Csippentéssel méretezze át a jegyzetet."
+  },
+  {
+    "row": 154,
+    "id": "notesdragyellow",
+    "hu": "A sárga félkör húzásával hozzon létre jelölővonalat."
+  },
+  {
+    "row": 155,
+    "id": "screenshotsavedtophotos",
+    "hu": "A képernyőkép a Fotók közé került"
+  },
+  {
+    "row": 156,
+    "id": "favoritesaved",
+    "hu": "A kedvenc mentve."
+  },
+  {
+    "row": 157,
+    "id": "favoritesandnotecards",
+    "hu": "Kedvencek és jegyzetkártyák"
+  },
+  {
+    "row": 158,
+    "id": "addtofavorites",
+    "hu": "Hozzáadás a kedvencekhez"
+  },
+  {
+    "row": 159,
+    "id": "gotofavorites",
+    "hu": "Ugrás a kedvencekhez"
+  },
+  {
+    "row": 160,
+    "id": "noresults",
+    "hu": "Nincs találat"
+  },
+  {
+    "row": 161,
+    "id": "notecard",
+    "hu": "Jegyzetkártya"
+  },
+  {
+    "row": 162,
+    "id": "tipsystems1",
+    "hu": "Rendszerek hozzáadása és eltávolítása."
+  },
+  {
+    "row": 163,
+    "id": "tipsystems2",
+    "hu": "A panel megnyitása vagy bezárása."
+  },
+  {
+    "row": 164,
+    "id": "tipgender",
+    "hu": "Nem váltása."
+  },
+  {
+    "row": 165,
+    "id": "tipviewsetc",
+    "hu": "Nézetek, kedvencek, kvízek és animációk elérése."
+  },
+  {
+    "row": 166,
+    "id": "tipselect",
+    "hu": "Kattintson egy képlet kijelöléséhez."
+  },
+  {
+    "row": 167,
+    "id": "tipzoomcenter",
+    "hu": "Dupla kattintással nagyíthat és középre igazíthat."
+  },
+  {
+    "row": 168,
+    "id": "tiprotate",
+    "hu": "Kattintson és húzza az egeret a forgatáshoz."
+  },
+  {
+    "row": 169,
+    "id": "tipzoom",
+    "hu": "Az egérgörgővel állítsa be a nagyítást."
+  },
+  {
+    "row": 170,
+    "id": "tiphidefadedetails",
+    "hu": "Képletek elrejtése és halványítása. Részletek megnyitása."
+  },
+  {
+    "row": 171,
+    "id": "tipadd",
+    "hu": "Kapcsolódó képletek hozzáadása."
+  },
+  {
+    "row": 172,
+    "id": "tipundo",
+    "hu": "Műveletek visszavonása vagy\\na nézet frissítése."
+  },
+  {
+    "row": 173,
+    "id": "tipsave",
+    "hu": "Kedvencek mentése és megnyitása."
+  },
+  {
+    "row": 174,
+    "id": "tipshare",
+    "hu": "Nézet és képernyőkép megosztása."
+  },
+  {
+    "row": 175,
+    "id": "tipmulti",
+    "hu": "Több képlet elrejtése vagy halványítása."
+  },
+  {
+    "row": 176,
+    "id": "tipbrowseviews",
+    "hu": "Nézetek böngészése."
+  },
+  {
+    "row": 177,
+    "id": "tipfavorites",
+    "hu": "Kedvencek megnyitása."
+  },
+  {
+    "row": 178,
+    "id": "tipcloseviewsetc",
+    "hu": "Nézetek, kedvencek,\\nkvízek és animációk bezárása."
+  },
+  {
+    "row": 179,
+    "id": "tipswipebrowse",
+    "hu": "Lapozzon balra vagy jobbra a böngészéshez."
+  },
+  {
+    "row": 180,
+    "id": "tipeditname",
+    "hu": "Kattintson a név szerkesztéséhez."
+  },
+  {
+    "row": 181,
+    "id": "tipnoteicon",
+    "hu": "Az ezzel az ikonnal jelölt elemek jegyzetkártyák: csak megtekinthetők, nem szerkeszthetők."
+  },
+  {
+    "row": 182,
+    "id": "tipquizcategory",
+    "hu": "Válasszon kvízkategóriát."
+  },
+  {
+    "row": 183,
+    "id": "tipbrowseanimations",
+    "hu": "Az elérhető animációk böngészése."
+  },
+  {
+    "row": 184,
+    "id": "tipaddsystems1",
+    "hu": "Rendszerek hozzáadása és eltávolítása."
+  },
+  {
+    "row": 185,
+    "id": "tipaddsystems2",
+    "hu": "Érintse meg a kerék megjelenítéséhez vagy elrejtéséhez."
+  },
+  {
+    "row": 186,
+    "id": "tipeditorshare",
+    "hu": "Nézet szerkesztése vagy megosztása."
+  },
+  {
+    "row": 187,
+    "id": "tippan",
+    "hu": "A pásztázáshoz tartsa lenyomva az egérgörgő gombját."
+  },
+  {
+    "row": 188,
+    "id": "tiphidefade",
+    "hu": "Képletek elrejtése és halványítása."
+  },
+  {
+    "row": 189,
+    "id": "tipdetails",
+    "hu": "Részletek megnyitása."
+  },
+  {
+    "row": 190,
+    "id": "tipfadefadetap",
+    "hu": "Kattintson ide a halványításhoz vagy elrejtéshez."
+  },
+  {
+    "row": 191,
+    "id": "tipreturnsystems",
+    "hu": "Vissza a Rendszerek menübe."
+  },
+  {
+    "row": 192,
+    "id": "tipreturnquizzes",
+    "hu": "Vissza a Kvízek menübe."
+  },
+  {
+    "row": 193,
+    "id": "tipreturnmedia",
+    "hu": "Vissza a Média menübe."
+  },
+  {
+    "row": 194,
+    "id": "tiplearnmore",
+    "hu": "További tudnivalók az Atlas 7-ről >"
+  },
+  {
+    "row": 195,
+    "id": "tiptapreturn",
+    "hu": "Kattintson a nézethez való visszatéréshez."
+  },
+  {
+    "row": 196,
+    "id": "tipedit",
+    "hu": "Nézetek átnevezése vagy törlése."
+  },
+  {
+    "row": 197,
+    "id": "textbox_base",
+    "hu": "∙ Dupla kattintással írhat be jegyzetet.\\n∙ Kattintson és húzza az egeret a jegyzet elhelyezéséhez.\\n∙ A sárga félkört húzva hozzon létre jelölővonalat."
+  },
+  {
+    "row": 198,
+    "id": "textbox_title",
+    "hu": "[Dupla kattintás a cím beírásához]"
+  },
+  {
+    "row": 199,
+    "id": "back",
+    "hu": "Vissza"
+  },
+  {
+    "row": 200,
+    "id": "renamefavorite",
+    "hu": "Kedvenc átnevezése"
+  },
+  {
+    "row": 201,
+    "id": "alreadyfavorite",
+    "hu": "Már van ilyen nevű kedvence."
+  },
+  {
+    "row": 202,
+    "id": "deletefavorite",
+    "hu": "Biztosan törli ezt:"
+  },
+  {
+    "row": 203,
+    "id": "typefavorite",
+    "hu": "Írjon be egy nevet"
+  },
+  {
+    "row": 204,
+    "id": "questionmark",
+    "hu": "?"
+  },
+  {
+    "row": 205,
+    "id": "exclamationpoint",
+    "hu": "!"
+  },
+  {
+    "row": 206,
+    "id": "percentsign",
+    "hu": "%"
+  },
+  {
+    "row": 207,
+    "id": "no",
+    "hu": "Nem"
+  },
+  {
+    "row": 208,
+    "id": "yes",
+    "hu": "Igen"
+  },
+  {
+    "row": 209,
+    "id": "malesearch",
+    "hu": " (férfi)"
+  },
+  {
+    "row": 210,
+    "id": "femalesearch",
+    "hu": " (nő)"
+  },
+  {
+    "row": 211,
+    "id": "tools",
+    "hu": "Eszközök"
+  },
+  {
+    "row": 212,
+    "id": "enjoying",
+    "hu": "Tetszik a Visible Body Human Anatomy Atlas?"
+  },
+  {
+    "row": 213,
+    "id": "please_rate",
+    "hu": "Ha igen, kérjük, értékelje alkalmazásunkat az App Store-ban. Köszönjük a támogatását!"
+  },
+  {
+    "row": 214,
+    "id": "rate_it",
+    "hu": "Igen, értékelem!"
+  },
+  {
+    "row": 215,
+    "id": "remind_me",
+    "hu": "Emlékeztessen később"
+  },
+  {
+    "row": 216,
+    "id": "no_thanks",
+    "hu": "Nem, köszönöm"
+  },
+  {
+    "row": 217,
+    "id": "unable_photos_title",
+    "hu": "A képernyőkép nem menthető a Fotók közé"
+  },
+  {
+    "row": 218,
+    "id": "unable_photos_body",
+    "hu": "A funkció bekapcsolásához nyissa meg eszközén a Beállítások, majd az Adatvédelem és a Fotók menüpontot."
+  },
+  {
+    "row": 219,
+    "id": "choose_storage_option",
+    "hu": "Tárolási mód kiválasztása"
+  },
+  {
+    "row": 220,
+    "id": "icloud_all_devices",
+    "hu": "Az iCloudban tárolja a dokumentumokat, hogy minden eszközén elérhetők legyenek?"
+  },
+  {
+    "row": 221,
+    "id": "local_only",
+    "hu": "Csak helyben"
+  },
+  {
+    "row": 222,
+    "id": "use_icloud",
+    "hu": "iCloud használata"
+  },
+  {
+    "row": 223,
+    "id": "register_email",
+    "hu": "Regisztrálja e-mail-címét, hogy értesítéseket kapjon a frissítésekről és a folyamatos műszaki támogatásról!"
+  },
+  {
+    "row": 224,
+    "id": "register",
+    "hu": "Regisztráció"
+  },
+  {
+    "row": 225,
+    "id": "aboutthisapp",
+    "hu": "Az alkalmazás névjegye"
+  },
+  {
+    "row": 226,
+    "id": "ratethisapp",
+    "hu": "Alkalmazás értékelése"
+  },
+  {
+    "row": 227,
+    "id": "joystick",
+    "hu": "Botkormány"
+  },
+  {
+    "row": 228,
+    "id": "up-to-date",
+    "hu": "Az Ön verziója naprakész."
+  },
+  {
+    "row": 229,
+    "id": "out_of_sync",
+    "hu": "Az Ön verziója nincs szinkronban."
+  },
+  {
+    "row": 230,
+    "id": "savetopictures",
+    "hu": "Mentés a Képek közé"
+  },
+  {
+    "row": 231,
+    "id": "screenshot_saved_to_pictures",
+    "hu": "A képernyőkép a Képek közé került."
+  },
+  {
+    "row": 232,
+    "id": "head",
+    "hu": "Fej és nyak"
+  },
+  {
+    "row": 233,
+    "id": "shoulder",
+    "hu": "Vállöv"
+  },
+  {
+    "row": 234,
+    "id": "arms",
+    "hu": "Felső végtag"
+  },
+  {
+    "row": 235,
+    "id": "abdomen",
+    "hu": "Mellkas és has"
+  },
+  {
+    "row": 236,
+    "id": "back",
+    "hu": "Gerinc és hát"
+  },
+  {
+    "row": 237,
+    "id": "pelvis",
+    "hu": "Medenceöv"
+  },
+  {
+    "row": 238,
+    "id": "legs",
+    "hu": "Alsó végtag"
+  },
+  {
+    "row": 239,
+    "id": "learnmore",
+    "hu": "További tudnivalók"
+  },
+  {
+    "row": 240,
+    "id": "checkforupdates",
+    "hu": "Frissítések keresése"
+  }
+]

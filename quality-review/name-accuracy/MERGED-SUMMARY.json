@@ -1,0 +1,517 @@
+{
+  "accepted_terms": 2484,
+  "total_terms": 2484,
+  "missing_terms": 0,
+  "missing_ranges": [],
+  "outcomes": {
+    "evidence-supported-with-scope-limits": 1167,
+    "specialist-review-needed": 232,
+    "unresolved-identity-model-evidence-needed": 47,
+    "proposed-correction": 40,
+    "root-reviewed-no-citation": 998
+  },
+  "reject_count": 0,
+  "reject_reasons": {},
+  "proposed_corrections": [
+    {
+      "rank": 362,
+      "key": 358,
+      "current_hu": "CN 01 (I) Szaglóideg, oldalsó szaglócsík",
+      "proposed_hu": "CN 01 (I) Oldalsó szaglócsík",
+      "reason": "TA2 classifies the stria olfactoria as an olfactory stria, not the peripheral olfactory nerve itself; the current Szaglóideg prefix can imply the wrong structure class. Remove that prefix while retaining the source CN grouping and the stria qualifier; the medial/belső convention remains source-contextual, not internus equivalence.",
+      "evidence_refs": [
+        "ta5:L268-272",
+        "pte-list:L108-140"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 363,
+      "key": 359,
+      "current_hu": "CN 01 (I) Szaglóideg, belső szaglócsík",
+      "proposed_hu": "CN 01 (I) Belső szaglócsík",
+      "reason": "TA2 classifies the stria olfactoria as an olfactory stria, not the peripheral olfactory nerve itself; the current Szaglóideg prefix can imply the wrong structure class. Remove that prefix while retaining the source CN grouping and the stria qualifier; the medial/belső convention remains source-contextual, not internus equivalence.",
+      "evidence_refs": [
+        "ta5:L268-272",
+        "pte-list:L108-140"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 365,
+      "key": 385,
+      "current_hu": "CN 07 (VII) Hátsó fülkagylói ág",
+      "proposed_hu": "CN 07 (VII) Hátsó fülkagylóideg",
+      "reason": "TA2 names this structure Nervus auricularis posterior; the current generic ág is understandable as a facial-nerve branch but suppresses its standard named nerve designation. Use ideg to distinguish it from the auricular branch of that posterior auricular nerve.",
+      "evidence_refs": [
+        "ta5:L1571-1576",
+        "pte-list:L206-206"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 366,
+      "key": 390,
+      "current_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc ágai",
+      "proposed_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc alsó részének ágai",
+      "reason": "The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifying the model or replacing it with a TA2 nerve branch.",
+      "evidence_refs": [
+        "ta5:L1593-1600",
+        "ta5:L1613-1617",
+        "pte-cross:L3499-3504"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 367,
+      "key": 391,
+      "current_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc ágai",
+      "proposed_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc felső részének ágai",
+      "reason": "The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifying the model or replacing it with a TA2 nerve branch.",
+      "evidence_refs": [
+        "ta5:L1593-1600",
+        "ta5:L1613-1617",
+        "pte-cross:L3499-3504"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 368,
+      "key": 392,
+      "current_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc",
+      "proposed_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc alsó része",
+      "reason": "The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifying the model or replacing it with a TA2 nerve branch.",
+      "evidence_refs": [
+        "ta5:L1593-1600",
+        "ta5:L1613-1617",
+        "pte-cross:L3499-3504"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 369,
+      "key": 393,
+      "current_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc",
+      "proposed_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc felső része",
+      "reason": "The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifying the model or replacing it with a TA2 nerve branch.",
+      "evidence_refs": [
+        "ta5:L1593-1600",
+        "ta5:L1613-1617",
+        "pte-cross:L3499-3504"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 426,
+      "key": 747,
+      "current_hu": "Nagy szívvéna (elülső kamraközi véna)",
+      "proposed_hu": "Nagy szívvéna (elülső kamraközi szakasz)",
+      "reason": "TA2 lists the anterior interventricular vein beneath the great cardiac vein rather than as an unqualified synonym for its entire course. Specify that the parenthesis denotes the anterior interventricular segment, preserving the standard nagy szívvéna name without conflating part and whole.",
+      "evidence_refs": [
+        "ta4:L642-644",
+        "pte-cross:L1058-1062"
+      ],
+      "source": "lane-01/results.json"
+    },
+    {
+      "rank": 662,
+      "key": 1947,
+      "current_hu": "Feszítőinak felső leszorító szalagja",
+      "proposed_hu": "Feszítő inak felső leszorító szalagja",
+      "reason": "Word boundary; consistent with key 690.",
+      "evidence_refs": [
+        "systematic/systematic-findings.json",
+        "systematic/english-hu-findings.json"
+      ],
+      "source": "systematic/root-review-results.json"
+    },
+    {
+      "rank": 791,
+      "key": 179,
+      "current_hu": "Szegélysejtek",
+      "proposed_hu": "Határsejtek",
+      "reason": "The Hungarian academic source explicitly identifies inner border cells as belső határsejtek; határsejtek is preferable to the nonspecific szegélysejtek. The proposal does not add an unverified inner qualifier absent from the English heading.",
+      "evidence_refs": [
+        "lane03:cochlea:L429:3"
+      ],
+      "source": "lane-03/partial"
+    },
+    {
+      "rank": 811,
+      "key": 892,
+      "current_hu": "Belső ujjpercszerű támasztósejtek",
+      "proposed_hu": "Belső phalangeális sejtek",
+      "reason": "The Hungarian dissertation directly calls inner phalangeal cells belső phalangeális sejtek. Ujjpercszerű is a literal morphological gloss rather than the attested histological name.",
+      "evidence_refs": [
+        "lane03:cochlea:L301:2",
+        "lane03:cochlea:L429:3"
+      ],
+      "source": "lane-03/partial"
+    },
+    {
+      "rank": 833,
+      "key": 1402,
+      "current_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 1. sor)",
+      "proposed_hu": "Deiters-sejtek (1. sor)",
+      "reason": "The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name.",
+      "evidence_refs": [
+        "lane03:cochlea:L416:6",
+        "lane03:corti:L33:5"
+      ],
+      "source": "lane-03/partial"
+    },
+    {
+      "rank": 834,
+      "key": 1403,
+      "current_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 2. sor)",
+      "proposed_hu": "Deiters-sejtek (2. sor)",
+      "reason": "The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name.",
+      "evidence_refs": [
+        "lane03:cochlea:L416:6",
+        "lane03:corti:L33:5"
+      ],
+      "source": "lane-03/partial"
+    },
+    {
+      "rank": 835,
+      "key": 1404,
+      "current_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 3. sor)",
+      "proposed_hu": "Deiters-sejtek (3. sor)",
+      "reason": "The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name.",
+      "evidence_refs": [
+        "lane03:cochlea:L416:6",
+        "lane03:corti:L33:5"
+      ],
+      "source": "lane-03/partial"
+    },
+    {
+      "rank": 890,
+      "key": 311,
+      "current_hu": "Hasi (aorta előtti) nyirokcsomók",
+      "proposed_hu": "Hasüregi (aorta előtti) nyirokcsomók",
+      "reason": "Consistency: coeliacus is rendered \"hasüregi\" in keys 312/313/315; \"hasi\" is vaguer.",
+      "evidence_refs": [
+        "systematic/systematic-findings.json",
+        "systematic/english-hu-findings.json"
+      ],
+      "source": "systematic/root-review-results.json"
+    },
+    {
+      "rank": 910,
+      "key": 563,
+      "current_hu": "Háti lapockaér (a haránt lapockaér mély ága)",
+      "proposed_hu": "Háti lapockaér (a haránt nyaki ér mély ága)",
+      "reason": "Source parenthesis error: the dorsal scapular artery is the deep branch of the transverse cervical artery (a. transversa colli), not of the transverse scapular (suprascapular) artery; consistent with key 1920 superficial branch wording.",
+      "evidence_refs": [
+        "systematic/systematic-findings.json",
+        "systematic/english-hu-findings.json"
+      ],
+      "source": "systematic/root-review-results.json"
+    },
+    {
+      "rank": 990,
+      "key": 1480,
+      "current_hu": "Távoli rész (pars distalis)",
+      "proposed_hu": "Agyalapi mirigy elülső lebenye (pars distalis)",
+      "reason": "TA2 equates pars distalis hypophysis with the anterior lobe; távoli rész reads as an unqualified spatial description and omits the clinically recognizable hypophyseal identity. Use the named lobe while retaining pars distalis.",
+      "evidence_refs": [
+        "ta4:L46-48",
+        "pte-cross:L2396-2397"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1012,
+      "key": 1657,
+      "current_hu": "Gyomorkapu záróizma (billentyűje), elülső rész",
+      "proposed_hu": "Gyomorkapu záróizma, elülső rész",
+      "reason": "The source explicitly calls musculus sphincter pylori a záróizom; billentyű suggests a separate valve rather than the muscular pyloric sphincter. Remove the misleading synonym, preserving the atlas front-portion qualifier.",
+      "evidence_refs": [
+        "pte-cross:L1437-1439"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1021,
+      "key": 1714,
+      "current_hu": "Jobb nyirokvezeték (mellkasi)",
+      "proposed_hu": "Jobb nyirokvezeték",
+      "reason": "The right lymphatic duct is distinct from the thoracic duct; the parenthetical mellkasi invites their conflation. The supplied Latin identifies ductus lymphaticus dexter, so remove the misleading synonym.",
+      "evidence_refs": [
+        "pte-cross:L224-228",
+        "pte-list:L968-969"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1043,
+      "key": 1889,
+      "current_hu": "Borda alatti izom (legbelső bordaközi izom)",
+      "proposed_hu": "Borda alatti izom",
+      "reason": "TA2 lists the subcostal muscles separately from the innermost intercostal muscles; the parenthesis incorrectly makes them synonyms. Retain the supported subcostal muscle name only.",
+      "evidence_refs": [
+        "ta2:L3083-3085"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1056,
+      "key": 2256,
+      "current_hu": "Haránt mellkasizom (legbelső bordaközi izom)",
+      "proposed_hu": "Haránt mellkasizom",
+      "reason": "TA2 lists transversus thoracis separately from musculi intercostales intimi; the current parenthesis wrongly presents the muscle as synonymous with the innermost intercostal muscle.",
+      "evidence_refs": [
+        "ta2:L3083-3085"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1170,
+      "key": 690,
+      "current_hu": "Hajlítóinak leszorító szalagja",
+      "proposed_hu": "Hajlító inak leszorító szalagja (retinaculum flexorum)",
+      "reason": "Hajlítóinak is readily parsed as a possessive form rather than hajlító inak (flexor tendons), making this a concrete Hungarian word-boundary/clarity defect. Separate the words and retain the established retinaculum term.",
+      "evidence_refs": [
+        "szeged-essential:L1776-1781",
+        "pte-list:L509-510"
+      ],
+      "source": "lane-04/results.json"
+    },
+    {
+      "rank": 1208,
+      "key": 980,
+      "current_hu": "Nyaki és arci vénák találkozásának nyirokcsomói",
+      "proposed_hu": "Torkolati és arci véna találkozásának nyirokcsomói",
+      "reason": "The source name specifies a jugular–facial venous junction, whereas nyaki vénák denotes neck veins generally. The academic jugular equivalent torkolati makes the Hungarian relation more anatomically specific without choosing internal/external jugular identity absent model evidence.",
+      "evidence_refs": [
+        "hu-jugular",
+        "hu-facial",
+        "hu-lymph"
+      ],
+      "source": "lane-05/results.json"
+    },
+    {
+      "rank": 1235,
+      "key": 1193,
+      "current_hu": "Férfi hajzat",
+      "proposed_hu": "Férfi szőrzet",
+      "reason": "The Hungarian academic source distinguishes scalp haj from male body szőrzet, while the English label refers broadly to skin hair. Hajzat unnecessarily restricts the label to scalp hair; szőrzet preserves the wider integumentary meaning without guessing a particular hair mesh.",
+      "evidence_refs": [
+        "hu-male-hair",
+        "hu-hair"
+      ],
+      "source": "lane-05/results.json"
+    },
+    {
+      "rank": 1384,
+      "key": 7,
+      "current_hu": "Járulékos vena cephalica",
+      "proposed_hu": "Járulékos fejvéna",
+      "reason": "Consistency with key 323 \"Fejvéna (vena cephalica)\".",
+      "evidence_refs": [
+        "systematic/systematic-findings.json",
+        "systematic/english-hu-findings.json"
+      ],
+      "source": "systematic/root-review-results.json"
+    },
+    {
+      "rank": 1910,
+      "key": 1179,
+      "current_hu": "Ágyéki ér, összeköttetés a felszálló ágyéki érrel",
+      "proposed_hu": "Ágyéki véna, összeköttetés a felszálló ágyéki vénával",
+      "reason": "The sole occurrence is a lumbar venous connection; the generic ér unnecessarily loses the established véna specificity in both the lumbar and ascending lumbar names. This is a terminology precision proposal, not a newly inferred model connection.",
+      "evidence_refs": [
+        "ta4:L2100-2100",
+        "ta4:L1729-1729",
+        "ta4:L1762-1762",
+        "pte-list:L704-706"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 1955,
+      "key": 1294,
+      "current_hu": "Középső agyi ér",
+      "proposed_hu": "Középső agyi artéria",
+      "reason": "The Hungarian academic source directly attests középső agyi artéria, while the current generic ér omits the standard vessel-class head from this unambiguously arterial key. Use the attested full name without claiming new mesh identity.",
+      "evidence_refs": [
+        "ta4:L1266-1268",
+        "pte-list:L853-853"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 1958,
+      "key": 1298,
+      "current_hu": "Középső oldalsó ér",
+      "proposed_hu": "Középső kollaterális artéria",
+      "reason": "TA2 names this the middle collateral artery; oldalsó ér is both nonspecific and liable to suggest a lateral rather than collateral relationship. The standard medical loan kollaterális plus artéria retains that named vessel identity more precisely.",
+      "evidence_refs": [
+        "ta4:L1510-1512",
+        "pte-list:L701-702",
+        "pte-cross:L279-279"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 1962,
+      "key": 1302,
+      "current_hu": "Középső térdi ér",
+      "proposed_hu": "Középső térdartéria",
+      "reason": "TA2 identifies arteria media genus, whereas térdi ér omits the standard arterial head. Középső térdartéria is the regular Hungarian anatomical compound retaining the named middle genicular artery rather than an unspecified vessel.",
+      "evidence_refs": [
+        "ta4:L1634-1634",
+        "pte-list:L701-702"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 1966,
+      "key": 1312,
+      "current_hu": "Középső pajzsmirigyi ér",
+      "proposed_hu": "Középső pajzsmirigyi véna",
+      "reason": "TA2 identifies the middle thyroid vein, and Hungarian véna is directly attested vessel terminology. Replacing the generic ér with véna gives the standard class-specific name for this unambiguously venous key.",
+      "evidence_refs": [
+        "ta4:L1835-1835",
+        "pte-list:L704-706",
+        "pte-list:L833-833"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 1980,
+      "key": 1341,
+      "current_hu": "Könny-orr vezeték",
+      "proposed_hu": "Könnyvezeték (ductus nasolacrimalis)",
+      "reason": "The university source directly names ductus nasolacrimalis as könnyvezeték; könny-orr vezeték is an awkward calque rather than that attested Hungarian head. Use the source-attested name with Latin retained to distinguish it from canaliculi.",
+      "evidence_refs": [
+        "ta5:L2575-2575",
+        "pte-cross:L2537-2537"
+      ],
+      "source": "lane-08/results.json"
+    },
+    {
+      "rank": 2139,
+      "key": 1667,
+      "current_hu": "Orsócsonti oldalsó ér",
+      "proposed_hu": "Orsócsonti kollaterális artéria",
+      "reason": "Collateralis is not lateralis; consistent with keys 1298/2288 and native A. collateralis radialis (artery on all rows).",
+      "evidence_refs": [
+        "systematic/systematic-findings.json",
+        "systematic/english-hu-findings.json"
+      ],
+      "source": "systematic/root-review-results.json"
+    },
+    {
+      "rank": 2274,
+      "key": 2007,
+      "current_hu": "Mellékvesei ér",
+      "proposed_hu": "Mellékvesevéna",
+      "reason": "Both occurrences have native V. suprarenalis and TA2 names the suprarenal vein; ér is only a generic vessel label. Mellékvesevéna uses the attested Hungarian organ and venous head noun to provide a specific standard structure name.",
+      "evidence_refs": [
+        "tf2:line:1725:count:3",
+        "pte-list:line:700:count:11",
+        "ta4:line:2108:count:1",
+        "ta4:line:2124:count:1"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2281,
+      "key": 2016,
+      "current_hu": "Legfelső bordaközi ér",
+      "proposed_hu": "Legfelső bordaközi artéria",
+      "reason": "TA2 explicitly names the highest intercostal artery, whereas the native A. intercostalis is broader and does not independently verify the highest branch. Replacing generic ér by the attested artéria head makes the Hungarian name anatomically specific without inventing a mesh identity.",
+      "evidence_refs": [
+        "ta4:line:1462:count:1",
+        "pte-list:line:558:count:3",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2336,
+      "key": 2211,
+      "current_hu": "Mellkas-vállcsúcsi ér, vállcsúcsi ág",
+      "proposed_hu": "Mellkas-vállcsúcsi artéria, vállcsúcsi ág",
+      "reason": "TA2 explicitly assigns this vállcsúcsi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific.",
+      "evidence_refs": [
+        "ta4:line:1480:count:11",
+        "pte-list:line:388:count:9",
+        "pte-list:line:555:count:2",
+        "pte-list:line:583:count:1",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2337,
+      "key": 2212,
+      "current_hu": "Mellkas-vállcsúcsi ér, deltaizmi ág",
+      "proposed_hu": "Mellkas-vállcsúcsi artéria, deltaizmi ág",
+      "reason": "TA2 explicitly assigns this deltaizmi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific.",
+      "evidence_refs": [
+        "ta4:line:1480:count:11",
+        "pte-list:line:388:count:9",
+        "pte-list:line:555:count:2",
+        "pte-list:line:583:count:1",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2338,
+      "key": 2213,
+      "current_hu": "Mellkas-vállcsúcsi ér, mellizmi ág",
+      "proposed_hu": "Mellkas-vállcsúcsi artéria, mellizmi ág",
+      "reason": "TA2 explicitly assigns this mellizmi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific.",
+      "evidence_refs": [
+        "ta4:line:1480:count:11",
+        "pte-list:line:388:count:9",
+        "pte-list:line:555:count:2",
+        "pte-list:line:583:count:1",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2381,
+      "key": 2288,
+      "current_hu": "Singcsonti oldalsó ér",
+      "proposed_hu": "Singcsonti kollaterális artéria",
+      "reason": "The native label is A. collateralis ulnaris; TA2 uses collateral ulnar arterial names, not a generic lateral vessel name. Singcsonti kollaterális artéria distinguishes collateral from lateralis and supplies the specific arterial head, without choosing a superior/inferior branch absent from this source label.",
+      "evidence_refs": [
+        "ta4:line:1514:count:3",
+        "pte-list:line:415:count:1",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2383,
+      "key": 2291,
+      "current_hu": "Visszahajló singcsonti ér",
+      "proposed_hu": "Visszahajló singcsonti artéria",
+      "reason": "TA2 explicitly names the ulnar recurrent artery; the current visszahajló singcsonti qualifier is a comprehensible recurrent-artery description, but ér leaves the named vessel generic. Artéria provides the specific standard vascular head without selecting an anterior/posterior subdivision.",
+      "evidence_refs": [
+        "ta4:line:1539:count:1",
+        "pte-list:line:415:count:1",
+        "pte-list:line:700:count:11"
+      ],
+      "source": "lane-10/partial"
+    },
+    {
+      "rank": 2397,
+      "key": 2318,
+      "current_hu": "Húgycsőnyílás",
+      "proposed_hu": "Külső húgycsőnyílás",
+      "reason": "The existing systematic findings flag omission of externum in this female native ostium urethrae externum row. TA2 explicitly distinguishes the external urethral orifice; adding külső to the attested húgycső head preserves the specific opening rather than an unspecified orifice.",
+      "evidence_refs": [
+        "pte-list:line:1077:count:11",
+        "pte-list:line:94:count:44",
+        "ta3:line:1099:count:2"
+      ],
+      "source": "lane-10/partial"
+    }
+  ]
+}

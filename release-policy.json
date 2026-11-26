@@ -1,0 +1,31 @@
+{
+  "release_allowed": true,
+  "deployment_allowed": false,
+  "status": "v1.0 community release for study use; not medically certified",
+  "required_scope": "All user-visible translatable text, not only menu and structure names",
+  "medical_accuracy": "Not certified. AI/source checks do not replace a medically qualified Hungarian anatomy reviewer.",
+  "required_gates": {
+    "full_text_inventory_completed": true,
+    "all_inventoried_text_translated": true,
+    "terminology_corrections_resolved": true,
+    "qualified_medical_review_completed": false,
+    "runtime_language_search_latin_verified": true,
+    "final_code_review_ship": true
+  },
+  "gate_evidence": {
+    "full_text_inventory_completed": "inventory_fulltext.py: 11,385 TextAsset fields; quality-review/boundaries/findings.json covers managed, serialized, image, audio and video boundaries.",
+    "all_inventoried_text_translated": "11,385/11,385 catalog fields, 241 UI rows, 4,643 name rows; 4 display-only managed UI literals. Not translated, disclosed in README: image-embedded branding/store text, audio pronunciations, videos, runtime-overwritten serialized defaults and developer-only strings.",
+    "terminology_corrections_resolved": "All 2,484 core names have a disposition (quality-review/name-accuracy/MERGED-RESULTS.json). 118 core corrections in corrections/draft-corrections.json; reviewer CSV triaged (REVIEWER-CSV-TRIAGE.json); 279 open questions shipped as NYITOTT-KERDESEK.csv with the current best name.",
+    "runtime_language_search_latin_verified": "2026-11-26 on the maintainer's Windows test machine, real Atlas 7.4.01: install magyar -> launch -> no exceptions (startup, search index and Latin ordering loaded); switch to latinos -> launch -> no exceptions; restore -> original SHA-256 verified (c2ea07cf..., f937abb2...). The first run found and fixed a real defect (self-closing <m /> crashed readStructuresList). On-screen text could not be tool-captured (remote capture returns a stale frame); user visual confirmation requested.",
+    "final_code_review_ship": "Root review of Install-Pack.ps1, pack_builder.py, variants.py, build_release.py and ManagedPatcher; unit tests and the Windows synthetic-fixture test (install, idempotence, variant switch, restore x2, corrupt-patch and unknown-file rejection) pass. Independent subagent review unavailable (provider usage limit)."
+  },
+  "waivers": {
+    "qualified_medical_review_completed": {
+      "waived_by": "project owner",
+      "date": "2026-11-26",
+      "reason": "Owner decision: the course professor accepts both Hungarian-style and Latin-style terminology; the classmate will not supply course notes; release as a study aid with README disclosure that it is not medically reviewed."
+    }
+  },
+  "preserve": ["Latin anatomical names", "identifiers", "quiz answer IDs", "joystick and other preferences", "activation and security settings"],
+  "media_scope": "Audio/video narration and text embedded in images are not translated and are disclosed as such."
+}

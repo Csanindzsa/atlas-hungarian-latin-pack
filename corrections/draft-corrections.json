@@ -1,0 +1,747 @@
+{
+  "status": "draft corrections; root-reviewed name-audit fixes included; not expert certification",
+  "terms": [
+    {
+      "key": 30,
+      "expected_hu": "Végbélnyílás csatornája",
+      "hu": "Végbélcsatorna (canalis analis)",
+      "basis": "quality-review/terminology-audit.json, key 30; standard anatomical name, not mesh reassignment"
+    },
+    {
+      "key": 567,
+      "expected_hu": "Lábhát artériája",
+      "hu": "Lábháti ér (dorsalis pedis)",
+      "basis": "Key is shared by artery and vein; canonical fallback must not say artery for both"
+    },
+    {
+      "key": 1656,
+      "expected_hu": "Köpeny (putamen)",
+      "hu": "Putamen",
+      "basis": "Retain the established anatomical proper name; remove ambiguous köpeny gloss without adding a disputed description"
+    },
+    {
+      "key": 2244,
+      "expected_hu": "Haránt nyaki ér",
+      "hu": "Haránt nyaki",
+      "basis": "Key is shared by artery and nerve; canonical fallback must be class-neutral | Superseded by reviewer CSV: Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Közös jelző; artériánál haránt nyaki artéria, idegnél haránt nyaki ideg. A két latin alak nem szinonima. TA2: általános latin–angol nevezéktani referen"
+    },
+    {
+      "key": 2297,
+      "expected_hu": "Singideg, felületes ág",
+      "hu": "Singcsonti, felületes ág",
+      "basis": "Key is shared by arterial and neural superficial branches | Superseded by reviewer CSV: Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Képletenként: a singcsonti artéria felületes ága / a singideg felületes ága; az artériás ág azonossága ellenőrizendő. TA2: általános latin–angol nevezé"
+    },
+    {
+      "key": 358,
+      "expected_hu": "CN 01 (I) Szaglóideg, oldalsó szaglócsík",
+      "hu": "CN 01 (I) Oldalsó szaglócsík",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. TA2 classifies the stria olfactoria as an olfactory stria, not the peripheral olfactory nerve itself; the current Szaglóideg prefix can imply the wrong structure class. Remove that prefix while retaining the source CN grouping and the stria qualifier; the medial/belső convention remains source-conte"
+    },
+    {
+      "key": 359,
+      "expected_hu": "CN 01 (I) Szaglóideg, belső szaglócsík",
+      "hu": "CN 01 (I) Belső szaglócsík",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. TA2 classifies the stria olfactoria as an olfactory stria, not the peripheral olfactory nerve itself; the current Szaglóideg prefix can imply the wrong structure class. Remove that prefix while retaining the source CN grouping and the stria qualifier; the medial/belső convention remains source-conte"
+    },
+    {
+      "key": 390,
+      "expected_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc ágai",
+      "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc alsó részének ágai",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifyi"
+    },
+    {
+      "key": 391,
+      "expected_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc ágai",
+      "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc felső részének ágai",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifyi"
+    },
+    {
+      "key": 392,
+      "expected_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc",
+      "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc alsó része",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifyi"
+    },
+    {
+      "key": 393,
+      "expected_hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc",
+      "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, az egyensúlyi dúc felső része",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. The Hungarian academic source identifies a single ganglion vestibulare, and the native label explicitly says pars inferior/superior, not a separate inferior/superior ganglion. Restore rész and specify the vestibular ganglion; this corrects the label relative to its recorded identity without certifyi"
+    },
+    {
+      "key": 747,
+      "expected_hu": "Nagy szívvéna (elülső kamraközi véna)",
+      "hu": "Nagy szívvéna (elülső kamraközi szakasz)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-01/results.json); root-reviewed. TA2 lists the anterior interventricular vein beneath the great cardiac vein rather than as an unqualified synonym for its entire course. Specify that the parenthesis denotes the anterior interventricular segment, preserving the standard nagy szívvéna name without conflating part and whole."
+    },
+    {
+      "key": 179,
+      "expected_hu": "Szegélysejtek",
+      "hu": "Határsejtek",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-03/partial); root-reviewed. The Hungarian academic source explicitly identifies inner border cells as belső határsejtek; határsejtek is preferable to the nonspecific szegélysejtek. The proposal does not add an unverified inner qualifier absent from the English heading."
+    },
+    {
+      "key": 892,
+      "expected_hu": "Belső ujjpercszerű támasztósejtek",
+      "hu": "Belső phalangeális sejtek",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-03/partial); root-reviewed. The Hungarian dissertation directly calls inner phalangeal cells belső phalangeális sejtek. Ujjpercszerű is a literal morphological gloss rather than the attested histological name."
+    },
+    {
+      "key": 1402,
+      "expected_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 1. sor)",
+      "hu": "Deiters-sejtek (1. sor)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-03/partial); root-reviewed. The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name."
+    },
+    {
+      "key": 1403,
+      "expected_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 2. sor)",
+      "hu": "Deiters-sejtek (2. sor)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-03/partial); root-reviewed. The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name."
+    },
+    {
+      "key": 1404,
+      "expected_hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 3. sor)",
+      "hu": "Deiters-sejtek (3. sor)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-03/partial); root-reviewed. The Hungarian cochlear sources use Deiters-sejtek for this supporting-cell population; ujjpercszerű is an unnecessary literal rendering rather than the attested histological name. Retaining the eponym and row number avoids introducing an unverified novel Hungarian cell name."
+    },
+    {
+      "key": 1657,
+      "expected_hu": "Gyomorkapu záróizma (billentyűje), elülső rész",
+      "hu": "Gyomorkapu záróizma, elülső rész",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-04/results.json); root-reviewed. The source explicitly calls musculus sphincter pylori a záróizom; billentyű suggests a separate valve rather than the muscular pyloric sphincter. Remove the misleading synonym, preserving the atlas front-portion qualifier."
+    },
+    {
+      "key": 1714,
+      "expected_hu": "Jobb nyirokvezeték (mellkasi)",
+      "hu": "Jobb nyirokvezeték",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-04/results.json); root-reviewed. The right lymphatic duct is distinct from the thoracic duct; the parenthetical mellkasi invites their conflation. The supplied Latin identifies ductus lymphaticus dexter, so remove the misleading synonym."
+    },
+    {
+      "key": 1889,
+      "expected_hu": "Borda alatti izom (legbelső bordaközi izom)",
+      "hu": "Borda alatti izom",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-04/results.json); root-reviewed. TA2 lists the subcostal muscles separately from the innermost intercostal muscles; the parenthesis incorrectly makes them synonyms. Retain the supported subcostal muscle name only."
+    },
+    {
+      "key": 2256,
+      "expected_hu": "Haránt mellkasizom (legbelső bordaközi izom)",
+      "hu": "Haránt mellkasizom",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-04/results.json); root-reviewed. TA2 lists transversus thoracis separately from musculi intercostales intimi; the current parenthesis wrongly presents the muscle as synonymous with the innermost intercostal muscle."
+    },
+    {
+      "key": 690,
+      "expected_hu": "Hajlítóinak leszorító szalagja",
+      "hu": "Hajlító inak leszorító szalagja (retinaculum flexorum)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-04/results.json); root-reviewed. Hajlítóinak is readily parsed as a possessive form rather than hajlító inak (flexor tendons), making this a concrete Hungarian word-boundary/clarity defect. Separate the words and retain the established retinaculum term."
+    },
+    {
+      "key": 980,
+      "expected_hu": "Nyaki és arci vénák találkozásának nyirokcsomói",
+      "hu": "Torkolati és arci véna találkozásának nyirokcsomói",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-05/results.json); root-reviewed. The source name specifies a jugular–facial venous junction, whereas nyaki vénák denotes neck veins generally. The academic jugular equivalent torkolati makes the Hungarian relation more anatomically specific without choosing internal/external jugular identity absent model evidence."
+    },
+    {
+      "key": 1193,
+      "expected_hu": "Férfi hajzat",
+      "hu": "Férfi szőrzet",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-05/results.json); root-reviewed. The Hungarian academic source distinguishes scalp haj from male body szőrzet, while the English label refers broadly to skin hair. Hajzat unnecessarily restricts the label to scalp hair; szőrzet preserves the wider integumentary meaning without guessing a particular hair mesh."
+    },
+    {
+      "key": 1179,
+      "expected_hu": "Ágyéki ér, összeköttetés a felszálló ágyéki érrel",
+      "hu": "Ágyéki véna, összeköttetés a felszálló ágyéki vénával",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. The sole occurrence is a lumbar venous connection; the generic ér unnecessarily loses the established véna specificity in both the lumbar and ascending lumbar names. This is a terminology precision proposal, not a newly inferred model connection."
+    },
+    {
+      "key": 1294,
+      "expected_hu": "Középső agyi ér",
+      "hu": "Középső agyi artéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. The Hungarian academic source directly attests középső agyi artéria, while the current generic ér omits the standard vessel-class head from this unambiguously arterial key. Use the attested full name without claiming new mesh identity."
+    },
+    {
+      "key": 1298,
+      "expected_hu": "Középső oldalsó ér",
+      "hu": "Középső kollaterális artéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. TA2 names this the middle collateral artery; oldalsó ér is both nonspecific and liable to suggest a lateral rather than collateral relationship. The standard medical loan kollaterális plus artéria retains that named vessel identity more precisely."
+    },
+    {
+      "key": 1302,
+      "expected_hu": "Középső térdi ér",
+      "hu": "Középső térdartéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. TA2 identifies arteria media genus, whereas térdi ér omits the standard arterial head. Középső térdartéria is the regular Hungarian anatomical compound retaining the named middle genicular artery rather than an unspecified vessel."
+    },
+    {
+      "key": 1312,
+      "expected_hu": "Középső pajzsmirigyi ér",
+      "hu": "Középső pajzsmirigyi véna",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. TA2 identifies the middle thyroid vein, and Hungarian véna is directly attested vessel terminology. Replacing the generic ér with véna gives the standard class-specific name for this unambiguously venous key."
+    },
+    {
+      "key": 1341,
+      "expected_hu": "Könny-orr vezeték",
+      "hu": "Könnyvezeték (ductus nasolacrimalis)",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-08/results.json); root-reviewed. The university source directly names ductus nasolacrimalis as könnyvezeték; könny-orr vezeték is an awkward calque rather than that attested Hungarian head. Use the source-attested name with Latin retained to distinguish it from canaliculi."
+    },
+    {
+      "key": 2007,
+      "expected_hu": "Mellékvesei ér",
+      "hu": "Mellékvesevéna",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. Both occurrences have native V. suprarenalis and TA2 names the suprarenal vein; ér is only a generic vessel label. Mellékvesevéna uses the attested Hungarian organ and venous head noun to provide a specific standard structure name."
+    },
+    {
+      "key": 2016,
+      "expected_hu": "Legfelső bordaközi ér",
+      "hu": "Legfelső bordaközi artéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. TA2 explicitly names the highest intercostal artery, whereas the native A. intercostalis is broader and does not independently verify the highest branch. Replacing generic ér by the attested artéria head makes the Hungarian name anatomically specific without inventing a mesh identity."
+    },
+    {
+      "key": 2211,
+      "expected_hu": "Mellkas-vállcsúcsi ér, vállcsúcsi ág",
+      "hu": "Mellkas-vállcsúcsi artéria, vállcsúcsi ág",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. TA2 explicitly assigns this vállcsúcsi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific."
+    },
+    {
+      "key": 2212,
+      "expected_hu": "Mellkas-vállcsúcsi ér, deltaizmi ág",
+      "hu": "Mellkas-vállcsúcsi artéria, deltaizmi ág",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. TA2 explicitly assigns this deltaizmi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific."
+    },
+    {
+      "key": 2213,
+      "expected_hu": "Mellkas-vállcsúcsi ér, mellizmi ág",
+      "hu": "Mellkas-vállcsúcsi artéria, mellizmi ág",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. TA2 explicitly assigns this mellizmi branch to arteria thoracoacromialis; the Hungarian regional/branch components are appropriate, but ér is an unnecessarily generic head for a known artery. Use artéria to make the structure name specific."
+    },
+    {
+      "key": 2288,
+      "expected_hu": "Singcsonti oldalsó ér",
+      "hu": "Singcsonti kollaterális artéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. The native label is A. collateralis ulnaris; TA2 uses collateral ulnar arterial names, not a generic lateral vessel name. Singcsonti kollaterális artéria distinguishes collateral from lateralis and supplies the specific arterial head, without choosing a superior/inferior branch absent from this sour"
+    },
+    {
+      "key": 2291,
+      "expected_hu": "Visszahajló singcsonti ér",
+      "hu": "Visszahajló singcsonti artéria",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. TA2 explicitly names the ulnar recurrent artery; the current visszahajló singcsonti qualifier is a comprehensible recurrent-artery description, but ér leaves the named vessel generic. Artéria provides the specific standard vascular head without selecting an anterior/posterior subdivision."
+    },
+    {
+      "key": 2318,
+      "expected_hu": "Húgycsőnyílás",
+      "hu": "Külső húgycsőnyílás",
+      "basis": "Name audit proposal (quality-review/name-accuracy/MERGED-RESULTS.json, source lane-10/partial); root-reviewed. The existing systematic findings flag omission of externum in this female native ostium urethrae externum row. TA2 explicitly distinguishes the external urethral orifice; adding külső to the attested húgycső head preserves the specific opening rather than an unspecified orifice."
+    },
+    {
+      "key": 618,
+      "expected_hu": "Feszítőinak leszorító szalagja",
+      "hu": "Feszítő inak leszorító szalagja",
+      "basis": "Root review (subagents unavailable): Word boundary: consistent with key 690 (separate \"feszítő inak\" so it is not read as a possessive form)."
+    },
+    {
+      "key": 689,
+      "expected_hu": "Hajlítóinak leszorító szalagja (csukló)",
+      "hu": "Hajlító inak leszorító szalagja (csukló)",
+      "basis": "Root review (subagents unavailable): Word boundary; consistent with key 690."
+    },
+    {
+      "key": 842,
+      "expected_hu": "Feszítőinak alsó leszorító szalagja",
+      "hu": "Feszítő inak alsó leszorító szalagja",
+      "basis": "Root review (subagents unavailable): Word boundary; consistent with key 690."
+    },
+    {
+      "key": 1947,
+      "expected_hu": "Feszítőinak felső leszorító szalagja",
+      "hu": "Feszítő inak felső leszorító szalagja",
+      "basis": "Root review (subagents unavailable): Word boundary; consistent with key 690."
+    },
+    {
+      "key": 311,
+      "expected_hu": "Hasi (aorta előtti) nyirokcsomók",
+      "hu": "Hasüregi (aorta előtti) nyirokcsomók",
+      "basis": "Root review (subagents unavailable): Consistency: coeliacus is rendered \"hasüregi\" in keys 312/313/315; \"hasi\" is vaguer."
+    },
+    {
+      "key": 563,
+      "expected_hu": "Háti lapockaér (a haránt lapockaér mély ága)",
+      "hu": "Háti lapockaér (a haránt nyaki ér mély ága)",
+      "basis": "Root review (subagents unavailable): Source parenthesis error: the dorsal scapular artery is the deep branch of the transverse cervical artery (a. transversa colli), not of the transverse scapular (suprascapular) artery; consistent with key 1920 superficial branch wording."
+    },
+    {
+      "key": 7,
+      "expected_hu": "Járulékos vena cephalica",
+      "hu": "Járulékos fejvéna",
+      "basis": "Root review (subagents unavailable): Consistency with key 323 \"Fejvéna (vena cephalica)\"."
+    },
+    {
+      "key": 1667,
+      "expected_hu": "Orsócsonti oldalsó ér",
+      "hu": "Orsócsonti kollaterális artéria",
+      "basis": "Root review (subagents unavailable): Collateralis is not lateralis; consistent with keys 1298/2288 and native A. collateralis radialis (artery on all rows)."
+    },
+    {
+      "key": 642,
+      "expected_hu": "Arci (facialis)",
+      "hu": "Arci",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Képletenként arci artéria/véna; az @ jelölés jelentése nem ellenőrizhető. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szer"
+    },
+    {
+      "key": 845,
+      "expected_hu": "Alsó fari (gluteus inferior)",
+      "hu": "Alsó fari",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Képletenként alsó fari artéria/véna/ideg. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forr"
+    },
+    {
+      "key": 1375,
+      "expected_hu": "Nyakszirti (occipitalis)",
+      "hu": "Nyakszirti",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Közös jelző; nyakszirtcsont, nyakszirti artéria/véna képletenként. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői"
+    },
+    {
+      "key": 1671,
+      "expected_hu": "Orsócsonti (radialis)",
+      "hu": "Orsócsonti",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Képletenként orsócsonti artéria/véna; a dummy csoport külön ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak sze"
+    },
+    {
+      "key": 1950,
+      "expected_hu": "Felső fari (gluteus superior)",
+      "hu": "Felső fari",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Képletenként felső fari artéria/véna/ideg. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön for"
+    },
+    {
+      "key": 35,
+      "expected_hu": "Szögleti ér (angularis)",
+      "hu": "Szögleti ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A szögleti artéria és véna külön képlet; az @ jelölés nem ellenőrizhető. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerk"
+    },
+    {
+      "key": 349,
+      "expected_hu": "Elülső felkarkörüli ér",
+      "hu": "Elülső felkarcsont körüli ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 350,
+      "expected_hu": "Hátsó felkarkörüli ér",
+      "hu": "Hátsó felkarcsont körüli ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 351,
+      "expected_hu": "Lapockakörüli ér",
+      "hu": "Lapocka körüli ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1921,
+      "expected_hu": "Felületes csípőkörüli ér",
+      "hu": "Felületes csípőcsont körüli ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 823,
+      "expected_hu": "Csípő-ágyéki ér",
+      "hu": "Csípőcsont–ágyéki ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 742,
+      "expected_hu": "Ivarmirigyi ér (herei, belső ondóér)",
+      "hu": "Hereér (gonadális ér)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A Semmelweis tananyag férfiban a gonadális artériát a. testicularisként azonosítja; az eredeti történeti alias nem önállóan igazolt. Forrás: https://it"
+    },
+    {
+      "key": 841,
+      "expected_hu": "Alsó gyomortáji ér",
+      "hu": "Alsó epigasztriális (hasfali) ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Hasfali ér, nem gyomorér; magyar magyarázó jelző, nem teljes magyar névként forrásolt. TA2: általános latin–angol nevezéktani referencia; a konkrét mag"
+    },
+    {
+      "key": 1946,
+      "expected_hu": "Felső gyomortáji ér",
+      "hu": "Felső epigasztriális (hasfali) ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Hasfali ér, nem gyomorér; magyar magyarázó jelző, nem teljes magyar névként forrásolt. TA2: általános latin–angol nevezéktani referencia; a konkrét mag"
+    },
+    {
+      "key": 1923,
+      "expected_hu": "Felületes gyomortáji ér",
+      "hu": "Felületes epigasztriális (hasfali) ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Felületes hasfali ér, nem gyomorér; magyar magyarázó jelző. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javasl"
+    },
+    {
+      "key": 932,
+      "expected_hu": "Belső szeméremi (pudendus internus)",
+      "hu": "Belső szeméremér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1146,
+      "expected_hu": "Nyelvi (lingualis)",
+      "hu": "Nyelvi ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1890,
+      "expected_hu": "Borda alatti (subcostalis) [12]",
+      "hu": "Borda alatti ér [12]",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1909,
+      "expected_hu": "Lapocka alatti (subscapularis)",
+      "hu": "Lapocka alatti ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 2009,
+      "expected_hu": "Lapocka feletti (suprascapularis)",
+      "hu": "Lapocka feletti ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1222,
+      "expected_hu": "Széli (marginalis)",
+      "hu": "Vastagbél széli ere",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 664,
+      "expected_hu": "Szárkapcsi (fibularis, peroneus)",
+      "hu": "Szárkapocscsonti",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1262,
+      "expected_hu": "Középső keresztcsonti ér",
+      "hu": "Középvonali keresztcsonti ér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 67,
+      "expected_hu": "Elülső csontközi (interosseus anterior)",
+      "hu": "Elülső csontközi (alkar)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Artéria: elülső csontközi artéria; ideg: az alkar elülső csontközi idege. Közös címke. TA2: általános latin–angol nevezéktani referencia; a konkrét mag"
+    },
+    {
+      "key": 96,
+      "expected_hu": "Csúcsi (belső, kulcscsont alatti) nyirokcsomók",
+      "hu": "Csúcsi hónalji nyirokcsomók",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A latin apicalis alapján; az infraclavicularis és medialis parentézis nem bizonyított szinonima. TA2: általános latin–angol nevezéktani referencia; a k"
+    },
+    {
+      "key": 2393,
+      "expected_hu": "(IV) Máj, belső szegmentum (felső alszegmentum)",
+      "hu": "(IV) Máj, bal mediális szegmentum (felső alszegmentum)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. IVa valószínű a felső alszegmentum esetén, de az eredeti (IV) jelölést változatlanul hagytam. TA2: általános latin–angol nevezéktani referencia; a konk"
+    },
+    {
+      "key": 2394,
+      "expected_hu": "(IVb) Máj, belső szegmentum (alsó alszegmentum, a négyszögű lebenyt is beleértve)",
+      "hu": "(IVb) Máj, bal mediális szegmentum (alsó alszegmentum, a négyszögletű lebenyt is beleértve)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A bal mediális szegmentumot pontosítja; a négyszögletű lebeny befoglalása az eredeti állítás. TA2: általános latin–angol nevezéktani referencia; a konk"
+    },
+    {
+      "key": 1571,
+      "expected_hu": "Hátsó bolygóidegi ág a kisgörbülethez",
+      "hu": "Hátsó bolygóidegi ág a gyomor kisgörbületéhez",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1949,
+      "expected_hu": "Felső vállízületi szalag",
+      "hu": "Felső glenohumerális szalag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1965,
+      "expected_hu": "Felső bélfodri fonat ágai",
+      "hu": "A felső bélfodri idegfonat ágai",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 27,
+      "expected_hu": "Hátsó félkörös ívjárat ampullája",
+      "hu": "A hátsó félkörös ívjárat csontos ampullája",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 28,
+      "expected_hu": "Felső félkörös ívjárat ampullája",
+      "hu": "A felső félkörös ívjárat csontos ampullája",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 734,
+      "expected_hu": "Halvány gömb, külső rész",
+      "hu": "A globus pallidus külső része (GPe)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A magyar egyetemi szöveg globus pallidus külső részét említi; GPe/GPi megkülönböztetés. Forrás: https://itc-old.semmelweis.hu/moodle/mod/page/view.php?id"
+    },
+    {
+      "key": 735,
+      "expected_hu": "Halvány gömb, belső rész",
+      "hu": "A globus pallidus belső része (GPi)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A latin név megtartása biztosítja az egyértelműséget; a mediális rész GPi. Forrás: https://itc-old.semmelweis.hu/moodle/mod/page/view.php?id=5614"
+    },
+    {
+      "key": 1538,
+      "expected_hu": "Hátsó sugárartériák",
+      "hu": "Hátsó ciliáris artériák",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1316,
+      "expected_hu": "Kéthegyű billentyű, elülső összeköttetés",
+      "hu": "Mitrális billentyű, elülső komisszúra",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A tananyag commissurát használ, és a két mitrális commissurát anterolateralis/posteromedialis helyzetűnek írja le; az eredeti anterior jelölés megőrzendő"
+    },
+    {
+      "key": 1319,
+      "expected_hu": "Kéthegyű billentyű, hátsó összeköttetés",
+      "hu": "Mitrális billentyű, hátsó komisszúra",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A tananyag commissurát használ; az eredeti posterior jelölés megőrzendő. Forrás: https://itc-old.semmelweis.hu/moodle/mod/page/view.php?forceview=1&id=57"
+    },
+    {
+      "key": 2269,
+      "expected_hu": "Háromhegyű billentyű, összeköttetés",
+      "hu": "Háromhegyű billentyű, komisszúra",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A forrás a billentyűvitorlák közötti commissura szakkifejezést igazolja; a tricuspidalis konkrét helyzetet nem. Forrás: https://itc-old.semmelweis.hu/moo"
+    },
+    {
+      "key": 1423,
+      "expected_hu": "Tenyéri ujjágak (digitales palmares)",
+      "hu": "Tenyéri ujjvéna",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1520,
+      "expected_hu": "Talpi ujjágak (digitales plantares)",
+      "hu": "Talpi ujjvéna",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1913,
+      "expected_hu": "Felületes (háti) ujjágak (digitales dorsales)",
+      "hu": "Felületes (háti) ujjvéna",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1441,
+      "expected_hu": "Repkényszerű vénás fonat (plexus pampiniformis)",
+      "hu": "Plexus pampiniformis (herei vénás fonat)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A magyar egyetemi szöveg a latin nevet használja és herei vénás fonatként írja le. Forrás: https://itc-old.semmelweis.hu/moodle/mod/page/view.php?id=5932"
+    },
+    {
+      "key": 1875,
+      "expected_hu": "Eres csík (stria vascularis)",
+      "hu": "Stria vascularis",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. A latin név megtartása elkerüli a nem igazolt magyar tükörfordítást. Forrás: https://www.cochlea.uni-tuebingen.de/ungarisch/glossary_hu.htm"
+    },
+    {
+      "key": 203,
+      "expected_hu": "Szemvénák ágai",
+      "hu": "A szemüregi vénák ágai",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 605,
+      "expected_hu": "Mimika",
+      "hu": "Mimikai izmok",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 34,
+      "expected_hu": "Kampóizom",
+      "hu": "Könyökizom (m. anconeus)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A magyar egészségügyi cikk könyökizom alakot használ; nem hivatalos magyar nevezéktani norma. Forrás: https://www.webbeteg.hu/cikkek/gyogytorna/15151/tes"
+    },
+    {
+      "key": 37,
+      "expected_hu": "Végbél–farkcsonti szalag",
+      "hu": "Végbélnyílás–farkcsonti szalag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 494,
+      "expected_hu": "Mély fültőmirigyi (fül előtti) nyirokcsomók",
+      "hu": "Mély fültőmirigyi nyirokcsomók",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A latin mély parotiscsomókat jelöl; a fül előtti csoport nem automatikus szinonima. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar"
+    },
+    {
+      "key": 524,
+      "expected_hu": "Kéthasú izom rostos hurka",
+      "hu": "A kéthasú izom rostos rögzítőhurka",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 720,
+      "expected_hu": "Gyomri (gyomorszáj körüli) nyirokcsomók",
+      "hu": "Gyomri nyirokcsomók (gyomorszáj körüli csoport)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A cardialis csoport a gyomri csomók alcsoportja; az atlasz által kiválasztott kör ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a k"
+    },
+    {
+      "key": 979,
+      "expected_hu": "Torkolati-kéthasú izmi nyirokcsomó",
+      "hu": "Jugulodigastricus (Küttner-féle) nyirokcsomó",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A magyar orvosi adattár a latin elnevezést használja; az eponima a fájlban is szerepel. Forrás: https://www.pharmindex-online.hu/adattarak/orvosi-kifejez"
+    },
+    {
+      "key": 981,
+      "expected_hu": "Torkolati-lapocka-nyelvcsonti nyirokcsomó",
+      "hu": "Juguloomohyoideus nyirokcsomó",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FORRÁSSAL TÁMOGATOTT – terminológiai javaslat. A magyar orvosi adattár latin elnevezést és mély nyaki elhelyezkedést ad. Forrás: https://www.pharmindex-online.hu/adattarak/orvosi-kifejezesek?p=303"
+    },
+    {
+      "key": 2331,
+      "expected_hu": "Méhszarv",
+      "hu": "Méhszarv (cornu uteri)",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A cornu uteri szoros fordítása; emberi anatómiai leírásban a tubasarok lehet kontextuális szinonima. TA2: általános latin–angol nevezéktani referencia;"
+    },
+    {
+      "key": 568,
+      "expected_hu": "Háti-belső mag",
+      "hu": "Dorzomediális mag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Irányjelző; ha hipotalamusz, a hipotalamusz dorzomediális magja. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői j"
+    },
+    {
+      "key": 2353,
+      "expected_hu": "Hasi-belső mag",
+      "hu": "Ventromediális mag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. Irányjelző; ha hipotalamusz, a hipotalamusz ventromediális magja. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői "
+    },
+    {
+      "key": 543,
+      "expected_hu": "Hipotalamusz háti területe",
+      "hu": "Hipotalamusz dorzális területe",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1074,
+      "expected_hu": "Oldalsó preoptikus mag",
+      "hu": "Laterális preoptikus mag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 1253,
+      "expected_hu": "Belső preoptikus mag",
+      "hu": "Mediális preoptikus mag",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 847,
+      "expected_hu": "Alsó agyalapi mirigyi ér",
+      "hu": "Alsó hipofízisér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 1952,
+      "expected_hu": "Felső agyalapi mirigyi ér",
+      "hu": "Felső hipofízisér",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://if"
+    },
+    {
+      "key": 649,
+      "expected_hu": "Női hajzat",
+      "hu": "Női szőrzet",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: FELTÉTELES – magyar címke, modell ellenőrizendő. A skin hair szőrzet, nem szükségképpen hajzat; ha csak fejbőr, női hajzat. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak sze"
+    },
+    {
+      "key": 128,
+      "expected_hu": "Fülkagyló, ellenléc redője",
+      "hu": "Fülkagyló, ellenléc (antihelix) redője",
+      "basis": "Reviewer CSV (SPECIALIST-REVIEW-CORRECTED.received.csv), root-triaged: JAVASOLT – leíró fordítás. TA2: általános latin–angol nevezéktani referencia; a konkrét magyar alak szerkesztői javaslat, nem külön forrásolt teljes kifejezés. Forrás: https://ifaa.net/committees/anat"
+    },
+    {
+      "key": 26,
+      "expected_hu": "Oldalsó félkörös ívjárat ampullája",
+      "hu": "Az oldalsó félkörös ívjárat csontos ampullája",
+      "basis": "Reviewer proposal adapted: keep \"oldalsó\" house convention; \"csontos\" (ampulla ossea) accepted."
+    },
+    {
+      "key": 2292,
+      "expected_hu": "Hátsó visszahajló singcsonti ér",
+      "hu": "Hátsó visszahajló singcsonti véna",
+      "basis": "Reviewer proposal adapted: vein type accepted (all rows V. recurrens ulnaris posterior); keep \"visszahajló\" convention."
+    },
+    {
+      "key": 347,
+      "expected_hu": "Oldalsó combkörüli ér",
+      "hu": "Oldalsó combcsont körüli ér",
+      "basis": "Reviewer proposal adapted: \"combcsont körüli\" (circumflexa femoris) accepted; keep \"oldalsó\" convention."
+    },
+    {
+      "key": 348,
+      "expected_hu": "Belső combkörüli ér",
+      "hu": "Belső combcsont körüli ér",
+      "basis": "Reviewer proposal adapted: \"combcsont körüli\" accepted; keep \"belső\" convention."
+    },
+    {
+      "key": 891,
+      "expected_hu": "Belső szőrök",
+      "hu": "Belső szőrsejtek sztereocíliumai",
+      "basis": "Root re-verification: Native Latin \"Stereocilia\"; sibling key 890 is the hair cells themselves. \"szőrök\" (body hairs) was a misleading literal."
+    },
+    {
+      "key": 1399,
+      "expected_hu": "Külső szőrök (1. sor)",
+      "hu": "Külső szőrsejtek sztereocíliumai (1. sor)",
+      "basis": "Root re-verification: Native Latin \"Stereocilia\"; siblings 1396-1398 are the cells."
+    },
+    {
+      "key": 1400,
+      "expected_hu": "Külső szőrök (2. sor)",
+      "hu": "Külső szőrsejtek sztereocíliumai (2. sor)",
+      "basis": "Root re-verification: Same as 1399."
+    },
+    {
+      "key": 1401,
+      "expected_hu": "Külső szőrök (3. sor)",
+      "hu": "Külső szőrsejtek sztereocíliumai (3. sor)",
+      "basis": "Root re-verification: Same as 1399."
+    },
+    {
+      "key": 374,
+      "expected_hu": "CN 05 (V) Szemideg, sugáridegi ág",
+      "hu": "CN 05 (V) Szemideg, sugáridegi ág (n. nasociliaris)",
+      "basis": "Root re-verification: Native Latin is N. nasociliaris; Latin appended to remove ambiguity of the English \"ciliary branch\"."
+    },
+    {
+      "key": 2216,
+      "expected_hu": "Mellkas-gyomortáji véna",
+      "hu": "Mellkas-hasfali véna (v. thoracoepigastrica)",
+      "basis": "Root re-verification: Consistency with epigastric vessel names (841/1923/1946): abdominal-wall vessel, not a stomach vessel."
+    }
+  ],
+  "ui": [
+    {
+      "row": 100,
+      "id": "redo",
+      "expected_hu": "Újra",
+      "hu": "Ismételt végrehajtás",
+      "basis": "Disambiguate Redo from retry; runtime layout still needs testing"
+    }
+  ],
+  "unresolved": "All specialist-review items remain open, including original artery/vein, superior/inferior, neck/groin and nerve-ID conflicts. No disputed mesh or Latin mapping is corrected automatically.",
+  "rejected_name_proposals": [
+    {
+      "key": 385,
+      "reason": "Proposed \"fülkagylóideg\" is not standard; \"hátsó fülideg\" is the usual form but not source-verified here. Left for specialist review."
+    },
+    {
+      "key": 1480,
+      "reason": "Pars distalis is only part of the anterior lobe (with pars tuberalis/intermedia); equating it with the whole lobe is imprecise. Left for specialist review."
+    }
+  ],
+  "reverted": [
+    {
+      "key": 2012,
+      "reason": "Root re-verification: \"sodor\" is the accepted Hungarian term for trochlea (hu.wikipedia: Sodorideg = nervus trochlearis); the reviewer-CSV change was style only, reverted for consistency with keys 365/2015."
+    },
+    {
+      "key": 2014,
+      "reason": "Root re-verification: \"sodor\" is the accepted Hungarian term for trochlea (hu.wikipedia: Sodorideg = nervus trochlearis); the reviewer-CSV change was style only, reverted for consistency with keys 365/2015."
+    },
+    {
+      "key": 2275,
+      "reason": "Root re-verification: \"sodor\" is the accepted Hungarian term for trochlea (hu.wikipedia: Sodorideg = nervus trochlearis); the reviewer-CSV change was style only, reverted for consistency with keys 365/2015."
+    }
+  ]
+}

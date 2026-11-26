@@ -1,0 +1,43 @@
+# Whitelist: this repository is public. It holds only our own work (tooling, installer, Hungarian
+# anatomical names and UI, corrections, QA summaries). Never commit the Atlas application, its assets,
+# extracted English source text, decompiled code, third-party reference documents, or the Hungarian
+# translations of the long catalog texts (definitions, health texts, quizzes): those are tracked in
+# the separate private repository (sync-private-texts.sh copies them to ../pack-texts).
+/*
+!/.gitignore
+!/sync-private-texts.sh
+!/LICENSE
+!/README.md
+!/README.hu.md
+!/release-policy.json
+!/Install-Pack.ps1
+!/Install.cmd
+!/Restore.cmd
+!/structure_rows.json
+!/*.py
+!/ManagedPatcher/
+/ManagedPatcher/*
+!/ManagedPatcher/Program.cs
+!/ManagedPatcher/ManagedPatcher.csproj
+!/corrections/
+!/translations/
+/translations/*
+!/translations/terms_hu.json
+!/translations/ui_hu.json
+!/corrections/
+/corrections/fulltext-approved.json
+!/fulltext/
+/fulltext/*
+!/fulltext/TRANSLATOR-CONTRACT.md
+!/quality-review/
+/quality-review/*
+!/quality-review/reverify/
+/quality-review/reverify/*
+!/quality-review/reverify/*.py
+!/quality-review/name-accuracy/
+/quality-review/name-accuracy/*
+!/quality-review/name-accuracy/NYITOTT-KERDESEK.csv
+!/quality-review/name-accuracy/MERGED-SUMMARY.json
+!/quality-review/name-accuracy/REVIEWER-CSV-TRIAGE.json
+!/quality-review/name-accuracy/ACCELERATED-AUDIT-CONTRACT.md
+__pycache__/

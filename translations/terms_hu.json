@@ -1,0 +1,9938 @@
+[
+  {
+    "key": 0,
+    "hu": "Has"
+  },
+  {
+    "key": 1,
+    "hu": "Hasizmok"
+  },
+  {
+    "key": 2,
+    "hu": "Kisujjtávolító izom (láb)"
+  },
+  {
+    "key": 3,
+    "hu": "Kisujjtávolító izom (kéz)"
+  },
+  {
+    "key": 4,
+    "hu": "Öregujjtávolító izom"
+  },
+  {
+    "key": 5,
+    "hu": "Rövid hüvelykujjtávolító izom"
+  },
+  {
+    "key": 6,
+    "hu": "Hosszú hüvelykujjtávolító izom"
+  },
+  {
+    "key": 7,
+    "hu": "Járulékos vena cephalica"
+  },
+  {
+    "key": 8,
+    "hu": "Járulékos félpáratlan véna"
+  },
+  {
+    "key": 9,
+    "hu": "Járulékos nyirokér"
+  },
+  {
+    "key": 10,
+    "hu": "Járulékos agyhártyai ér"
+  },
+  {
+    "key": 11,
+    "hu": "Járulékos szervek"
+  },
+  {
+    "key": 12,
+    "hu": "Achilles-ín (sarokín, a háromfejű lábikraizom része)"
+  },
+  {
+    "key": 13,
+    "hu": "Vállcsúcs–kulcscsonti szalag"
+  },
+  {
+    "key": 14,
+    "hu": "Rövid combközelítő izom"
+  },
+  {
+    "key": 15,
+    "hu": "Öregujjközelítő izom (ferde fej)"
+  },
+  {
+    "key": 16,
+    "hu": "Öregujjközelítő izom (harántfej)"
+  },
+  {
+    "key": 17,
+    "hu": "Hosszú combközelítő izom"
+  },
+  {
+    "key": 18,
+    "hu": "Nagy combközelítő izom"
+  },
+  {
+    "key": 19,
+    "hu": "Hüvelykujjközelítő izom"
+  },
+  {
+    "key": 20,
+    "hu": "Közelítőizmok"
+  },
+  {
+    "key": 21,
+    "hu": "Agyalapi mirigy elülső lebenye (adenohypophysis)"
+  },
+  {
+    "key": 22,
+    "hu": "Mellékvesék"
+  },
+  {
+    "key": 23,
+    "hu": "Mellékvese"
+  },
+  {
+    "key": 24,
+    "hu": "Szárnyszalag"
+  },
+  {
+    "key": 25,
+    "hu": "Tápcsatorna (gyomor-bél rendszer)"
+  },
+  {
+    "key": 26,
+    "hu": "Oldalsó félkörös ívjárat ampullája"
+  },
+  {
+    "key": 27,
+    "hu": "Hátsó félkörös ívjárat ampullája"
+  },
+  {
+    "key": 28,
+    "hu": "Felső félkörös ívjárat ampullája"
+  },
+  {
+    "key": 29,
+    "hu": "Mandulamag (amygdala)"
+  },
+  {
+    "key": 30,
+    "hu": "Végbélnyílás csatornája"
+  },
+  {
+    "key": 31,
+    "hu": "Külső végbélzáró izom"
+  },
+  {
+    "key": 32,
+    "hu": "Belső végbélzáró izom"
+  },
+  {
+    "key": 33,
+    "hu": "Összeköttetés (felső bélfodri és alsó hasnyálmirigyi ér között)"
+  },
+  {
+    "key": 34,
+    "hu": "Kampóizom"
+  },
+  {
+    "key": 35,
+    "hu": "Szögleti ér (angularis)"
+  },
+  {
+    "key": 36,
+    "hu": "Orsócsont gyűrűszalagja"
+  },
+  {
+    "key": 37,
+    "hu": "Végbél–farkcsonti szalag"
+  },
+  {
+    "key": 38,
+    "hu": "Végbél–farkcsonti (anococcygeus)"
+  },
+  {
+    "key": 39,
+    "hu": "Nyaki ideghurok, a lapocka-nyelvcsonti izom felső hasához futó ág"
+  },
+  {
+    "key": 40,
+    "hu": "Nyaki ideghurok, a lapocka-nyelvcsonti izomhoz futó ág"
+  },
+  {
+    "key": 41,
+    "hu": "Nyaki ideghurok, a szegy-nyelvcsonti izomhoz futó ág"
+  },
+  {
+    "key": 42,
+    "hu": "Nyaki ideghurok, a szegy-pajzsporcizomhoz futó ág"
+  },
+  {
+    "key": 43,
+    "hu": "Nyaki ideghurok, alsó ág"
+  },
+  {
+    "key": 44,
+    "hu": "Nyaki ideghurok (ansa cervicalis)"
+  },
+  {
+    "key": 45,
+    "hu": "Nyaki ideghurok, felső ág"
+  },
+  {
+    "key": 46,
+    "hu": "Kulcscsont alatti ideghurok (ansa subclavia)"
+  },
+  {
+    "key": 47,
+    "hu": "Jobb kamra elülső artériája"
+  },
+  {
+    "key": 48,
+    "hu": "Elülső hónalji (mellkasi) nyirokcsomók"
+  },
+  {
+    "key": 49,
+    "hu": "Elülső hónalji (mellkasi) nyirokerek"
+  },
+  {
+    "key": 50,
+    "hu": "Jobb kamra elülső szívvénái"
+  },
+  {
+    "key": 51,
+    "hu": "Elülső agyi artéria (ACA) ágai"
+  },
+  {
+    "key": 52,
+    "hu": "Elülső agyi szakasz"
+  },
+  {
+    "key": 53,
+    "hu": "Elülső ereszték"
+  },
+  {
+    "key": 54,
+    "hu": "Elülső összekötő ér"
+  },
+  {
+    "key": 55,
+    "hu": "Elülső izomrekesz (lábszár)"
+  },
+  {
+    "key": 56,
+    "hu": "Elülső izomrekesz (comb)"
+  },
+  {
+    "key": 57,
+    "hu": "Elülső keresztszalag (ACL)"
+  },
+  {
+    "key": 58,
+    "hu": "Elülső mély nyaki (légcső melletti) nyirokcsomók"
+  },
+  {
+    "key": 59,
+    "hu": "Elülső mély nyaki (légcső előtti és pajzsmirigyi) nyirokcsomók"
+  },
+  {
+    "key": 60,
+    "hu": "Elülső mély nyaki nyirokcsomók"
+  },
+  {
+    "key": 61,
+    "hu": "Elülső mély halántéki ér"
+  },
+  {
+    "key": 62,
+    "hu": "Elülső osztódások"
+  },
+  {
+    "key": 63,
+    "hu": "Elülső köteg"
+  },
+  {
+    "key": 64,
+    "hu": "Elülső alsó kisagyi ér"
+  },
+  {
+    "key": 65,
+    "hu": "Elülső barlangközi öböl"
+  },
+  {
+    "key": 66,
+    "hu": "Elülső csomóközi köteg"
+  },
+  {
+    "key": 67,
+    "hu": "Elülső csontközi (interosseus anterior)"
+  },
+  {
+    "key": 68,
+    "hu": "Bal koszorúér elülső kamraközi (elülső leszálló) ága"
+  },
+  {
+    "key": 69,
+    "hu": "Elülső nyaki nyirokér"
+  },
+  {
+    "key": 70,
+    "hu": "Kalapács elülső szalagja"
+  },
+  {
+    "key": 71,
+    "hu": "Elülső hosszanti szalag"
+  },
+  {
+    "key": 72,
+    "hu": "Elülső agyhártyai ér"
+  },
+  {
+    "key": 73,
+    "hu": "Elülső mag (elülső hipotalamikus terület)"
+  },
+  {
+    "key": 74,
+    "hu": "Elülső keresztcsont–csípőcsonti szalag"
+  },
+  {
+    "key": 75,
+    "hu": "Elülső herezacskói ág (a csípő-lágyéki idegből)"
+  },
+  {
+    "key": 76,
+    "hu": "Elülső herezacskói (scrotalis anterior)"
+  },
+  {
+    "key": 77,
+    "hu": "Elülső felületes nyaki (elülső torkolati) nyirokcsomók"
+  },
+  {
+    "key": 78,
+    "hu": "Elülső felső fogmedri (alveolaris superior anterior)"
+  },
+  {
+    "key": 79,
+    "hu": "Elülső halántéki ág"
+  },
+  {
+    "key": 80,
+    "hu": "Talamusz elülső magja"
+  },
+  {
+    "key": 81,
+    "hu": "Elülső sípcsonti nyirokcsomó"
+  },
+  {
+    "key": 82,
+    "hu": "Elülső visszahajló sípcsonti ér"
+  },
+  {
+    "key": 83,
+    "hu": "Elülső sípcsonti (tibialis anterior)"
+  },
+  {
+    "key": 84,
+    "hu": "Elülső bolygóidegtörzs"
+  },
+  {
+    "key": 85,
+    "hu": "Elülső-oldalsó szalag (ALL)"
+  },
+  {
+    "key": 86,
+    "hu": "Elülső-belső homloki ág"
+  },
+  {
+    "key": 87,
+    "hu": "Aorta (kezdeti szakasz)"
+  },
+  {
+    "key": 88,
+    "hu": "Leszálló aorta (hasi szakasz)"
+  },
+  {
+    "key": 89,
+    "hu": "Leszálló aorta (mellkasi szakasz)"
+  },
+  {
+    "key": 90,
+    "hu": "Aortaív"
+  },
+  {
+    "key": 91,
+    "hu": "Aortabillentyű gyűrűje"
+  },
+  {
+    "key": 92,
+    "hu": "Aortabillentyű"
+  },
+  {
+    "key": 93,
+    "hu": "Aortabillentyű, bal félhold alakú tasak"
+  },
+  {
+    "key": 94,
+    "hu": "Aortabillentyű, hátsó félhold alakú tasak"
+  },
+  {
+    "key": 95,
+    "hu": "Aortabillentyű, jobb félhold alakú tasak"
+  },
+  {
+    "key": 96,
+    "hu": "Csúcsi (belső, kulcscsont alatti) nyirokcsomók"
+  },
+  {
+    "key": 97,
+    "hu": "Fognyúlvány csúcsszalagja"
+  },
+  {
+    "key": 98,
+    "hu": "Féregnyúlványi ér"
+  },
+  {
+    "key": 99,
+    "hu": "Féregnyúlvány (appendix vermiformis)"
+  },
+  {
+    "key": 100,
+    "hu": "Kisagyi életfa (arbor vitae)"
+  },
+  {
+    "key": 101,
+    "hu": "Ívelt mag (nucleus arcuatus)"
+  },
+  {
+    "key": 102,
+    "hu": "Ívelt (arcuatus)"
+  },
+  {
+    "key": 103,
+    "hu": "Kar"
+  },
+  {
+    "key": 104,
+    "hu": "Szőrmerevítő izom"
+  },
+  {
+    "key": 105,
+    "hu": "Artériák"
+  },
+  {
+    "key": 106,
+    "hu": "Központi barázda artériája"
+  },
+  {
+    "key": 107,
+    "hu": "Központ mögötti barázda artériája"
+  },
+  {
+    "key": 108,
+    "hu": "Központ előtti barázda artériája"
+  },
+  {
+    "key": 109,
+    "hu": "Hasnyálmirigy farkának artériája"
+  },
+  {
+    "key": 110,
+    "hu": "Ízületi tok (könyök)"
+  },
+  {
+    "key": 111,
+    "hu": "Térdízületi izom"
+  },
+  {
+    "key": 112,
+    "hu": "Gégefedő–kannaporci redő"
+  },
+  {
+    "key": 113,
+    "hu": "Gégefedő–kannaporci izom"
+  },
+  {
+    "key": 114,
+    "hu": "Kannaporc"
+  },
+  {
+    "key": 115,
+    "hu": "Felszálló vastagbél"
+  },
+  {
+    "key": 116,
+    "hu": "Felszálló vastagbél, hosszanti izomszalag (taenia coli)"
+  },
+  {
+    "key": 117,
+    "hu": "Felszálló ágyéki ér"
+  },
+  {
+    "key": 118,
+    "hu": "Fejgyám–forgócsigolya közötti szalagok"
+  },
+  {
+    "key": 119,
+    "hu": "Fejgyám–nyakszirti ízület tokja"
+  },
+  {
+    "key": 120,
+    "hu": "Fejgyám–nyakszirti szalagok"
+  },
+  {
+    "key": 121,
+    "hu": "Pitvari ág"
+  },
+  {
+    "key": 122,
+    "hu": "Pitvar-kamrai köteg (His-köteg)"
+  },
+  {
+    "key": 123,
+    "hu": "Pitvar-kamrai csomó"
+  },
+  {
+    "key": 124,
+    "hu": "Pitvar-kamrai billentyűk"
+  },
+  {
+    "key": 125,
+    "hu": "Hallószerv"
+  },
+  {
+    "key": 126,
+    "hu": "Hallócsontocskák"
+  },
+  {
+    "key": 127,
+    "hu": "Fülkagyló"
+  },
+  {
+    "key": 128,
+    "hu": "Fülkagyló, ellenléc redője"
+  },
+  {
+    "key": 129,
+    "hu": "Fülkagyló, ellenléc"
+  },
+  {
+    "key": 130,
+    "hu": "Fülkagyló, ellencsap"
+  },
+  {
+    "key": 131,
+    "hu": "Fülkagyló, kagylóüreg"
+  },
+  {
+    "key": 132,
+    "hu": "Fülkagyló, ellenléc szárai"
+  },
+  {
+    "key": 133,
+    "hu": "Fülkagyló, fülléc szára"
+  },
+  {
+    "key": 134,
+    "hu": "Fülkagyló, fülléc"
+  },
+  {
+    "key": 135,
+    "hu": "Fülkagyló, fülcimpa"
+  },
+  {
+    "key": 136,
+    "hu": "Fülkagyló, sajkaárok"
+  },
+  {
+    "key": 137,
+    "hu": "Fülkagyló, háromszögletű árok"
+  },
+  {
+    "key": 138,
+    "hu": "Fülkagylóporc"
+  },
+  {
+    "key": 139,
+    "hu": "Fülkagylói (auricularis)"
+  },
+  {
+    "key": 140,
+    "hu": "Elülső fülkagylóizom"
+  },
+  {
+    "key": 141,
+    "hu": "Hátsó fülkagylóizom"
+  },
+  {
+    "key": 142,
+    "hu": "Felső fülkagylóizom"
+  },
+  {
+    "key": 143,
+    "hu": "Vegetatív idegrendszer"
+  },
+  {
+    "key": 144,
+    "hu": "Tengelyváz"
+  },
+  {
+    "key": 145,
+    "hu": "Hónaljideg (C05, C06)"
+  },
+  {
+    "key": 146,
+    "hu": "Hónalji (axillaris)"
+  },
+  {
+    "key": 147,
+    "hu": "Páratlan véna (vena azygos)"
+  },
+  {
+    "key": 148,
+    "hu": "Hát"
+  },
+  {
+    "key": 149,
+    "hu": "Törzsdúcok"
+  },
+  {
+    "key": 150,
+    "hu": "Alaphártya"
+  },
+  {
+    "key": 151,
+    "hu": "Baziláris hártya"
+  },
+  {
+    "key": 152,
+    "hu": "Alapi fonat és öböl"
+  },
+  {
+    "key": 153,
+    "hu": "Alapi ér (basilaris)"
+  },
+  {
+    "key": 154,
+    "hu": "Királyvéna (vena basilica)"
+  },
+  {
+    "key": 155,
+    "hu": "Kétfejű karizom, hosszú fej"
+  },
+  {
+    "key": 156,
+    "hu": "Kétfejű karizom, rövid fej"
+  },
+  {
+    "key": 157,
+    "hu": "Kétfejű combizom, hosszú fej"
+  },
+  {
+    "key": 158,
+    "hu": "Kétfejű combizom, rövid fej"
+  },
+  {
+    "key": 159,
+    "hu": "Kétfejű karizom bőnyéje"
+  },
+  {
+    "key": 160,
+    "hu": "Kétágú (sarok–köbcsonti és sarok–sajkacsonti) szalag"
+  },
+  {
+    "key": 161,
+    "hu": "Húgyhólyag"
+  },
+  {
+    "key": 162,
+    "hu": "Húgyhólyag teste, bal fele"
+  },
+  {
+    "key": 163,
+    "hu": "Húgyhólyag teste, jobb fele"
+  },
+  {
+    "key": 164,
+    "hu": "Húgyhólyag belső felszíne, bal fele"
+  },
+  {
+    "key": 165,
+    "hu": "Húgyhólyag belső felszíne, jobb fele"
+  },
+  {
+    "key": 166,
+    "hu": "Húgyhólyag, bal fele"
+  },
+  {
+    "key": 167,
+    "hu": "Húgyhólyagnyak"
+  },
+  {
+    "key": 168,
+    "hu": "Húgyhólyagnyak, bal fele"
+  },
+  {
+    "key": 169,
+    "hu": "Húgyhólyagnyak, jobb fele"
+  },
+  {
+    "key": 170,
+    "hu": "Húgyhólyag, jobb fele"
+  },
+  {
+    "key": 171,
+    "hu": "Húgyhólyag-háromszög, bal fele"
+  },
+  {
+    "key": 172,
+    "hu": "Húgyhólyag-háromszög, jobb fele"
+  },
+  {
+    "key": 173,
+    "hu": "Vérerek"
+  },
+  {
+    "key": 174,
+    "hu": "Szegycsont teste"
+  },
+  {
+    "key": 175,
+    "hu": "Boettcher-sejtek"
+  },
+  {
+    "key": 176,
+    "hu": "Csontos labirintus"
+  },
+  {
+    "key": 177,
+    "hu": "Csontos spirállemez"
+  },
+  {
+    "key": 178,
+    "hu": "Csontos fal"
+  },
+  {
+    "key": 179,
+    "hu": "Szegélysejtek"
+  },
+  {
+    "key": 180,
+    "hu": "Karhoz tartozó (oldalsó) hónalji nyirokcsomók"
+  },
+  {
+    "key": 181,
+    "hu": "Karfonat és felső végtag"
+  },
+  {
+    "key": 182,
+    "hu": "Kari (brachialis)"
+  },
+  {
+    "key": 183,
+    "hu": "Karizom"
+  },
+  {
+    "key": 184,
+    "hu": "Kar-feji ér (brachiocephalicus)"
+  },
+  {
+    "key": 185,
+    "hu": "Kar-feji nyirokcsomók"
+  },
+  {
+    "key": 186,
+    "hu": "Kar-feji verőértörzs"
+  },
+  {
+    "key": 187,
+    "hu": "Karorsócsonti izom"
+  },
+  {
+    "key": 188,
+    "hu": "Agy"
+  },
+  {
+    "key": 189,
+    "hu": "Agytörzsi és kisagyi ágak"
+  },
+  {
+    "key": 190,
+    "hu": "Szinuszcsomóhoz futó ág"
+  },
+  {
+    "key": 191,
+    "hu": "Gyökerekből eredő ágak"
+  },
+  {
+    "key": 192,
+    "hu": "Felső törzsből eredő ágak"
+  },
+  {
+    "key": 193,
+    "hu": "Kötegek ágai"
+  },
+  {
+    "key": 194,
+    "hu": "Oldalsó köteg ágai"
+  },
+  {
+    "key": 195,
+    "hu": "Belső köteg ágai"
+  },
+  {
+    "key": 196,
+    "hu": "Szegycsont melletti nyirokerek ágai"
+  },
+  {
+    "key": 197,
+    "hu": "Hátsó köteg ágai"
+  },
+  {
+    "key": 198,
+    "hu": "Állkapocs alatti nyirokér ágai"
+  },
+  {
+    "key": 199,
+    "hu": "Willis-féle artériás kör ágai"
+  },
+  {
+    "key": 200,
+    "hu": "Ágyéki nyirokerek ágai"
+  },
+  {
+    "key": 201,
+    "hu": "Felső állcsonti artéria ágai"
+  },
+  {
+    "key": 202,
+    "hu": "Szemartéria ágai"
+  },
+  {
+    "key": 203,
+    "hu": "Szemvénák ágai"
+  },
+  {
+    "key": 204,
+    "hu": "Nyelv külső izmaihoz futó ágak"
+  },
+  {
+    "key": 205,
+    "hu": "Nyelv belső izmaihoz futó ágak"
+  },
+  {
+    "key": 206,
+    "hu": "Emlő"
+  },
+  {
+    "key": 207,
+    "hu": "Hörgők és elágazásaik"
+  },
+  {
+    "key": 208,
+    "hu": "Hörgői ér"
+  },
+  {
+    "key": 209,
+    "hu": "Hörgő-gátorüregi nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 210,
+    "hu": "Hörgő-gátorüregi nyiroktörzs"
+  },
+  {
+    "key": 211,
+    "hu": "Pofai (buccalis)"
+  },
+  {
+    "key": 212,
+    "hu": "Arci nyirokér pofaizmi nyirokcsomója"
+  },
+  {
+    "key": 213,
+    "hu": "Pofaizom"
+  },
+  {
+    "key": 214,
+    "hu": "Buck-féle pólya (alsó rész)"
+  },
+  {
+    "key": 215,
+    "hu": "Buck-féle pólya (felső rész)"
+  },
+  {
+    "key": 216,
+    "hu": "Hagymás-szivacsos izom"
+  },
+  {
+    "key": 217,
+    "hu": "Húgycsőhagymamirigyek (Cowper-mirigyek)"
+  },
+  {
+    "key": 218,
+    "hu": "Tawara-szár"
+  },
+  {
+    "key": 219,
+    "hu": "Boka és láb nyáktömlői"
+  },
+  {
+    "key": 220,
+    "hu": "Vállízület nyáktömlői"
+  },
+  {
+    "key": 221,
+    "hu": "C01 Fejgyám (atlas)"
+  },
+  {
+    "key": 222,
+    "hu": "C01 Hátsó gyöki dúc"
+  },
+  {
+    "key": 223,
+    "hu": "C01 Hátsó gyökér"
+  },
+  {
+    "key": 224,
+    "hu": "C01 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 225,
+    "hu": "C01 Elülső gyökér"
+  },
+  {
+    "key": 226,
+    "hu": "C02 Forgócsigolya (axis)"
+  },
+  {
+    "key": 227,
+    "hu": "C02 Hátsó gyöki dúc"
+  },
+  {
+    "key": 228,
+    "hu": "C02 Hátsó gyökér"
+  },
+  {
+    "key": 229,
+    "hu": "C02 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 230,
+    "hu": "C02 Elülső gyökér"
+  },
+  {
+    "key": 231,
+    "hu": "C02-C03 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 232,
+    "hu": "C03 Nyaki ideghurokhoz futó ág"
+  },
+  {
+    "key": 233,
+    "hu": "C03 Hátsó ág"
+  },
+  {
+    "key": 234,
+    "hu": "C03 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 235,
+    "hu": "C03 Hátsó ág, belső ág"
+  },
+  {
+    "key": 236,
+    "hu": "C03 Hátsó gyöki dúc"
+  },
+  {
+    "key": 237,
+    "hu": "C03 Hátsó gyökér"
+  },
+  {
+    "key": 238,
+    "hu": "C03 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 239,
+    "hu": "C03 Elülső gyökér"
+  },
+  {
+    "key": 240,
+    "hu": "C03 Csigolya"
+  },
+  {
+    "key": 241,
+    "hu": "C03-C04 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 242,
+    "hu": "C04 Hátsó ág"
+  },
+  {
+    "key": 243,
+    "hu": "C04 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 244,
+    "hu": "C04 Hátsó ág, belső ág"
+  },
+  {
+    "key": 245,
+    "hu": "C04 Hátsó gyöki dúc"
+  },
+  {
+    "key": 246,
+    "hu": "C04 Hátsó gyökér"
+  },
+  {
+    "key": 247,
+    "hu": "C04 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 248,
+    "hu": "C04 Elülső gyökér"
+  },
+  {
+    "key": 249,
+    "hu": "C04 Csigolya"
+  },
+  {
+    "key": 250,
+    "hu": "C04-C05 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 251,
+    "hu": "C05 Hátsó ág"
+  },
+  {
+    "key": 252,
+    "hu": "C05 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 253,
+    "hu": "C05 Hátsó ág, belső ág"
+  },
+  {
+    "key": 254,
+    "hu": "C05 Hátsó gyöki dúc"
+  },
+  {
+    "key": 255,
+    "hu": "C05 Hátsó gyökér"
+  },
+  {
+    "key": 256,
+    "hu": "C05 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 257,
+    "hu": "C05 Elülső gyökér"
+  },
+  {
+    "key": 258,
+    "hu": "C05 Csigolya"
+  },
+  {
+    "key": 259,
+    "hu": "C05-C06 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 260,
+    "hu": "C06 Hátsó ág"
+  },
+  {
+    "key": 261,
+    "hu": "C06 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 262,
+    "hu": "C06 Hátsó ág, belső ág"
+  },
+  {
+    "key": 263,
+    "hu": "C06 Hátsó gyöki dúc"
+  },
+  {
+    "key": 264,
+    "hu": "C06 Hátsó gyökér"
+  },
+  {
+    "key": 265,
+    "hu": "C06 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 266,
+    "hu": "C06 Elülső gyökér"
+  },
+  {
+    "key": 267,
+    "hu": "C06 Csigolya"
+  },
+  {
+    "key": 268,
+    "hu": "C06-C07 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 269,
+    "hu": "C07 Hátsó ág"
+  },
+  {
+    "key": 270,
+    "hu": "C07 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 271,
+    "hu": "C07 Hátsó ág, belső ág"
+  },
+  {
+    "key": 272,
+    "hu": "C07 Hátsó gyöki dúc"
+  },
+  {
+    "key": 273,
+    "hu": "C07 Hátsó gyökér"
+  },
+  {
+    "key": 274,
+    "hu": "C07 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 275,
+    "hu": "C07 Elülső gyökér"
+  },
+  {
+    "key": 276,
+    "hu": "C07 Csigolya"
+  },
+  {
+    "key": 277,
+    "hu": "C07-T01 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 278,
+    "hu": "C08 Hátsó ág"
+  },
+  {
+    "key": 279,
+    "hu": "C08 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 280,
+    "hu": "C08 Hátsó ág, belső ág"
+  },
+  {
+    "key": 281,
+    "hu": "C08 Hátsó gyöki dúc"
+  },
+  {
+    "key": 282,
+    "hu": "C08 Hátsó gyökér"
+  },
+  {
+    "key": 283,
+    "hu": "C08 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 284,
+    "hu": "C08 Elülső gyökér"
+  },
+  {
+    "key": 285,
+    "hu": "Belső boka melletti sarokcsonti nyáktömlő"
+  },
+  {
+    "key": 286,
+    "hu": "Sarokcsonti ágak"
+  },
+  {
+    "key": 287,
+    "hu": "Sarokcsont"
+  },
+  {
+    "key": 288,
+    "hu": "Sarkantyúbarázdai ág"
+  },
+  {
+    "key": 289,
+    "hu": "Kérgestest-szegélyi ér"
+  },
+  {
+    "key": 290,
+    "hu": "Koponyatető"
+  },
+  {
+    "key": 291,
+    "hu": "Schlemm-csatorna"
+  },
+  {
+    "key": 292,
+    "hu": "Fejes csont"
+  },
+  {
+    "key": 293,
+    "hu": "Tokszalag"
+  },
+  {
+    "key": 294,
+    "hu": "Gyomorszáji (alsó nyelőcsői) záróizom, elülső rész"
+  },
+  {
+    "key": 295,
+    "hu": "Szívfonat"
+  },
+  {
+    "key": 296,
+    "hu": "Méhnyak harántszalagja (ligamentum cardinale)"
+  },
+  {
+    "key": 297,
+    "hu": "Nyaki verőér csatornája"
+  },
+  {
+    "key": 298,
+    "hu": "Nyaki érhüvely"
+  },
+  {
+    "key": 299,
+    "hu": "Hüvelykujj kéztő–kézközépcsonti ízületének tokja"
+  },
+  {
+    "key": 300,
+    "hu": "Kéztő–kézközépcsonti szalagok"
+  },
+  {
+    "key": 301,
+    "hu": "Kéztő (kéztőcsontok)"
+  },
+  {
+    "key": 302,
+    "hu": "Fülkürt porca"
+  },
+  {
+    "key": 303,
+    "hu": "Eustach-féle fülkürt porca"
+  },
+  {
+    "key": 304,
+    "hu": "Lófarok (cauda equina)"
+  },
+  {
+    "key": 305,
+    "hu": "Farkos mag (nucleus caudatus)"
+  },
+  {
+    "key": 306,
+    "hu": "Barlangos öböl"
+  },
+  {
+    "key": 307,
+    "hu": "Vakbéli ér"
+  },
+  {
+    "key": 308,
+    "hu": "Vakbél (caecum)"
+  },
+  {
+    "key": 309,
+    "hu": "Vakbél, hosszanti izomszalag (taenia coli)"
+  },
+  {
+    "key": 310,
+    "hu": "Vakbél (intestinum caecum)"
+  },
+  {
+    "key": 311,
+    "hu": "Hasi (aorta előtti) nyirokcsomók"
+  },
+  {
+    "key": 312,
+    "hu": "Hasüregi dúcok"
+  },
+  {
+    "key": 313,
+    "hu": "Hasüregi nyirokerek"
+  },
+  {
+    "key": 314,
+    "hu": "Hasüregi fonat"
+  },
+  {
+    "key": 315,
+    "hu": "Hasüregi verőértörzs"
+  },
+  {
+    "key": 316,
+    "hu": "Központi hónalji (köztes) nyirokcsomók"
+  },
+  {
+    "key": 317,
+    "hu": "Ideghártya központi artériája"
+  },
+  {
+    "key": 318,
+    "hu": "Ideghártya központi vénái"
+  },
+  {
+    "key": 319,
+    "hu": "Ideghártya központi ere"
+  },
+  {
+    "key": 320,
+    "hu": "Központi barázda (Rolando-barázda)"
+  },
+  {
+    "key": 321,
+    "hu": "Húgy-ivarszervi rekesz központi ina"
+  },
+  {
+    "key": 322,
+    "hu": "Központi idegrendszer"
+  },
+  {
+    "key": 323,
+    "hu": "Fejvéna (vena cephalica)"
+  },
+  {
+    "key": 324,
+    "hu": "Kisagykocsány"
+  },
+  {
+    "key": 325,
+    "hu": "Kisagymandula"
+  },
+  {
+    "key": 326,
+    "hu": "Kisagy, elülső lebeny"
+  },
+  {
+    "key": 327,
+    "hu": "Kisagy"
+  },
+  {
+    "key": 328,
+    "hu": "Kisagy, hátsó lebeny"
+  },
+  {
+    "key": 329,
+    "hu": "Nagyagy (végagy)"
+  },
+  {
+    "key": 330,
+    "hu": "Nagyagy"
+  },
+  {
+    "key": 331,
+    "hu": "Nyaki idegfonat"
+  },
+  {
+    "key": 332,
+    "hu": "Nyaki gerinc"
+  },
+  {
+    "key": 333,
+    "hu": "Nyaki szimpatikus határköteg"
+  },
+  {
+    "key": 334,
+    "hu": "Nyaki szimpatikus idegek"
+  },
+  {
+    "key": 335,
+    "hu": "Nyaki-mellkasi dúc (csillagdúc)"
+  },
+  {
+    "key": 336,
+    "hu": "Dobhúr"
+  },
+  {
+    "key": 337,
+    "hu": "Érhártya"
+  },
+  {
+    "key": 338,
+    "hu": "Sugárizmok"
+  },
+  {
+    "key": 339,
+    "hu": "Sugárnyúlványok"
+  },
+  {
+    "key": 340,
+    "hu": "Sugártestek"
+  },
+  {
+    "key": 341,
+    "hu": "Övtekervényi ág"
+  },
+  {
+    "key": 342,
+    "hu": "Övtekervény (limbikus lebeny)"
+  },
+  {
+    "key": 343,
+    "hu": "Willis-féle artériás kör"
+  },
+  {
+    "key": 344,
+    "hu": "Körkörös (középső) izomréteg"
+  },
+  {
+    "key": 345,
+    "hu": "Keringési (szív- és érrendszer)"
+  },
+  {
+    "key": 346,
+    "hu": "Bal koszorúér körbefutó ága"
+  },
+  {
+    "key": 347,
+    "hu": "Oldalsó combkörüli ér"
+  },
+  {
+    "key": 348,
+    "hu": "Belső combkörüli ér"
+  },
+  {
+    "key": 349,
+    "hu": "Elülső felkarkörüli ér"
+  },
+  {
+    "key": 350,
+    "hu": "Hátsó felkarkörüli ér"
+  },
+  {
+    "key": 351,
+    "hu": "Lapockakörüli ér"
+  },
+  {
+    "key": 352,
+    "hu": "Körülárkolt nyelvszemölcsök"
+  },
+  {
+    "key": 353,
+    "hu": "Tejnyirokgyűjtő tömlő (cisterna chyli)"
+  },
+  {
+    "key": 354,
+    "hu": "Claudius-sejtek"
+  },
+  {
+    "key": 355,
+    "hu": "Kulcscsont"
+  },
+  {
+    "key": 356,
+    "hu": "Csikló"
+  },
+  {
+    "key": 357,
+    "hu": "CN 01 (I) Szaglóideg"
+  },
+  {
+    "key": 358,
+    "hu": "CN 01 (I) Szaglóideg, oldalsó szaglócsík"
+  },
+  {
+    "key": 359,
+    "hu": "CN 01 (I) Szaglóideg, belső szaglócsík"
+  },
+  {
+    "key": 360,
+    "hu": "CN 01 (I) Szaglóideg, szaglóhagyma"
+  },
+  {
+    "key": 361,
+    "hu": "CN 01 (I) Szaglóideg, szaglórostok"
+  },
+  {
+    "key": 362,
+    "hu": "CN 01 (I) Szaglóideg, szaglópálya"
+  },
+  {
+    "key": 363,
+    "hu": "CN 02 (II) Látóideg"
+  },
+  {
+    "key": 364,
+    "hu": "CN 03 (III) Közös szemmozgató ideg"
+  },
+  {
+    "key": 365,
+    "hu": "CN 04 (IV) Sodorideg (nervus trochlearis)"
+  },
+  {
+    "key": 366,
+    "hu": "CN 05 (V) Fül-halántéki ág"
+  },
+  {
+    "key": 367,
+    "hu": "CN 05 (V) Alsó fogmedri ideg"
+  },
+  {
+    "key": 368,
+    "hu": "CN 05 (V) Szemüreg alatti ideg"
+  },
+  {
+    "key": 369,
+    "hu": "CN 05 (V) Nyelvideg"
+  },
+  {
+    "key": 370,
+    "hu": "CN 05 (V) Állkapcsi ideg"
+  },
+  {
+    "key": 371,
+    "hu": "CN 05 (V) Felső állcsonti ideg"
+  },
+  {
+    "key": 372,
+    "hu": "CN 05 (V) Állcsúcsi ideg"
+  },
+  {
+    "key": 373,
+    "hu": "CN 05 (V) Szemidegi ág"
+  },
+  {
+    "key": 374,
+    "hu": "CN 05 (V) Szemideg, sugáridegi ág"
+  },
+  {
+    "key": 375,
+    "hu": "CN 05 (V) Szemideg, homloki ág"
+  },
+  {
+    "key": 376,
+    "hu": "CN 05 (V) Háromosztatú ideg félhold alakú dúca"
+  },
+  {
+    "key": 377,
+    "hu": "CN 05 (V) Háromosztatú ideg"
+  },
+  {
+    "key": 378,
+    "hu": "CN 06 (VI) Távolító ideg (abducens)"
+  },
+  {
+    "key": 379,
+    "hu": "CN 06 (VI) Távolító ideg"
+  },
+  {
+    "key": 380,
+    "hu": "CN 07 (VII) Pofai ág"
+  },
+  {
+    "key": 381,
+    "hu": "CN 07 (VII) Nyaki ág"
+  },
+  {
+    "key": 382,
+    "hu": "CN 07 (VII) Arcideg"
+  },
+  {
+    "key": 383,
+    "hu": "CN 07 (VII) Térddúc"
+  },
+  {
+    "key": 384,
+    "hu": "CN 07 (VII) Állkapcsi ág"
+  },
+  {
+    "key": 385,
+    "hu": "CN 07 (VII) Hátsó fülkagylói ág"
+  },
+  {
+    "key": 386,
+    "hu": "CN 07 (VII) Halántéki ág"
+  },
+  {
+    "key": 387,
+    "hu": "CN 07 (VII) Járomcsonti ág"
+  },
+  {
+    "key": 388,
+    "hu": "CN 08 (VIII) Csigaideg"
+  },
+  {
+    "key": 389,
+    "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg"
+  },
+  {
+    "key": 390,
+    "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc ágai"
+  },
+  {
+    "key": 391,
+    "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc ágai"
+  },
+  {
+    "key": 392,
+    "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, alsó dúc"
+  },
+  {
+    "key": 393,
+    "hu": "CN 08 (VIII) Egyensúlyozó-halló ideg, felső dúc"
+  },
+  {
+    "key": 394,
+    "hu": "CN 09 (IX) Nyaki verőéri ág"
+  },
+  {
+    "key": 395,
+    "hu": "CN 09 (IX) Nyelv-garat ideg"
+  },
+  {
+    "key": 396,
+    "hu": "CN 09 (IX) Nyelv-garat ideg: garati, mandulai és nyelvi ágak"
+  },
+  {
+    "key": 397,
+    "hu": "CN 09 (IX) Alsó dúc"
+  },
+  {
+    "key": 398,
+    "hu": "CN 09 (IX) Felső dúc"
+  },
+  {
+    "key": 399,
+    "hu": "CN 10 (X) Alsó nyaki (bolygóidegi) szívág"
+  },
+  {
+    "key": 400,
+    "hu": "CN 10 (X) Alsó dúc"
+  },
+  {
+    "key": 401,
+    "hu": "CN 10 (X) Garati ág"
+  },
+  {
+    "key": 402,
+    "hu": "CN 10 (X) Felső dúc"
+  },
+  {
+    "key": 403,
+    "hu": "CN 10 (X) Felső gégeideg"
+  },
+  {
+    "key": 404,
+    "hu": "CN 10 (X) Bolygóideg"
+  },
+  {
+    "key": 405,
+    "hu": "CN 10 (X) Bolygóideg: visszatérő gégeideg"
+  },
+  {
+    "key": 406,
+    "hu": "CN 11 (XI) Járulékos ideg (gerincvelői járulékos ideg)"
+  },
+  {
+    "key": 407,
+    "hu": "CN 11 (XI) Járulékos ideg"
+  },
+  {
+    "key": 408,
+    "hu": "CN 11 (XI) Belső ág"
+  },
+  {
+    "key": 409,
+    "hu": "CN 11 (XI) Gerincvelői rész"
+  },
+  {
+    "key": 410,
+    "hu": "CN 12 (XII) Nyelv alatti ideg"
+  },
+  {
+    "key": 411,
+    "hu": "Farkcsonti test"
+  },
+  {
+    "key": 412,
+    "hu": "Farkcsonti (coccygeus)"
+  },
+  {
+    "key": 413,
+    "hu": "Farkcsonti izom (ülőcsont–farkcsonti izom)"
+  },
+  {
+    "key": 414,
+    "hu": "Farkcsont"
+  },
+  {
+    "key": 415,
+    "hu": "Csiga"
+  },
+  {
+    "key": 416,
+    "hu": "Csiga csúcskupolája"
+  },
+  {
+    "key": 417,
+    "hu": "Csigavezeték"
+  },
+  {
+    "key": 418,
+    "hu": "Csigaideg"
+  },
+  {
+    "key": 419,
+    "hu": "A makkból elvezető gyűjtő nyirokerek"
+  },
+  {
+    "key": 420,
+    "hu": "Remesebél (colon)"
+  },
+  {
+    "key": 421,
+    "hu": "Közös epevezeték"
+  },
+  {
+    "key": 422,
+    "hu": "Közös nyaki verőér"
+  },
+  {
+    "key": 423,
+    "hu": "Közös szárkapocsideg"
+  },
+  {
+    "key": 424,
+    "hu": "Közös májvezeték"
+  },
+  {
+    "key": 425,
+    "hu": "Közös májartéria"
+  },
+  {
+    "key": 426,
+    "hu": "Közös csípőér menti nyirokcsomók"
+  },
+  {
+    "key": 427,
+    "hu": "Közös csípőér"
+  },
+  {
+    "key": 428,
+    "hu": "Közös csontközi ér"
+  },
+  {
+    "key": 429,
+    "hu": "Közös tenyéri ujjágak (digitales palmares communes)"
+  },
+  {
+    "key": 430,
+    "hu": "Közös talpi ujjágak (digitales plantares communes)"
+  },
+  {
+    "key": 431,
+    "hu": "Közös talpi (plantaris communis)"
+  },
+  {
+    "key": 432,
+    "hu": "Közös íngyűrű (Zinn-gyűrű)"
+  },
+  {
+    "key": 433,
+    "hu": "Összekötő ágak"
+  },
+  {
+    "key": 434,
+    "hu": "Izomrekeszek"
+  },
+  {
+    "key": 435,
+    "hu": "Ingerületvezető rendszer"
+  },
+  {
+    "key": 436,
+    "hu": "Bütyökcsatorna nyílása"
+  },
+  {
+    "key": 437,
+    "hu": "Vénás öblök összefolyása"
+  },
+  {
+    "key": 438,
+    "hu": "Artériás kúp (conus arteriosus)"
+  },
+  {
+    "key": 439,
+    "hu": "Kúpág"
+  },
+  {
+    "key": 440,
+    "hu": "Gerincvelőkúp"
+  },
+  {
+    "key": 441,
+    "hu": "Hollócsőr–vállcsúcsi szalag"
+  },
+  {
+    "key": 442,
+    "hu": "Hollócsőr-karizom"
+  },
+  {
+    "key": 443,
+    "hu": "Hollócsőr–kulcscsonti szalag, kúpos rész"
+  },
+  {
+    "key": 444,
+    "hu": "Hollócsőr–kulcscsonti szalag, trapéz alakú rész"
+  },
+  {
+    "key": 445,
+    "hu": "Hollócsőr–felkarcsonti szalag"
+  },
+  {
+    "key": 446,
+    "hu": "Kötegek"
+  },
+  {
+    "key": 447,
+    "hu": "Szaruhártya"
+  },
+  {
+    "key": 448,
+    "hu": "Szarvporc"
+  },
+  {
+    "key": 449,
+    "hu": "Szarvporci gumók* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 450,
+    "hu": "Szarvporci gumók* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 451,
+    "hu": "Koronaszalag"
+  },
+  {
+    "key": 452,
+    "hu": "Koszorúéröböl"
+  },
+  {
+    "key": 453,
+    "hu": "Koszorúértörzs"
+  },
+  {
+    "key": 454,
+    "hu": "Koszorúerek"
+  },
+  {
+    "key": 455,
+    "hu": "Négyes ikertest"
+  },
+  {
+    "key": 456,
+    "hu": "Kérgestest"
+  },
+  {
+    "key": 457,
+    "hu": "Barlangos test"
+  },
+  {
+    "key": 458,
+    "hu": "Szivacsos test"
+  },
+  {
+    "key": 459,
+    "hu": "Szemöldökráncoló izom"
+  },
+  {
+    "key": 460,
+    "hu": "Corti-alagút"
+  },
+  {
+    "key": 461,
+    "hu": "Borda-nyaki verőértörzs"
+  },
+  {
+    "key": 462,
+    "hu": "Agyidegek"
+  },
+  {
+    "key": 463,
+    "hu": "Agykoponya (neurocranium)"
+  },
+  {
+    "key": 464,
+    "hu": "Gyűrűporc"
+  },
+  {
+    "key": 465,
+    "hu": "Gyűrű-pajzsporcizom (ferde rész)"
+  },
+  {
+    "key": 466,
+    "hu": "Gyűrű-pajzsporcizom (egyenes rész)"
+  },
+  {
+    "key": 467,
+    "hu": "Gyűrű–pajzsporci hártya és szalag"
+  },
+  {
+    "key": 468,
+    "hu": "Gyűrűporc–légcsői szalag"
+  },
+  {
+    "key": 469,
+    "hu": "Könyöki nyirokcsomók"
+  },
+  {
+    "key": 470,
+    "hu": "Köbcsont"
+  },
+  {
+    "key": 471,
+    "hu": "Ékporci gumók* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 472,
+    "hu": "Ékporci gumók* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 473,
+    "hu": "Epehólyag-vezeték"
+  },
+  {
+    "key": 474,
+    "hu": "Epehólyagi nyirokcsomó"
+  },
+  {
+    "key": 475,
+    "hu": "Epehólyagi ér"
+  },
+  {
+    "key": 476,
+    "hu": "Herezacskó húsos pólyája (dartos)"
+  },
+  {
+    "key": 477,
+    "hu": "Mély réteg (alkar, elülső oldal)"
+  },
+  {
+    "key": 478,
+    "hu": "Mély réteg (alkar, hátsó oldal)"
+  },
+  {
+    "key": 479,
+    "hu": "Mély réteg (kéz)"
+  },
+  {
+    "key": 480,
+    "hu": "Hímvessző mély artériája"
+  },
+  {
+    "key": 481,
+    "hu": "Mély hátizmok (gerincizmok)"
+  },
+  {
+    "key": 482,
+    "hu": "Orsóideg mély ága"
+  },
+  {
+    "key": 483,
+    "hu": "Singideg mély ága"
+  },
+  {
+    "key": 484,
+    "hu": "Mély nyaki (cervicalis profundus)"
+  },
+  {
+    "key": 485,
+    "hu": "Mély csípőkörüli ér"
+  },
+  {
+    "key": 486,
+    "hu": "Hímvessző mély háti vénája"
+  },
+  {
+    "key": 487,
+    "hu": "Mély külső szeméremér"
+  },
+  {
+    "key": 488,
+    "hu": "Mély szárkapocsideg"
+  },
+  {
+    "key": 489,
+    "hu": "Mély szárkapocsideg, oldalsó ág"
+  },
+  {
+    "key": 490,
+    "hu": "Mély szárkapocsideg, belső ág"
+  },
+  {
+    "key": 491,
+    "hu": "Mély térdkalács alatti nyáktömlő"
+  },
+  {
+    "key": 492,
+    "hu": "Mély lágyéki nyirokcsomók"
+  },
+  {
+    "key": 493,
+    "hu": "Mély tenyéri érív"
+  },
+  {
+    "key": 494,
+    "hu": "Mély fültőmirigyi (fül előtti) nyirokcsomók"
+  },
+  {
+    "key": 495,
+    "hu": "Mély sziklacsonti ideg"
+  },
+  {
+    "key": 496,
+    "hu": "Mély talpi érív"
+  },
+  {
+    "key": 497,
+    "hu": "Mély talpi lábközépcsonti ér"
+  },
+  {
+    "key": 498,
+    "hu": "Mély talpi vénás ív"
+  },
+  {
+    "key": 499,
+    "hu": "Mély talpi (plantaris profundus)"
+  },
+  {
+    "key": 500,
+    "hu": "Mély haránt kézközépcsonti szalagok"
+  },
+  {
+    "key": 501,
+    "hu": "Mély haránt lábközépcsonti szalag"
+  },
+  {
+    "key": 502,
+    "hu": "Mély haránt gátizom"
+  },
+  {
+    "key": 503,
+    "hu": "Deltaizom, elülső fej"
+  },
+  {
+    "key": 504,
+    "hu": "Deltaizom"
+  },
+  {
+    "key": 505,
+    "hu": "Deltaizom, középső fej"
+  },
+  {
+    "key": 506,
+    "hu": "Deltaizom, hátsó fej"
+  },
+  {
+    "key": 507,
+    "hu": "Delta-mellizomközi (kulcscsont alatti) nyirokcsomók"
+  },
+  {
+    "key": 508,
+    "hu": "Fogazott tekervény"
+  },
+  {
+    "key": 509,
+    "hu": "Szájzuglehúzó izom (háromszögletű izom)"
+  },
+  {
+    "key": 510,
+    "hu": "Alsóajak-lehúzó izom"
+  },
+  {
+    "key": 511,
+    "hu": "Orrsövénylehúzó izom"
+  },
+  {
+    "key": 512,
+    "hu": "Szemöldöklehúzó izom"
+  },
+  {
+    "key": 513,
+    "hu": "Irha, szemölcsös réteg"
+  },
+  {
+    "key": 514,
+    "hu": "Irha, hálózatos réteg"
+  },
+  {
+    "key": 515,
+    "hu": "Irha"
+  },
+  {
+    "key": 516,
+    "hu": "Leszálló vastagbél"
+  },
+  {
+    "key": 517,
+    "hu": "Leszálló vastagbél, hosszanti izomszalag (taenia coli)"
+  },
+  {
+    "key": 518,
+    "hu": "Leszálló térdi ér"
+  },
+  {
+    "key": 519,
+    "hu": "Leszálló szájpadi ér"
+  },
+  {
+    "key": 520,
+    "hu": "Hólyagürítő izom, bal fele"
+  },
+  {
+    "key": 521,
+    "hu": "Hólyagürítő izom, jobb fele"
+  },
+  {
+    "key": 522,
+    "hu": "Rekeszizom"
+  },
+  {
+    "key": 523,
+    "hu": "Köztiagy"
+  },
+  {
+    "key": 524,
+    "hu": "Kéthasú izom rostos hurka"
+  },
+  {
+    "key": 525,
+    "hu": "Kéthasú izom"
+  },
+  {
+    "key": 526,
+    "hu": "Emésztőrendszer"
+  },
+  {
+    "key": 527,
+    "hu": "Lábszár"
+  },
+  {
+    "key": 528,
+    "hu": "Távolabbi kéztőcsontközi szalagok"
+  },
+  {
+    "key": 529,
+    "hu": "Távolabbi lábtőcsontközi szalagok"
+  },
+  {
+    "key": 530,
+    "hu": "Távolabbi átfúró ágak"
+  },
+  {
+    "key": 531,
+    "hu": "Osztódások"
+  },
+  {
+    "key": 532,
+    "hu": "Hímvessző háti artériája"
+  },
+  {
+    "key": 533,
+    "hu": "Háti sarok–köbcsonti szalagok"
+  },
+  {
+    "key": 534,
+    "hu": "Kérgestest háti ága"
+  },
+  {
+    "key": 535,
+    "hu": "Háti kéztő–kézközépcsonti szalagok"
+  },
+  {
+    "key": 536,
+    "hu": "Közös háti ujjágak (digitales dorsales communes)"
+  },
+  {
+    "key": 537,
+    "hu": "Háti köbcsont–sajkacsonti szalag"
+  },
+  {
+    "key": 538,
+    "hu": "Háti ékcsont–köbcsonti szalag"
+  },
+  {
+    "key": 539,
+    "hu": "Háti ékcsont–sajkacsonti szalag"
+  },
+  {
+    "key": 540,
+    "hu": "Háti ujjágak (orsócsonti; digitales dorsales)"
+  },
+  {
+    "key": 541,
+    "hu": "Háti ujjágak (singcsonti; digitales dorsales)"
+  },
+  {
+    "key": 542,
+    "hu": "Háti ujjágak (digitales dorsales)"
+  },
+  {
+    "key": 543,
+    "hu": "Hipotalamusz háti területe"
+  },
+  {
+    "key": 544,
+    "hu": "Háti kéztőcsontközi szalagok"
+  },
+  {
+    "key": 545,
+    "hu": "Háti ékcsontközi szalagok"
+  },
+  {
+    "key": 546,
+    "hu": "Háti csontközi izmok (láb)"
+  },
+  {
+    "key": 547,
+    "hu": "I. háti csontközi izom"
+  },
+  {
+    "key": 548,
+    "hu": "II. háti csontközi izom"
+  },
+  {
+    "key": 549,
+    "hu": "III. háti csontközi izom"
+  },
+  {
+    "key": 550,
+    "hu": "IV. háti csontközi izom"
+  },
+  {
+    "key": 551,
+    "hu": "Háti kézközépcsonti szalagok"
+  },
+  {
+    "key": 552,
+    "hu": "Háti kézközépcsonti ér"
+  },
+  {
+    "key": 553,
+    "hu": "Háti lábközépcsonti és ujjágak"
+  },
+  {
+    "key": 554,
+    "hu": "Háti lábközépcsonti szalagok"
+  },
+  {
+    "key": 555,
+    "hu": "Háti lábközépcsonti ér"
+  },
+  {
+    "key": 556,
+    "hu": "Orrháti (dorsalis nasi)"
+  },
+  {
+    "key": 557,
+    "hu": "Hasnyálmirigy háti ere"
+  },
+  {
+    "key": 558,
+    "hu": "Hímvessző háti idege (a szeméremideg ága)"
+  },
+  {
+    "key": 559,
+    "hu": "Háti orsócsont–kéztői szalag"
+  },
+  {
+    "key": 560,
+    "hu": "Háti orsócsont–singcsonti szalag"
+  },
+  {
+    "key": 561,
+    "hu": "Hátsó ágak"
+  },
+  {
+    "key": 562,
+    "hu": "Háti lapockaideg (C03-C05)"
+  },
+  {
+    "key": 563,
+    "hu": "Háti lapockaér (a haránt lapockaér mély ága)"
+  },
+  {
+    "key": 564,
+    "hu": "Háti lábtő–lábközépcsonti szalagok"
+  },
+  {
+    "key": 565,
+    "hu": "Háti vénás ív"
+  },
+  {
+    "key": 566,
+    "hu": "Háti vénás ív, átfúró ág"
+  },
+  {
+    "key": 567,
+    "hu": "Lábhát artériája"
+  },
+  {
+    "key": 568,
+    "hu": "Háti-belső mag"
+  },
+  {
+    "key": 569,
+    "hu": "Lábhát"
+  },
+  {
+    "key": 570,
+    "hu": "Vezetékek"
+  },
+  {
+    "key": 571,
+    "hu": "Nagy nyombélpapilla (Vater-ampulla, máj-hasnyálmirigyi ampulla)"
+  },
+  {
+    "key": 572,
+    "hu": "Kis nyombélpapilla"
+  },
+  {
+    "key": 573,
+    "hu": "Nyombél (patkóbél, duodenum)"
+  },
+  {
+    "key": 574,
+    "hu": "Nyombél, metszett (hátsó rész)"
+  },
+  {
+    "key": 575,
+    "hu": "Nyombél, metszett (elülső rész)"
+  },
+  {
+    "key": 576,
+    "hu": "Kemény agyhártya"
+  },
+  {
+    "key": 577,
+    "hu": "Kemény gerincvelőhártya"
+  },
+  {
+    "key": 578,
+    "hu": "Fül"
+  },
+  {
+    "key": 579,
+    "hu": "Nyolcadik borda (08)"
+  },
+  {
+    "key": 580,
+    "hu": "Ondókilövellő vezeték"
+  },
+  {
+    "key": 581,
+    "hu": "Könyökízület, elülső oldal"
+  },
+  {
+    "key": 582,
+    "hu": "Könyökízület"
+  },
+  {
+    "key": 583,
+    "hu": "Könyökízület, hátsó oldal"
+  },
+  {
+    "key": 584,
+    "hu": "Tizenegyedik borda (11)"
+  },
+  {
+    "key": 585,
+    "hu": "Belső elválasztású mirigyek rendszere"
+  },
+  {
+    "key": 586,
+    "hu": "Belső medencei pólya"
+  },
+  {
+    "key": 587,
+    "hu": "Felhám"
+  },
+  {
+    "key": 588,
+    "hu": "Mellékhere"
+  },
+  {
+    "key": 589,
+    "hu": "Gégefedői árok* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 590,
+    "hu": "Gégefedői árok* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 591,
+    "hu": "Gégefedő"
+  },
+  {
+    "key": 592,
+    "hu": "Gerincfeszítő izom (erector spinae)"
+  },
+  {
+    "key": 593,
+    "hu": "Nyelőcsőfonat"
+  },
+  {
+    "key": 594,
+    "hu": "Nyelőcsői (oesophageus)"
+  },
+  {
+    "key": 595,
+    "hu": "Nyelőcső"
+  },
+  {
+    "key": 596,
+    "hu": "Rostasejtek, elülső csoport (nyálkahártyák)"
+  },
+  {
+    "key": 597,
+    "hu": "Rostasejtek"
+  },
+  {
+    "key": 598,
+    "hu": "Rostasejtek, középső csoport (nyálkahártyák)"
+  },
+  {
+    "key": 599,
+    "hu": "Rostasejtek, hátsó csoport (nyálkahártyák)"
+  },
+  {
+    "key": 600,
+    "hu": "Rostacsont"
+  },
+  {
+    "key": 601,
+    "hu": "Rostacsont, rostalemez"
+  },
+  {
+    "key": 602,
+    "hu": "Rostacsont, kakastaréj"
+  },
+  {
+    "key": 603,
+    "hu": "Rostacsont, függőleges lemez"
+  },
+  {
+    "key": 604,
+    "hu": "Fülkürt (Eustach-kürt)"
+  },
+  {
+    "key": 605,
+    "hu": "Mimika"
+  },
+  {
+    "key": 606,
+    "hu": "Rövid orsócsonti csuklófeszítő izom"
+  },
+  {
+    "key": 607,
+    "hu": "Hosszú orsócsonti csuklófeszítő izom"
+  },
+  {
+    "key": 608,
+    "hu": "Singcsonti csuklófeszítő izom"
+  },
+  {
+    "key": 609,
+    "hu": "Kisujjfeszítő izom"
+  },
+  {
+    "key": 610,
+    "hu": "Rövid lábujjfeszítő izom"
+  },
+  {
+    "key": 611,
+    "hu": "Hosszú lábujjfeszítő izom"
+  },
+  {
+    "key": 612,
+    "hu": "Ujjfeszítő izom"
+  },
+  {
+    "key": 613,
+    "hu": "Rövid öregujjfeszítő izom"
+  },
+  {
+    "key": 614,
+    "hu": "Hosszú öregujjfeszítő izom"
+  },
+  {
+    "key": 615,
+    "hu": "Mutatóujjfeszítő izom"
+  },
+  {
+    "key": 616,
+    "hu": "Rövid hüvelykujjfeszítő izom"
+  },
+  {
+    "key": 617,
+    "hu": "Hosszú hüvelykujjfeszítő izom"
+  },
+  {
+    "key": 618,
+    "hu": "Feszítőinak leszorító szalagja"
+  },
+  {
+    "key": 619,
+    "hu": "Külső hallójárat"
+  },
+  {
+    "key": 620,
+    "hu": "Külső hallójárat (meatus acusticus externus)"
+  },
+  {
+    "key": 621,
+    "hu": "Külső tok"
+  },
+  {
+    "key": 622,
+    "hu": "Külső nyaki verőér"
+  },
+  {
+    "key": 623,
+    "hu": "Külső női nemi szervek (szeméremtest)"
+  },
+  {
+    "key": 624,
+    "hu": "Külső nemi szervek"
+  },
+  {
+    "key": 625,
+    "hu": "Külső csípőér menti nyirokcsomók"
+  },
+  {
+    "key": 626,
+    "hu": "Külső csípőéri fonat"
+  },
+  {
+    "key": 627,
+    "hu": "Külső csípőér"
+  },
+  {
+    "key": 628,
+    "hu": "Külső bordaközi izom"
+  },
+  {
+    "key": 629,
+    "hu": "Külső nyaki nyirokér"
+  },
+  {
+    "key": 630,
+    "hu": "Külső torkolati véna"
+  },
+  {
+    "key": 631,
+    "hu": "Külső ferde hasizom"
+  },
+  {
+    "key": 632,
+    "hu": "Külső húgycsőzáró izom"
+  },
+  {
+    "key": 633,
+    "hu": "Külső szemizmok"
+  },
+  {
+    "key": 634,
+    "hu": "Nyelv külső izmai"
+  },
+  {
+    "key": 635,
+    "hu": "Nyelv külső izomzata"
+  },
+  {
+    "key": 636,
+    "hu": "Szem"
+  },
+  {
+    "key": 637,
+    "hu": "Szemek"
+  },
+  {
+    "key": 638,
+    "hu": "Arci nyirokér"
+  },
+  {
+    "key": 639,
+    "hu": "Arckoponya (viscerocranium, ossa faciei)"
+  },
+  {
+    "key": 640,
+    "hu": "Arckoponya"
+  },
+  {
+    "key": 641,
+    "hu": "Közös arcvénatörzs"
+  },
+  {
+    "key": 642,
+    "hu": "Arci (facialis)"
+  },
+  {
+    "key": 643,
+    "hu": "Sarlószalag"
+  },
+  {
+    "key": 644,
+    "hu": "Petevezeték (méhkürt)"
+  },
+  {
+    "key": 645,
+    "hu": "Álbordák (08-12)"
+  },
+  {
+    "key": 646,
+    "hu": "Hímvessző pólyái"
+  },
+  {
+    "key": 647,
+    "hu": "Zsírszövet"
+  },
+  {
+    "key": 648,
+    "hu": "Női láb bőre"
+  },
+  {
+    "key": 649,
+    "hu": "Női hajzat"
+  },
+  {
+    "key": 650,
+    "hu": "Női kéz bőre"
+  },
+  {
+    "key": 651,
+    "hu": "Női fej bőre"
+  },
+  {
+    "key": 652,
+    "hu": "Nagy szeméremajkak bőre"
+  },
+  {
+    "key": 653,
+    "hu": "Női lábszár bőre"
+  },
+  {
+    "key": 654,
+    "hu": "Női comb bőre"
+  },
+  {
+    "key": 655,
+    "hu": "Női nyak bőre"
+  },
+  {
+    "key": 656,
+    "hu": "Női medence bőre"
+  },
+  {
+    "key": 657,
+    "hu": "Női gát bőre"
+  },
+  {
+    "key": 658,
+    "hu": "Női váll és kar bőre"
+  },
+  {
+    "key": 659,
+    "hu": "Női törzs bőre"
+  },
+  {
+    "key": 660,
+    "hu": "Nyirokerek combi csoportja"
+  },
+  {
+    "key": 661,
+    "hu": "Combi (femoralis)"
+  },
+  {
+    "key": 662,
+    "hu": "Combcsont"
+  },
+  {
+    "key": 663,
+    "hu": "Szárkapocscsont (lábszár)"
+  },
+  {
+    "key": 664,
+    "hu": "Szárkapcsi (fibularis, peroneus)"
+  },
+  {
+    "key": 665,
+    "hu": "Szárkapocscsonti nyáktömlő"
+  },
+  {
+    "key": 666,
+    "hu": "Nyirokerek szárkapcsi csoportja"
+  },
+  {
+    "key": 667,
+    "hu": "Rövid szárkapcsi izom"
+  },
+  {
+    "key": 668,
+    "hu": "Hosszú szárkapcsi izom"
+  },
+  {
+    "key": 669,
+    "hu": "Harmadik szárkapcsi izom"
+  },
+  {
+    "key": 670,
+    "hu": "Szárkapocs–térdhajlati nyáktömlő"
+  },
+  {
+    "key": 671,
+    "hu": "Ötödik borda (05)"
+  },
+  {
+    "key": 672,
+    "hu": "Fonál alakú nyelvszemölcsök"
+  },
+  {
+    "key": 673,
+    "hu": "Végfonal (filum terminale)"
+  },
+  {
+    "key": 674,
+    "hu": "Petevezeték rojtjai"
+  },
+  {
+    "key": 675,
+    "hu": "Első bordaközi (intercostalis primus)"
+  },
+  {
+    "key": 676,
+    "hu": "Első borda (01)"
+  },
+  {
+    "key": 677,
+    "hu": "Orsócsonti csuklóhajlító izom"
+  },
+  {
+    "key": 678,
+    "hu": "Singcsonti csuklóhajlító izom"
+  },
+  {
+    "key": 679,
+    "hu": "Rövid kisujjhajlító izom (láb)"
+  },
+  {
+    "key": 680,
+    "hu": "Rövid kisujjhajlító izom (kéz)"
+  },
+  {
+    "key": 681,
+    "hu": "Rövid lábujjhajlító izom"
+  },
+  {
+    "key": 682,
+    "hu": "Hosszú lábujjhajlító izom"
+  },
+  {
+    "key": 683,
+    "hu": "Mély ujjhajlító izom"
+  },
+  {
+    "key": 684,
+    "hu": "Felületes ujjhajlító izom"
+  },
+  {
+    "key": 685,
+    "hu": "Rövid öregujjhajlító izom"
+  },
+  {
+    "key": 686,
+    "hu": "Hosszú öregujjhajlító izom"
+  },
+  {
+    "key": 687,
+    "hu": "Rövid hüvelykujjhajlító izom"
+  },
+  {
+    "key": 688,
+    "hu": "Hosszú hüvelykujjhajlító izom"
+  },
+  {
+    "key": 689,
+    "hu": "Hajlítóinak leszorító szalagja (csukló)"
+  },
+  {
+    "key": 690,
+    "hu": "Hajlítóinak leszorító szalagja"
+  },
+  {
+    "key": 691,
+    "hu": "Kisagyi pelyhecske"
+  },
+  {
+    "key": 692,
+    "hu": "Láb"
+  },
+  {
+    "key": 693,
+    "hu": "Vaklyuk (foramen cecum)"
+  },
+  {
+    "key": 694,
+    "hu": "Rongyos lyuk, nyakszirtcsonti felszín"
+  },
+  {
+    "key": 695,
+    "hu": "Rongyos lyuk, ékcsonti felszín"
+  },
+  {
+    "key": 696,
+    "hu": "Rongyos lyuk, halántékcsonti felszín"
+  },
+  {
+    "key": 697,
+    "hu": "Öreglyuk"
+  },
+  {
+    "key": 698,
+    "hu": "Ovális lyuk"
+  },
+  {
+    "key": 699,
+    "hu": "Kerek lyuk"
+  },
+  {
+    "key": 700,
+    "hu": "Tövislyuk"
+  },
+  {
+    "key": 701,
+    "hu": "Ékcsont nyílásai"
+  },
+  {
+    "key": 702,
+    "hu": "Alkar"
+  },
+  {
+    "key": 703,
+    "hu": "Alkar, elülső oldal"
+  },
+  {
+    "key": 704,
+    "hu": "Alkar, hátsó oldal"
+  },
+  {
+    "key": 705,
+    "hu": "Előagy (prosencephalon)"
+  },
+  {
+    "key": 706,
+    "hu": "Boltozat (fornix)"
+  },
+  {
+    "key": 707,
+    "hu": "Negyedik borda (04)"
+  },
+  {
+    "key": 708,
+    "hu": "Negyedik agykamra"
+  },
+  {
+    "key": 709,
+    "hu": "Központi gödör (sárgafolt)"
+  },
+  {
+    "key": 710,
+    "hu": "Szabad idegvégződések"
+  },
+  {
+    "key": 711,
+    "hu": "Fék (frenulum)"
+  },
+  {
+    "key": 712,
+    "hu": "Homloklebeny"
+  },
+  {
+    "key": 713,
+    "hu": "Homloküregek (nyálkahártyák)"
+  },
+  {
+    "key": 714,
+    "hu": "Homloküregek"
+  },
+  {
+    "key": 715,
+    "hu": "Homlokcsont"
+  },
+  {
+    "key": 716,
+    "hu": "Gomba alakú nyelvszemölcsök"
+  },
+  {
+    "key": 717,
+    "hu": "Epehólyag"
+  },
+  {
+    "key": 718,
+    "hu": "Páratlan dúc (ganglion impar)"
+  },
+  {
+    "key": 719,
+    "hu": "Dúci ágak"
+  },
+  {
+    "key": 720,
+    "hu": "Gyomri (gyomorszáj körüli) nyirokcsomók"
+  },
+  {
+    "key": 721,
+    "hu": "Kétfejű lábikraizom (a háromfejű lábikraizom része)"
+  },
+  {
+    "key": 722,
+    "hu": "Gyomor-nyombéli ér"
+  },
+  {
+    "key": 723,
+    "hu": "Gyomor-csepleszi nyirokcsomók"
+  },
+  {
+    "key": 724,
+    "hu": "Gyomor-csepleszi ér"
+  },
+  {
+    "key": 725,
+    "hu": "Gyomor-csepleszi nyirokér"
+  },
+  {
+    "key": 726,
+    "hu": "Áll-nyelvizom"
+  },
+  {
+    "key": 727,
+    "hu": "Áll-nyelvcsonti izom"
+  },
+  {
+    "key": 728,
+    "hu": "Nemi szervek"
+  },
+  {
+    "key": 729,
+    "hu": "Comb-nemi ideg, combi ág"
+  },
+  {
+    "key": 730,
+    "hu": "Comb-nemi ideg, nemi ág"
+  },
+  {
+    "key": 731,
+    "hu": "Comb-nemi ideg"
+  },
+  {
+    "key": 732,
+    "hu": "Fogíny"
+  },
+  {
+    "key": 733,
+    "hu": "Makk"
+  },
+  {
+    "key": 734,
+    "hu": "Halvány gömb, külső rész"
+  },
+  {
+    "key": 735,
+    "hu": "Halvány gömb, belső rész"
+  },
+  {
+    "key": 736,
+    "hu": "Farizmok"
+  },
+  {
+    "key": 737,
+    "hu": "Nagy farizom"
+  },
+  {
+    "key": 738,
+    "hu": "Középső farizom"
+  },
+  {
+    "key": 739,
+    "hu": "Kis farizom"
+  },
+  {
+    "key": 740,
+    "hu": "Ivarmirigyi ér (petefészeki)"
+  },
+  {
+    "key": 741,
+    "hu": "Ivarmirigyi ér (petefészeki), petevezetékhez futó ág"
+  },
+  {
+    "key": 742,
+    "hu": "Ivarmirigyi ér (herei, belső ondóér)"
+  },
+  {
+    "key": 743,
+    "hu": "Ivarmirigyi nyirokér"
+  },
+  {
+    "key": 744,
+    "hu": "Ivarmirigyek"
+  },
+  {
+    "key": 745,
+    "hu": "Karcsúizom"
+  },
+  {
+    "key": 746,
+    "hu": "Nagy fülideg"
+  },
+  {
+    "key": 747,
+    "hu": "Nagy szívvéna (elülső kamraközi véna)"
+  },
+  {
+    "key": 748,
+    "hu": "Nagy hasnyálmirigy-artéria (pancreatica magna)"
+  },
+  {
+    "key": 749,
+    "hu": "Nagy rejtett véna"
+  },
+  {
+    "key": 750,
+    "hu": "Nagyerek"
+  },
+  {
+    "key": 751,
+    "hu": "Nagy (felületes) sziklacsonti ideg"
+  },
+  {
+    "key": 752,
+    "hu": "Nagy orrszárnyporc (alsó oldalsó porc)"
+  },
+  {
+    "key": 753,
+    "hu": "Nagy nyakszirti ideg"
+  },
+  {
+    "key": 754,
+    "hu": "Nagycseplesz (omentum majus)"
+  },
+  {
+    "key": 755,
+    "hu": "Nagy szájpadi (palatinus major)"
+  },
+  {
+    "key": 756,
+    "hu": "Nagy zsigeri idegek"
+  },
+  {
+    "key": 757,
+    "hu": "Nagytompori nyáktömlő"
+  },
+  {
+    "key": 758,
+    "hu": "Szürke összekötő ágak"
+  },
+  {
+    "key": 759,
+    "hu": "Ízlelőszemölcsök"
+  },
+  {
+    "key": 760,
+    "hu": "Szőrtüsző"
+  },
+  {
+    "key": 761,
+    "hu": "Szőrgyökér"
+  },
+  {
+    "key": 762,
+    "hu": "Szőrszál"
+  },
+  {
+    "key": 763,
+    "hu": "Horgas csont"
+  },
+  {
+    "key": 764,
+    "hu": "Kéz"
+  },
+  {
+    "key": 765,
+    "hu": "Kemény szájpad (csontos szájpad)"
+  },
+  {
+    "key": 766,
+    "hu": "Fej és nyak"
+  },
+  {
+    "key": 767,
+    "hu": "Fej"
+  },
+  {
+    "key": 768,
+    "hu": "Szívbillentyűk"
+  },
+  {
+    "key": 769,
+    "hu": "Szív"
+  },
+  {
+    "key": 770,
+    "hu": "Szív, hátsó oldal (rekeszi felszín)"
+  },
+  {
+    "key": 771,
+    "hu": "Szív, rekeszi felszín"
+  },
+  {
+    "key": 772,
+    "hu": "Szív, elülső oldal (szegycsont-bordai felszín)"
+  },
+  {
+    "key": 773,
+    "hu": "Szív, szegycsont-bordai felszín"
+  },
+  {
+    "key": 774,
+    "hu": "Félpáratlan véna (vena hemiazygos)"
+  },
+  {
+    "key": 775,
+    "hu": "Hensen-sejtek"
+  },
+  {
+    "key": 776,
+    "hu": "Májvezeték"
+  },
+  {
+    "key": 777,
+    "hu": "Máji nyirokcsomók"
+  },
+  {
+    "key": 778,
+    "hu": "Máji nyirokerek"
+  },
+  {
+    "key": 779,
+    "hu": "Májfonat"
+  },
+  {
+    "key": 780,
+    "hu": "Májkapuvéna és kapcsolódó ágai"
+  },
+  {
+    "key": 781,
+    "hu": "Májkapuvéna"
+  },
+  {
+    "key": 782,
+    "hu": "Májkapuvéna"
+  },
+  {
+    "key": 783,
+    "hu": "Középső májvéna"
+  },
+  {
+    "key": 784,
+    "hu": "Májvéna"
+  },
+  {
+    "key": 785,
+    "hu": "Félhold alakú rés (hiatus semilunaris)"
+  },
+  {
+    "key": 786,
+    "hu": "Magasabb rendű hörgőágak és hörgőcskék"
+  },
+  {
+    "key": 787,
+    "hu": "Rombuszagy (rhombencephalon)"
+  },
+  {
+    "key": 788,
+    "hu": "Csípő- és fartájék"
+  },
+  {
+    "key": 789,
+    "hu": "Medencecsontok (os coxae)"
+  },
+  {
+    "key": 790,
+    "hu": "Hippokampusz"
+  },
+  {
+    "key": 791,
+    "hu": "Vízszintes hasadék"
+  },
+  {
+    "key": 792,
+    "hu": "Felkarcsont"
+  },
+  {
+    "key": 793,
+    "hu": "Üvegtesti csatorna"
+  },
+  {
+    "key": 794,
+    "hu": "Nyelvcsont–gégefedői szalag"
+  },
+  {
+    "key": 795,
+    "hu": "Nyelvcsont-nyelvizom"
+  },
+  {
+    "key": 796,
+    "hu": "Nyelvcsont"
+  },
+  {
+    "key": 797,
+    "hu": "Bőralja"
+  },
+  {
+    "key": 798,
+    "hu": "Alhasi idegfonat"
+  },
+  {
+    "key": 799,
+    "hu": "Alhasi (hypogastricus)"
+  },
+  {
+    "key": 800,
+    "hu": "Nyelv alatti ideg csatornája"
+  },
+  {
+    "key": 801,
+    "hu": "Agyalapi mirigy artériái"
+  },
+  {
+    "key": 802,
+    "hu": "Agyalapi mirigy kapuér-rendszere"
+  },
+  {
+    "key": 803,
+    "hu": "Agyalapi mirigy vénái"
+  },
+  {
+    "key": 804,
+    "hu": "Agyalapi mirigyi (hypophysialis)"
+  },
+  {
+    "key": 805,
+    "hu": "Hipotalamuszmagok"
+  },
+  {
+    "key": 806,
+    "hu": "Hipotalamusz"
+  },
+  {
+    "key": 807,
+    "hu": "Csípőbél–vakbéli billentyű"
+  },
+  {
+    "key": 808,
+    "hu": "Csípőbél–vastagbéli fonat"
+  },
+  {
+    "key": 809,
+    "hu": "Csípőbél–vastagbéli ér"
+  },
+  {
+    "key": 810,
+    "hu": "Csípőbél–vastagbéli ér, vastagbéli ág"
+  },
+  {
+    "key": 811,
+    "hu": "Csípőbél–vastagbéli ér, csípőbéli ág"
+  },
+  {
+    "key": 812,
+    "hu": "Csípőbél (ileum)"
+  },
+  {
+    "key": 813,
+    "hu": "Csípőizom"
+  },
+  {
+    "key": 814,
+    "hu": "Csípőcsont–farkcsonti izom (a végbélemelő izom része)"
+  },
+  {
+    "key": 815,
+    "hu": "Csípő-bordai izom (oldalsó izomvonulat)"
+  },
+  {
+    "key": 816,
+    "hu": "Nyaki csípő-bordai izom"
+  },
+  {
+    "key": 817,
+    "hu": "Ágyéki csípő-bordai izom"
+  },
+  {
+    "key": 818,
+    "hu": "Háti csípő-bordai izom"
+  },
+  {
+    "key": 819,
+    "hu": "Csípőcsont–combcsonti szalag"
+  },
+  {
+    "key": 820,
+    "hu": "Csípő-alhasi ideg"
+  },
+  {
+    "key": 821,
+    "hu": "Csípő-lágyéki ideg"
+  },
+  {
+    "key": 822,
+    "hu": "Csípőcsont–ágyéki szalag"
+  },
+  {
+    "key": 823,
+    "hu": "Csípő-ágyéki ér"
+  },
+  {
+    "key": 824,
+    "hu": "Csípő-horpaszizom nyáktömlője"
+  },
+  {
+    "key": 825,
+    "hu": "Csípő–sípcsonti köteg (Maissiat-szalag)"
+  },
+  {
+    "key": 826,
+    "hu": "Csípőcsont"
+  },
+  {
+    "key": 827,
+    "hu": "Metszőfog"
+  },
+  {
+    "key": 828,
+    "hu": "Üllő"
+  },
+  {
+    "key": 829,
+    "hu": "Üllő teste"
+  },
+  {
+    "key": 830,
+    "hu": "Üllő kalapácsi ízfelszíne"
+  },
+  {
+    "key": 831,
+    "hu": "Üllő lencsenyúlványa"
+  },
+  {
+    "key": 832,
+    "hu": "Üllő hosszú szára"
+  },
+  {
+    "key": 833,
+    "hu": "Üllő rövid szára"
+  },
+  {
+    "key": 834,
+    "hu": "Szürke fátyol (indusium griseum)"
+  },
+  {
+    "key": 835,
+    "hu": "Alsó mellékvesei ér"
+  },
+  {
+    "key": 836,
+    "hu": "Alsó fogmedri (alveolaris inferior)"
+  },
+  {
+    "key": 837,
+    "hu": "Alsó nyaki szimpatikus szívideg"
+  },
+  {
+    "key": 838,
+    "hu": "Alsó fari bőridegek"
+  },
+  {
+    "key": 839,
+    "hu": "Alsó ikertest"
+  },
+  {
+    "key": 840,
+    "hu": "Alsó mély oldalsó nyaki (ferde nyakizmi) nyirokcsomó"
+  },
+  {
+    "key": 841,
+    "hu": "Alsó gyomortáji ér"
+  },
+  {
+    "key": 842,
+    "hu": "Feszítőinak alsó leszorító szalagja"
+  },
+  {
+    "key": 843,
+    "hu": "Alsó ikerizom"
+  },
+  {
+    "key": 844,
+    "hu": "Alsó vállízületi szalag"
+  },
+  {
+    "key": 845,
+    "hu": "Alsó fari (gluteus inferior)"
+  },
+  {
+    "key": 846,
+    "hu": "Alsó alhasi idegfonat"
+  },
+  {
+    "key": 847,
+    "hu": "Alsó agyalapi mirigyi ér"
+  },
+  {
+    "key": 848,
+    "hu": "Alsó ajki ér"
+  },
+  {
+    "key": 849,
+    "hu": "Alsó oldalsó szemhéji artéria"
+  },
+  {
+    "key": 850,
+    "hu": "Alsó oldalsó szemhéji véna"
+  },
+  {
+    "key": 851,
+    "hu": "Alsó oldalsó szemhéji (palpebralis lateralis inferior)"
+  },
+  {
+    "key": 852,
+    "hu": "Alsó lebeny"
+  },
+  {
+    "key": 853,
+    "hu": "Alsó belső szemhéji artéria"
+  },
+  {
+    "key": 854,
+    "hu": "Alsó belső szemhéji véna"
+  },
+  {
+    "key": 855,
+    "hu": "Alsó belső szemhéji (palpebralis medialis inferior)"
+  },
+  {
+    "key": 856,
+    "hu": "Alsó bélfodri dúc"
+  },
+  {
+    "key": 857,
+    "hu": "Alsó bélfodri fonat"
+  },
+  {
+    "key": 858,
+    "hu": "Alsó bélfodri ér"
+  },
+  {
+    "key": 859,
+    "hu": "Alsó bélfodri ér, ágak"
+  },
+  {
+    "key": 860,
+    "hu": "Alsó ferde szemizom"
+  },
+  {
+    "key": 861,
+    "hu": "Alsó szemvéna"
+  },
+  {
+    "key": 862,
+    "hu": "Alsó szemhéji artériás ív"
+  },
+  {
+    "key": 863,
+    "hu": "Alsó szemhéji vénás ív"
+  },
+  {
+    "key": 864,
+    "hu": "Alsó hasnyálmirigyi nyirokcsomók"
+  },
+  {
+    "key": 865,
+    "hu": "Alsó hasnyálmirigyi ér"
+  },
+  {
+    "key": 866,
+    "hu": "Szárkapcsi inak alsó leszorító szalagja"
+  },
+  {
+    "key": 867,
+    "hu": "Alsó sziklacsonti öböl"
+  },
+  {
+    "key": 868,
+    "hu": "Alsó garatszűkítő izom (gyűrűporci rész)"
+  },
+  {
+    "key": 869,
+    "hu": "Alsó garatszűkítő izom (pajzsporci rész)"
+  },
+  {
+    "key": 870,
+    "hu": "Alsó rekeszi nyirokcsomók"
+  },
+  {
+    "key": 871,
+    "hu": "Alsó rekeszi ér"
+  },
+  {
+    "key": 872,
+    "hu": "Alsó végbéli (rectalis inferior)"
+  },
+  {
+    "key": 873,
+    "hu": "Alsó egyenes szemizom"
+  },
+  {
+    "key": 874,
+    "hu": "Alsó nyílirányú öböl"
+  },
+  {
+    "key": 875,
+    "hu": "Legalsó pajzsmirigyi artéria (thyroidea ima)"
+  },
+  {
+    "key": 876,
+    "hu": "Alsó pajzsmirigyi ér"
+  },
+  {
+    "key": 877,
+    "hu": "Alsó légcső-hörgői nyirokcsomók"
+  },
+  {
+    "key": 878,
+    "hu": "Alsó légcső-hörgői nyirokerek"
+  },
+  {
+    "key": 879,
+    "hu": "Alsó üres véna (kezdeti szakasz)"
+  },
+  {
+    "key": 880,
+    "hu": "Alsó üres véna"
+  },
+  {
+    "key": 881,
+    "hu": "Alsó húgyhólyagi ér"
+  },
+  {
+    "key": 882,
+    "hu": "Kötegek kulcscsont alatti ágai"
+  },
+  {
+    "key": 883,
+    "hu": "Emlő alatti nyirokcsomók"
+  },
+  {
+    "key": 884,
+    "hu": "Szemüreg alatti csatorna és nyílás"
+  },
+  {
+    "key": 885,
+    "hu": "Szemüreg alatti (infraorbitalis)"
+  },
+  {
+    "key": 886,
+    "hu": "Tövis alatti izom"
+  },
+  {
+    "key": 887,
+    "hu": "Tölcsér (infundibulum)"
+  },
+  {
+    "key": 888,
+    "hu": "Lágyékszalag"
+  },
+  {
+    "key": 889,
+    "hu": "Belső fül"
+  },
+  {
+    "key": 890,
+    "hu": "Belső szőrsejtek"
+  },
+  {
+    "key": 891,
+    "hu": "Belső szőrök"
+  },
+  {
+    "key": 892,
+    "hu": "Belső ujjpercszerű támasztósejtek"
+  },
+  {
+    "key": 893,
+    "hu": "Belső pillérsejtek"
+  },
+  {
+    "key": 894,
+    "hu": "Kültakaró (bőr) rendszere"
+  },
+  {
+    "key": 895,
+    "hu": "Pitvarközi köteg (Bachmann-köteg)"
+  },
+  {
+    "key": 896,
+    "hu": "Közbeiktatott nyirokcsomó"
+  },
+  {
+    "key": 897,
+    "hu": "Fejecskék közötti ér"
+  },
+  {
+    "key": 898,
+    "hu": "Kéztőcsontközi szalagok"
+  },
+  {
+    "key": 899,
+    "hu": "Bordaközi (mellkasi) nyirokcsomók"
+  },
+  {
+    "key": 900,
+    "hu": "Bordaközi artéria [11]"
+  },
+  {
+    "key": 901,
+    "hu": "Bordaközi nyirokerek"
+  },
+  {
+    "key": 902,
+    "hu": "Bordaközi nyiroktörzs és nyirokcsomók"
+  },
+  {
+    "key": 903,
+    "hu": "Bordaköziek (intercostales) [01-11]"
+  },
+  {
+    "key": 904,
+    "hu": "Bordaköziek (intercostales) [03-10]"
+  },
+  {
+    "key": 905,
+    "hu": "Bordaköziek (intercostales)"
+  },
+  {
+    "key": 906,
+    "hu": "Középső ékcsont"
+  },
+  {
+    "key": 907,
+    "hu": "Köztes hézagi nyirokcsomó"
+  },
+  {
+    "key": 908,
+    "hu": "Köztes ágyéki nyirokcsomók"
+  },
+  {
+    "key": 909,
+    "hu": "Középső-belső homloki ág"
+  },
+  {
+    "key": 910,
+    "hu": "Bélfodrok közötti (aorta körüli) fonat"
+  },
+  {
+    "key": 911,
+    "hu": "Belső hallójárat"
+  },
+  {
+    "key": 912,
+    "hu": "Belső nyaki verőér"
+  },
+  {
+    "key": 913,
+    "hu": "Belső nyaki verőéri fonat"
+  },
+  {
+    "key": 914,
+    "hu": "Belső nyaki verőér, barlangos szakasz"
+  },
+  {
+    "key": 915,
+    "hu": "Belső nyaki verőér, agyi szakasz"
+  },
+  {
+    "key": 916,
+    "hu": "Belső nyaki verőér, nyaki szakasz"
+  },
+  {
+    "key": 917,
+    "hu": "Belső nyaki verőér"
+  },
+  {
+    "key": 918,
+    "hu": "Belső nyaki verőér, sziklacsonti szakasz"
+  },
+  {
+    "key": 919,
+    "hu": "Belső nemi szervek"
+  },
+  {
+    "key": 920,
+    "hu": "Belső csípőér menti (alhasi) nyirokcsomók"
+  },
+  {
+    "key": 921,
+    "hu": "Belső csípőéri fonat"
+  },
+  {
+    "key": 922,
+    "hu": "Belső csípővéna, elülső törzs"
+  },
+  {
+    "key": 923,
+    "hu": "Belső csípővéna, hátsó törzs"
+  },
+  {
+    "key": 924,
+    "hu": "Belső csípőér, elülső törzs"
+  },
+  {
+    "key": 925,
+    "hu": "Belső csípőér"
+  },
+  {
+    "key": 926,
+    "hu": "Belső csípőér, hátsó törzs"
+  },
+  {
+    "key": 927,
+    "hu": "Belső bordaközi izom"
+  },
+  {
+    "key": 928,
+    "hu": "Belső nyaki nyirokér"
+  },
+  {
+    "key": 929,
+    "hu": "Belső torkolati véna"
+  },
+  {
+    "key": 930,
+    "hu": "Belső torkolati véna"
+  },
+  {
+    "key": 931,
+    "hu": "Belső ferde hasizom"
+  },
+  {
+    "key": 932,
+    "hu": "Belső szeméremi (pudendus internus)"
+  },
+  {
+    "key": 933,
+    "hu": "Belső spirális barázda"
+  },
+  {
+    "key": 934,
+    "hu": "Belső mellkasi (emlői) ér"
+  },
+  {
+    "key": 935,
+    "hu": "Belső húgycsőzáró izom"
+  },
+  {
+    "key": 936,
+    "hu": "Csontközi (elülső) ugrócsont–sarokcsonti szalag"
+  },
+  {
+    "key": 937,
+    "hu": "Alkari csontközi hártya"
+  },
+  {
+    "key": 938,
+    "hu": "Lábszári csontközi hártya (középső sípcsont–szárkapocscsonti szalag)"
+  },
+  {
+    "key": 939,
+    "hu": "Visszahajló csontközi ér"
+  },
+  {
+    "key": 940,
+    "hu": "Mellizmok közötti nyirokerek"
+  },
+  {
+    "key": 941,
+    "hu": "Kéz távolabbi ujjpercközti ízületi tokjai (DIP)"
+  },
+  {
+    "key": 942,
+    "hu": "Láb távolabbi ujjpercközti szalagjai (DIP)"
+  },
+  {
+    "key": 943,
+    "hu": "Kéz közelebbi ujjpercközti ízületi tokjai (PIP)"
+  },
+  {
+    "key": 944,
+    "hu": "Láb közelebbi ujjpercközti szalagjai (PIP)"
+  },
+  {
+    "key": 945,
+    "hu": "Hüvelykujj ujjpercközti ízületi tokja"
+  },
+  {
+    "key": 946,
+    "hu": "Ujjpercközti ízületek (szalagok)"
+  },
+  {
+    "key": 947,
+    "hu": "Öregujj ujjpercközti szalagja"
+  },
+  {
+    "key": 948,
+    "hu": "Ujjpercközti szalagok"
+  },
+  {
+    "key": 949,
+    "hu": "Nyaki tövisnyúlványközti izmok"
+  },
+  {
+    "key": 950,
+    "hu": "Ágyéki tövisnyúlványközti izmok"
+  },
+  {
+    "key": 951,
+    "hu": "Tövisnyúlványközti izmok"
+  },
+  {
+    "key": 952,
+    "hu": "Talamuszok közötti összenövés"
+  },
+  {
+    "key": 953,
+    "hu": "Elülső nyaki harántnyúlványközti izmok"
+  },
+  {
+    "key": 954,
+    "hu": "Oldalsó ágyéki harántnyúlványközti izmok"
+  },
+  {
+    "key": 955,
+    "hu": "Belső ágyéki harántnyúlványközti izmok"
+  },
+  {
+    "key": 956,
+    "hu": "Hátsó nyaki harántnyúlványközti izmok"
+  },
+  {
+    "key": 957,
+    "hu": "Harántnyúlványközti izmok"
+  },
+  {
+    "key": 958,
+    "hu": "Nyaki harántnyúlványközti szalagok"
+  },
+  {
+    "key": 959,
+    "hu": "Ágyéki harántnyúlványközti szalagok"
+  },
+  {
+    "key": 960,
+    "hu": "Háti harántnyúlványközti szalagok"
+  },
+  {
+    "key": 961,
+    "hu": "Gumók közötti ínhüvely"
+  },
+  {
+    "key": 962,
+    "hu": "Kamraközi sövény"
+  },
+  {
+    "key": 963,
+    "hu": "Bél-nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 964,
+    "hu": "Béli (intestinalis)"
+  },
+  {
+    "key": 965,
+    "hu": "Gerinc saját izmai"
+  },
+  {
+    "key": 966,
+    "hu": "Gerinc saját izomzata"
+  },
+  {
+    "key": 967,
+    "hu": "Szivárványhártya"
+  },
+  {
+    "key": 968,
+    "hu": "Ülőcsont-barlangos izom"
+  },
+  {
+    "key": 969,
+    "hu": "Ülőcsont–combcsonti szalag"
+  },
+  {
+    "key": 970,
+    "hu": "Ülőgumói nyáktömlő"
+  },
+  {
+    "key": 971,
+    "hu": "Ülőcsont"
+  },
+  {
+    "key": 972,
+    "hu": "Éhbéli és csípőbéli ágak"
+  },
+  {
+    "key": 973,
+    "hu": "Éhbél (jejunum)"
+  },
+  {
+    "key": 974,
+    "hu": "Állkapocsízület tokja"
+  },
+  {
+    "key": 975,
+    "hu": "Torkolati nyílás, nyakszirtcsonti felszín"
+  },
+  {
+    "key": 976,
+    "hu": "Torkolati nyílás, halántékcsonti felszín"
+  },
+  {
+    "key": 977,
+    "hu": "Torkolati ideg"
+  },
+  {
+    "key": 978,
+    "hu": "Nyaki nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 979,
+    "hu": "Torkolati-kéthasú izmi nyirokcsomó"
+  },
+  {
+    "key": 980,
+    "hu": "Nyaki és arci vénák találkozásának nyirokcsomói"
+  },
+  {
+    "key": 981,
+    "hu": "Torkolati-lapocka-nyelvcsonti nyirokcsomó"
+  },
+  {
+    "key": 982,
+    "hu": "Nyelőcső melletti nyirokcsomók"
+  },
+  {
+    "key": 983,
+    "hu": "Vese, hátsó rész"
+  },
+  {
+    "key": 984,
+    "hu": "Vese, elülső rész"
+  },
+  {
+    "key": 985,
+    "hu": "Vese"
+  },
+  {
+    "key": 986,
+    "hu": "L01 Hátsó ág"
+  },
+  {
+    "key": 987,
+    "hu": "L01 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 988,
+    "hu": "L01 Hátsó ág, belső ág"
+  },
+  {
+    "key": 989,
+    "hu": "L01 Hátsó gyöki dúc"
+  },
+  {
+    "key": 990,
+    "hu": "L01 Hátsó gyökér"
+  },
+  {
+    "key": 991,
+    "hu": "L01 Gerincvelői ideg"
+  },
+  {
+    "key": 992,
+    "hu": "L01 Elülső gyökér"
+  },
+  {
+    "key": 993,
+    "hu": "L01 Csigolya"
+  },
+  {
+    "key": 994,
+    "hu": "L01-L02 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 995,
+    "hu": "L02 Hátsó ág"
+  },
+  {
+    "key": 996,
+    "hu": "L02 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 997,
+    "hu": "L02 Hátsó ág, belső ág"
+  },
+  {
+    "key": 998,
+    "hu": "L02 Hátsó gyöki dúc"
+  },
+  {
+    "key": 999,
+    "hu": "L02 Hátsó gyökér"
+  },
+  {
+    "key": 1000,
+    "hu": "L02 Gerincvelői ideg"
+  },
+  {
+    "key": 1001,
+    "hu": "L02 Elülső gyökér"
+  },
+  {
+    "key": 1002,
+    "hu": "L02 Csigolya"
+  },
+  {
+    "key": 1003,
+    "hu": "L02-L03 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 1004,
+    "hu": "L03 Hátsó ág"
+  },
+  {
+    "key": 1005,
+    "hu": "L03 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 1006,
+    "hu": "L03 Hátsó ág, belső ág"
+  },
+  {
+    "key": 1007,
+    "hu": "L03 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1008,
+    "hu": "L03 Hátsó gyökér"
+  },
+  {
+    "key": 1009,
+    "hu": "L03 Gerincvelői ideg"
+  },
+  {
+    "key": 1010,
+    "hu": "L03 Elülső gyökér"
+  },
+  {
+    "key": 1011,
+    "hu": "L03 Csigolya"
+  },
+  {
+    "key": 1012,
+    "hu": "L03-L04 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 1013,
+    "hu": "L04 Hátsó ág"
+  },
+  {
+    "key": 1014,
+    "hu": "L04 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 1015,
+    "hu": "L04 Hátsó ág, belső ág"
+  },
+  {
+    "key": 1016,
+    "hu": "L04 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1017,
+    "hu": "L04 Hátsó gyökér"
+  },
+  {
+    "key": 1018,
+    "hu": "L04 Gerincvelői ideg"
+  },
+  {
+    "key": 1019,
+    "hu": "L04 Elülső gyökér"
+  },
+  {
+    "key": 1020,
+    "hu": "L04 Csigolya"
+  },
+  {
+    "key": 1021,
+    "hu": "L04-L05 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 1022,
+    "hu": "L05 Hátsó ág"
+  },
+  {
+    "key": 1023,
+    "hu": "L05 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 1024,
+    "hu": "L05 Hátsó ág, belső ág"
+  },
+  {
+    "key": 1025,
+    "hu": "L05 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1026,
+    "hu": "L05 Hátsó gyökér"
+  },
+  {
+    "key": 1027,
+    "hu": "L05 Gerincvelői ideg"
+  },
+  {
+    "key": 1028,
+    "hu": "L05 Elülső gyökér"
+  },
+  {
+    "key": 1029,
+    "hu": "L05 Csigolya"
+  },
+  {
+    "key": 1030,
+    "hu": "L05-S01 Ágyék-keresztcsonti porckorong (rostos porc)"
+  },
+  {
+    "key": 1031,
+    "hu": "Kis szeméremajkak"
+  },
+  {
+    "key": 1032,
+    "hu": "Ajki ágak"
+  },
+  {
+    "key": 1033,
+    "hu": "Könnykészülék"
+  },
+  {
+    "key": 1034,
+    "hu": "Könnyartéria"
+  },
+  {
+    "key": 1035,
+    "hu": "Könnycsövecskék"
+  },
+  {
+    "key": 1036,
+    "hu": "Könnymirigy, kivezetőcsövek"
+  },
+  {
+    "key": 1037,
+    "hu": "Könnymirigy, szemüregi rész"
+  },
+  {
+    "key": 1038,
+    "hu": "Könnymirigy, szemhéji rész"
+  },
+  {
+    "key": 1039,
+    "hu": "Könnytömlő"
+  },
+  {
+    "key": 1040,
+    "hu": "Könnyvéna"
+  },
+  {
+    "key": 1041,
+    "hu": "Könnyi (lacrimalis)"
+  },
+  {
+    "key": 1042,
+    "hu": "Tejvezetékek"
+  },
+  {
+    "key": 1043,
+    "hu": "Langerhans-sejtek"
+  },
+  {
+    "key": 1044,
+    "hu": "Vastagbél"
+  },
+  {
+    "key": 1045,
+    "hu": "Gégeizmok"
+  },
+  {
+    "key": 1046,
+    "hu": "Gége váza"
+  },
+  {
+    "key": 1047,
+    "hu": "Gégegarat"
+  },
+  {
+    "key": 1048,
+    "hu": "Gégegarat* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 1049,
+    "hu": "Gégegarat* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 1050,
+    "hu": "Gége"
+  },
+  {
+    "key": 1051,
+    "hu": "Külső bokaszalag (elülső ugrócsont–szárkapocscsonti rész)"
+  },
+  {
+    "key": 1052,
+    "hu": "Külső bokaszalag (sarokcsont–szárkapocscsonti rész)"
+  },
+  {
+    "key": 1053,
+    "hu": "Külső bokaszalag (hátsó ugrócsont–szárkapocscsonti rész)"
+  },
+  {
+    "key": 1054,
+    "hu": "Oldalsó (felső oldalsó orr-) porc"
+  },
+  {
+    "key": 1055,
+    "hu": "Aorta melletti oldalsó nyirokerek"
+  },
+  {
+    "key": 1056,
+    "hu": "Üres véna melletti oldalsó nyirokcsomók"
+  },
+  {
+    "key": 1057,
+    "hu": "Oldalsó combkörüli ér, leszálló ág"
+  },
+  {
+    "key": 1058,
+    "hu": "Külső (szárkapocscsonti) oldalszalag (LCL)"
+  },
+  {
+    "key": 1059,
+    "hu": "Oldalsó izomrekesz (lábszár)"
+  },
+  {
+    "key": 1060,
+    "hu": "Oldalsó köteg (C05-C07)"
+  },
+  {
+    "key": 1061,
+    "hu": "Oldalsó gyűrű-kannaporcizom"
+  },
+  {
+    "key": 1062,
+    "hu": "Oldalsó ékcsont"
+  },
+  {
+    "key": 1063,
+    "hu": "Oldalsó combbőrideg"
+  },
+  {
+    "key": 1064,
+    "hu": "Oldalsó homlokalapi (orbitofrontális) ér"
+  },
+  {
+    "key": 1065,
+    "hu": "Kétfejű lábikraizom oldalsó ina alatti nyáktömlő"
+  },
+  {
+    "key": 1066,
+    "hu": "Külső alsó térdi ér"
+  },
+  {
+    "key": 1067,
+    "hu": "Állkapocsízület oldalszalagja"
+  },
+  {
+    "key": 1068,
+    "hu": "Kalapács oldalsó szalagja"
+  },
+  {
+    "key": 1069,
+    "hu": "Külső meniszkusz"
+  },
+  {
+    "key": 1070,
+    "hu": "Oldalsó mag (oldalsó hipotalamikus terület)"
+  },
+  {
+    "key": 1071,
+    "hu": "Oldalsó mellizomideg (C05-C07)"
+  },
+  {
+    "key": 1072,
+    "hu": "Oldalsó szívburoki nyirokcsomók"
+  },
+  {
+    "key": 1073,
+    "hu": "Külső talpi (plantaris lateralis)"
+  },
+  {
+    "key": 1074,
+    "hu": "Oldalsó preoptikus mag"
+  },
+  {
+    "key": 1075,
+    "hu": "Külső röpizom (alsó fej)"
+  },
+  {
+    "key": 1076,
+    "hu": "Külső röpizom (felső fej)"
+  },
+  {
+    "key": 1077,
+    "hu": "Külső röpizom"
+  },
+  {
+    "key": 1078,
+    "hu": "Külső egyenes szemizom"
+  },
+  {
+    "key": 1079,
+    "hu": "Kifelé forgató izmok"
+  },
+  {
+    "key": 1080,
+    "hu": "Oldalsó keresztcsonti nyirokcsomók"
+  },
+  {
+    "key": 1081,
+    "hu": "Oldalsó keresztcsonti (sacralis lateralis)"
+  },
+  {
+    "key": 1082,
+    "hu": "Oldalsó félkörös ívjárat"
+  },
+  {
+    "key": 1083,
+    "hu": "Oldalsó barázda"
+  },
+  {
+    "key": 1084,
+    "hu": "Külső felső térdi ér"
+  },
+  {
+    "key": 1085,
+    "hu": "Oldalsó lábikrai bőrideg"
+  },
+  {
+    "key": 1086,
+    "hu": "Oldalsó ugrócsont–sarokcsonti szalag"
+  },
+  {
+    "key": 1087,
+    "hu": "Oldalsó lábtői ér"
+  },
+  {
+    "key": 1088,
+    "hu": "Talamusz oldalsó magjai"
+  },
+  {
+    "key": 1089,
+    "hu": "Oldalsó mellkasi ér"
+  },
+  {
+    "key": 1090,
+    "hu": "Oldalkamra"
+  },
+  {
+    "key": 1091,
+    "hu": "Széles hátizom"
+  },
+  {
+    "key": 1092,
+    "hu": "Láb, 1. réteg"
+  },
+  {
+    "key": 1093,
+    "hu": "Láb, 2. réteg"
+  },
+  {
+    "key": 1094,
+    "hu": "Láb, 3. réteg"
+  },
+  {
+    "key": 1095,
+    "hu": "Láb, 4. réteg"
+  },
+  {
+    "key": 1096,
+    "hu": "Legkisebb zsigeri ideg"
+  },
+  {
+    "key": 1097,
+    "hu": "Bal aorta-vesei dúc"
+  },
+  {
+    "key": 1098,
+    "hu": "Bal pitvar"
+  },
+  {
+    "key": 1099,
+    "hu": "Bal vastagbéli fonat"
+  },
+  {
+    "key": 1100,
+    "hu": "Bal vastagbéli ér"
+  },
+  {
+    "key": 1101,
+    "hu": "Bal koszorúér"
+  },
+  {
+    "key": 1102,
+    "hu": "Bal gyomri nyirokcsomók"
+  },
+  {
+    "key": 1103,
+    "hu": "Bal gyomri fonat"
+  },
+  {
+    "key": 1104,
+    "hu": "Bal gyomri ér"
+  },
+  {
+    "key": 1105,
+    "hu": "Bal oldali aorta melletti nyirokcsomók"
+  },
+  {
+    "key": 1106,
+    "hu": "Bal ágyéki nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 1107,
+    "hu": "Bal nyirokvezeték (mellvezeték)"
+  },
+  {
+    "key": 1108,
+    "hu": "Bal nyirokvezeték (ductus thoracicus)"
+  },
+  {
+    "key": 1109,
+    "hu": "Bal kamra"
+  },
+  {
+    "key": 1110,
+    "hu": "Bal kamra, rekeszi felszín"
+  },
+  {
+    "key": 1111,
+    "hu": "Bal kamra, szegycsont-bordai felszín"
+  },
+  {
+    "key": 1112,
+    "hu": "Alsó végtag"
+  },
+  {
+    "key": 1113,
+    "hu": "Szemlencse"
+  },
+  {
+    "key": 1114,
+    "hu": "Kis nyakszirti ideg"
+  },
+  {
+    "key": 1115,
+    "hu": "Kiscseplesz (omentum minus)"
+  },
+  {
+    "key": 1116,
+    "hu": "Kis szájpadi (palatinus minor)"
+  },
+  {
+    "key": 1117,
+    "hu": "Kis zsigeri idegek"
+  },
+  {
+    "key": 1118,
+    "hu": "Szájzugemelő izom"
+  },
+  {
+    "key": 1119,
+    "hu": "Felsőajak- és orrszárnyemelő izom"
+  },
+  {
+    "key": 1120,
+    "hu": "Felsőajak-emelő izom"
+  },
+  {
+    "key": 1121,
+    "hu": "Felső szemhéjemelő izom"
+  },
+  {
+    "key": 1122,
+    "hu": "Lapockaemelő izom"
+  },
+  {
+    "key": 1123,
+    "hu": "Lágyszájpademelő izom"
+  },
+  {
+    "key": 1124,
+    "hu": "Rövid bordaemelő izmok"
+  },
+  {
+    "key": 1125,
+    "hu": "Hosszú bordaemelő izmok"
+  },
+  {
+    "key": 1126,
+    "hu": "Treitz-szalag (a nyombél felfüggesztő izma)"
+  },
+  {
+    "key": 1127,
+    "hu": "Sárga szalagok, nyaki szakasz"
+  },
+  {
+    "key": 1128,
+    "hu": "Sárga szalagok, ágyéki szakasz"
+  },
+  {
+    "key": 1129,
+    "hu": "Sárga szalagok, háti szakasz"
+  },
+  {
+    "key": 1130,
+    "hu": "Boka és láb szalagjai"
+  },
+  {
+    "key": 1131,
+    "hu": "Könyök szalagjai"
+  },
+  {
+    "key": 1132,
+    "hu": "Csípő szalagjai"
+  },
+  {
+    "key": 1133,
+    "hu": "Térd szalagjai"
+  },
+  {
+    "key": 1134,
+    "hu": "Máj szalagjai"
+  },
+  {
+    "key": 1135,
+    "hu": "Medence szalagjai"
+  },
+  {
+    "key": 1136,
+    "hu": "Vállöv szalagjai"
+  },
+  {
+    "key": 1137,
+    "hu": "Koponya szalagjai"
+  },
+  {
+    "key": 1138,
+    "hu": "Gerinc szalagjai"
+  },
+  {
+    "key": 1139,
+    "hu": "Csukló és kéz szalagjai"
+  },
+  {
+    "key": 1140,
+    "hu": "Máj kerek szalagja (ligamentum teres hepatis), elzáródott köldökvénával"
+  },
+  {
+    "key": 1141,
+    "hu": "Vénás szalag (a ductus venosus maradványa)"
+  },
+  {
+    "key": 1142,
+    "hu": "Limbikus rendszer"
+  },
+  {
+    "key": 1143,
+    "hu": "Limbikus (limbicus)"
+  },
+  {
+    "key": 1144,
+    "hu": "Fehér vonal (linea alba)"
+  },
+  {
+    "key": 1145,
+    "hu": "Nyelvgyöki mandulák"
+  },
+  {
+    "key": 1146,
+    "hu": "Nyelvi (lingualis)"
+  },
+  {
+    "key": 1147,
+    "hu": "Máj, működési-sebészeti (Couinaud-) szegmentumok"
+  },
+  {
+    "key": 1148,
+    "hu": "Máj, bal oldalsó rész"
+  },
+  {
+    "key": 1149,
+    "hu": "Máj, bal belső rész"
+  },
+  {
+    "key": 1150,
+    "hu": "Máj, bal rész"
+  },
+  {
+    "key": 1151,
+    "hu": "Máj, jobb oldalsó rész"
+  },
+  {
+    "key": 1152,
+    "hu": "Máj, jobb belső rész"
+  },
+  {
+    "key": 1153,
+    "hu": "Máj, jobb rész"
+  },
+  {
+    "key": 1154,
+    "hu": "Prosztata lebenyei"
+  },
+  {
+    "key": 1155,
+    "hu": "Hosszú talpi szalag"
+  },
+  {
+    "key": 1156,
+    "hu": "Hosszú mellkasi ideg (C05-C07)"
+  },
+  {
+    "key": 1157,
+    "hu": "Leghosszabb hátizom (középső izomvonulat)"
+  },
+  {
+    "key": 1158,
+    "hu": "Feji leghosszabb izom"
+  },
+  {
+    "key": 1159,
+    "hu": "Nyaki leghosszabb izom"
+  },
+  {
+    "key": 1160,
+    "hu": "Háti leghosszabb izom"
+  },
+  {
+    "key": 1161,
+    "hu": "Hosszanti (külső) izomréteg"
+  },
+  {
+    "key": 1162,
+    "hu": "Hosszanti kötegek (a fejgyám keresztszalagjának részei)"
+  },
+  {
+    "key": 1163,
+    "hu": "Hosszú fejizom"
+  },
+  {
+    "key": 1164,
+    "hu": "Hosszú nyakizom (alsó ferde rész)"
+  },
+  {
+    "key": 1165,
+    "hu": "Hosszú nyakizom (felső ferde rész)"
+  },
+  {
+    "key": 1166,
+    "hu": "Hosszú nyakizom (függőleges rész)"
+  },
+  {
+    "key": 1167,
+    "hu": "Alsó ív"
+  },
+  {
+    "key": 1168,
+    "hu": "Alsó végtag"
+  },
+  {
+    "key": 1169,
+    "hu": "Alsó végtag és az elvezetésben részt vevő nyirokcsomók"
+  },
+  {
+    "key": 1170,
+    "hu": "Alsó végtag"
+  },
+  {
+    "key": 1171,
+    "hu": "Alsó légutak"
+  },
+  {
+    "key": 1172,
+    "hu": "Alsó lapocka alatti ideg (C05-C06)"
+  },
+  {
+    "key": 1173,
+    "hu": "Alsó törzs (C08, T01)"
+  },
+  {
+    "key": 1174,
+    "hu": "Alsó rész"
+  },
+  {
+    "key": 1175,
+    "hu": "Ágyéki idegfonat"
+  },
+  {
+    "key": 1176,
+    "hu": "Ágyéki gerinc"
+  },
+  {
+    "key": 1177,
+    "hu": "Ágyéki nyiroktörzs"
+  },
+  {
+    "key": 1178,
+    "hu": "Ágyéki (lumbalis)"
+  },
+  {
+    "key": 1179,
+    "hu": "Ágyéki ér, összeköttetés a felszálló ágyéki érrel"
+  },
+  {
+    "key": 1180,
+    "hu": "Ágyéki-keresztcsonti fonat és alsó végtag"
+  },
+  {
+    "key": 1181,
+    "hu": "Ágyéki-keresztcsonti idegtörzs"
+  },
+  {
+    "key": 1182,
+    "hu": "I. gilisztaizom"
+  },
+  {
+    "key": 1183,
+    "hu": "II. gilisztaizom"
+  },
+  {
+    "key": 1184,
+    "hu": "III. gilisztaizom"
+  },
+  {
+    "key": 1185,
+    "hu": "IV. gilisztaizom"
+  },
+  {
+    "key": 1186,
+    "hu": "Gilisztaizmok (láb)"
+  },
+  {
+    "key": 1187,
+    "hu": "Holdas csont"
+  },
+  {
+    "key": 1188,
+    "hu": "Tüdő"
+  },
+  {
+    "key": 1189,
+    "hu": "Tüdők"
+  },
+  {
+    "key": 1190,
+    "hu": "Húgyhólyag nyirokerei"
+  },
+  {
+    "key": 1191,
+    "hu": "Nyirokrendszer"
+  },
+  {
+    "key": 1192,
+    "hu": "Férfi láb bőre"
+  },
+  {
+    "key": 1193,
+    "hu": "Férfi hajzat"
+  },
+  {
+    "key": 1194,
+    "hu": "Férfi kéz bőre"
+  },
+  {
+    "key": 1195,
+    "hu": "Férfi fej bőre"
+  },
+  {
+    "key": 1196,
+    "hu": "Férfi lábszár bőre"
+  },
+  {
+    "key": 1197,
+    "hu": "Férfi comb bőre"
+  },
+  {
+    "key": 1198,
+    "hu": "Férfi nyak bőre"
+  },
+  {
+    "key": 1199,
+    "hu": "Férfi medence bőre"
+  },
+  {
+    "key": 1200,
+    "hu": "Hímvessző bőre"
+  },
+  {
+    "key": 1201,
+    "hu": "Férfi gát bőre, bal fele"
+  },
+  {
+    "key": 1202,
+    "hu": "Férfi gát bőre, jobb fele"
+  },
+  {
+    "key": 1203,
+    "hu": "Herezacskó bőre"
+  },
+  {
+    "key": 1204,
+    "hu": "Férfi váll és kar bőre"
+  },
+  {
+    "key": 1205,
+    "hu": "Férfi törzs bőre"
+  },
+  {
+    "key": 1206,
+    "hu": "Kalapács"
+  },
+  {
+    "key": 1207,
+    "hu": "Kalapács elülső nyúlványa"
+  },
+  {
+    "key": 1208,
+    "hu": "Kalapács üllői ízfelszíne"
+  },
+  {
+    "key": 1209,
+    "hu": "Kalapács feje"
+  },
+  {
+    "key": 1210,
+    "hu": "Kalapács oldalsó nyúlványa"
+  },
+  {
+    "key": 1211,
+    "hu": "Kalapács nyele"
+  },
+  {
+    "key": 1212,
+    "hu": "Kalapács nyaka"
+  },
+  {
+    "key": 1213,
+    "hu": "Emlőmirigy lebenykéi"
+  },
+  {
+    "key": 1214,
+    "hu": "Emlőmirigyek (emlőszövet)"
+  },
+  {
+    "key": 1215,
+    "hu": "Emlőtest (corpus mammillare)"
+  },
+  {
+    "key": 1216,
+    "hu": "Állkapocs"
+  },
+  {
+    "key": 1217,
+    "hu": "Állkapocs, állkapcsi nyílás"
+  },
+  {
+    "key": 1218,
+    "hu": "Állkapocs, állcsúcsi nyílás"
+  },
+  {
+    "key": 1219,
+    "hu": "Állkapcsi nyirokcsomók"
+  },
+  {
+    "key": 1220,
+    "hu": "Szegycsont markolata"
+  },
+  {
+    "key": 1221,
+    "hu": "Széli fonat"
+  },
+  {
+    "key": 1222,
+    "hu": "Széli (marginalis)"
+  },
+  {
+    "key": 1223,
+    "hu": "Rágóizom, mély rész"
+  },
+  {
+    "key": 1224,
+    "hu": "Rágóizom, felületes rész"
+  },
+  {
+    "key": 1225,
+    "hu": "Rágóizmi (massetericus)"
+  },
+  {
+    "key": 1226,
+    "hu": "Rágás"
+  },
+  {
+    "key": 1227,
+    "hu": "Csecsnyúlványi nyílás"
+  },
+  {
+    "key": 1228,
+    "hu": "Csecsnyúlvány feletti bőr"
+  },
+  {
+    "key": 1229,
+    "hu": "Felső állcsont, kemény szájpad"
+  },
+  {
+    "key": 1230,
+    "hu": "Felső állcsont"
+  },
+  {
+    "key": 1231,
+    "hu": "Arcüreg"
+  },
+  {
+    "key": 1232,
+    "hu": "Arcüregek (nyálkahártyák)"
+  },
+  {
+    "key": 1233,
+    "hu": "Felső állcsonti (maxillaris)"
+  },
+  {
+    "key": 1234,
+    "hu": "Belső (delta-) szalag, elülső sípcsont–ugrócsonti rész"
+  },
+  {
+    "key": 1235,
+    "hu": "Belső (delta-) szalag, hátsó sípcsont–ugrócsonti rész"
+  },
+  {
+    "key": 1236,
+    "hu": "Belső (delta-) szalag, sípcsont–sarokcsonti rész"
+  },
+  {
+    "key": 1237,
+    "hu": "Belső (delta-) szalag, sípcsont–sajkacsonti rész"
+  },
+  {
+    "key": 1238,
+    "hu": "Belső alkari bőrideg (C08, T01)"
+  },
+  {
+    "key": 1239,
+    "hu": "Belső kari bőrideg (T01)"
+  },
+  {
+    "key": 1240,
+    "hu": "Középső fari bőridegek"
+  },
+  {
+    "key": 1241,
+    "hu": "Belső (sípcsonti) oldalszalag (MCL)"
+  },
+  {
+    "key": 1242,
+    "hu": "Belső izomrekesz (comb)"
+  },
+  {
+    "key": 1243,
+    "hu": "Belső köteg (C08, T01)"
+  },
+  {
+    "key": 1244,
+    "hu": "Belső ékcsont"
+  },
+  {
+    "key": 1245,
+    "hu": "Belső homlokalapi ér"
+  },
+  {
+    "key": 1246,
+    "hu": "Kétfejű lábikraizom belső ina alatti nyáktömlő"
+  },
+  {
+    "key": 1247,
+    "hu": "Belső alsó térdi ér"
+  },
+  {
+    "key": 1248,
+    "hu": "Belső meniszkusz"
+  },
+  {
+    "key": 1249,
+    "hu": "Belső mellizomideg (C08, T01)"
+  },
+  {
+    "key": 1250,
+    "hu": "Belső talpi (plantaris medialis), mély ág"
+  },
+  {
+    "key": 1251,
+    "hu": "Belső talpi (plantaris medialis)"
+  },
+  {
+    "key": 1252,
+    "hu": "Belső talpi (plantaris medialis), felületes ág"
+  },
+  {
+    "key": 1253,
+    "hu": "Belső preoptikus mag"
+  },
+  {
+    "key": 1254,
+    "hu": "Belső röpizom"
+  },
+  {
+    "key": 1255,
+    "hu": "Belső egyenes szemizom"
+  },
+  {
+    "key": 1256,
+    "hu": "Belső felső térdi ér"
+  },
+  {
+    "key": 1257,
+    "hu": "Belső lábikrai bőrideg"
+  },
+  {
+    "key": 1258,
+    "hu": "Belső ugrócsont–sarokcsonti szalag"
+  },
+  {
+    "key": 1259,
+    "hu": "Talamusz belső magjai"
+  },
+  {
+    "key": 1260,
+    "hu": "Belső köldökszalag (a köldökartéria maradványa)"
+  },
+  {
+    "key": 1261,
+    "hu": "Középideg (C06-T01)"
+  },
+  {
+    "key": 1262,
+    "hu": "Középső keresztcsonti ér"
+  },
+  {
+    "key": 1263,
+    "hu": "Középső alkari véna"
+  },
+  {
+    "key": 1264,
+    "hu": "Középső könyökvéna"
+  },
+  {
+    "key": 1265,
+    "hu": "Középbarázda"
+  },
+  {
+    "key": 1266,
+    "hu": "Középideg, oldalsó gyökér"
+  },
+  {
+    "key": 1267,
+    "hu": "Középideg, belső gyökér"
+  },
+  {
+    "key": 1268,
+    "hu": "Nyúltvelő"
+  },
+  {
+    "key": 1269,
+    "hu": "Meissner-testek"
+  },
+  {
+    "key": 1270,
+    "hu": "Festéksejtek (melanocyták)"
+  },
+  {
+    "key": 1271,
+    "hu": "Agy- és gerincvelőburkok"
+  },
+  {
+    "key": 1272,
+    "hu": "Állcsúcsi (mentalis)"
+  },
+  {
+    "key": 1273,
+    "hu": "Állizom"
+  },
+  {
+    "key": 1274,
+    "hu": "Merkel-sejtek"
+  },
+  {
+    "key": 1275,
+    "hu": "Középagy, bal oldal"
+  },
+  {
+    "key": 1276,
+    "hu": "Középagy"
+  },
+  {
+    "key": 1277,
+    "hu": "Kézközépcsonti szalagok"
+  },
+  {
+    "key": 1278,
+    "hu": "Hüvelykujj kézközépcsont–ujjperci ízületének tokja"
+  },
+  {
+    "key": 1279,
+    "hu": "Kézközépcsont–ujjperci ízületi tokok"
+  },
+  {
+    "key": 1280,
+    "hu": "Kézközépcsont–ujjperci szalagok"
+  },
+  {
+    "key": 1281,
+    "hu": "Kézközép (kézközépcsontok)"
+  },
+  {
+    "key": 1282,
+    "hu": "Lábközépcsonti nyáktömlő"
+  },
+  {
+    "key": 1283,
+    "hu": "Lábközépcsonti szalagok"
+  },
+  {
+    "key": 1284,
+    "hu": "Öregujj lábközépcsont–ujjperci ízületének tokja"
+  },
+  {
+    "key": 1285,
+    "hu": "Lábközépcsont–ujjperci ízületi tokok"
+  },
+  {
+    "key": 1286,
+    "hu": "Lábközépcsont–ujjperci nyáktömlő"
+  },
+  {
+    "key": 1287,
+    "hu": "Lábközépcsont–ujjperci szalagok"
+  },
+  {
+    "key": 1288,
+    "hu": "Lábközép (lábközépcsontok)"
+  },
+  {
+    "key": 1289,
+    "hu": "Utóagy (metencephalon)"
+  },
+  {
+    "key": 1290,
+    "hu": "Középagy (mesencephalon)"
+  },
+  {
+    "key": 1291,
+    "hu": "Középagy"
+  },
+  {
+    "key": 1292,
+    "hu": "Középső szívvéna (hátsó kamraközi véna)"
+  },
+  {
+    "key": 1293,
+    "hu": "Középső agyi artéria (MCA) ágai"
+  },
+  {
+    "key": 1294,
+    "hu": "Középső agyi ér"
+  },
+  {
+    "key": 1295,
+    "hu": "Középső nyaki szimpatikus szívideg"
+  },
+  {
+    "key": 1296,
+    "hu": "Középső nyaki szimpatikus dúc"
+  },
+  {
+    "key": 1297,
+    "hu": "Középső vastagbéli ér"
+  },
+  {
+    "key": 1298,
+    "hu": "Középső oldalsó ér"
+  },
+  {
+    "key": 1299,
+    "hu": "Középfül ürege (dobüreg)"
+  },
+  {
+    "key": 1300,
+    "hu": "Középfül"
+  },
+  {
+    "key": 1301,
+    "hu": "Középső köteg"
+  },
+  {
+    "key": 1302,
+    "hu": "Középső térdi ér"
+  },
+  {
+    "key": 1303,
+    "hu": "Középső vállízületi szalag"
+  },
+  {
+    "key": 1304,
+    "hu": "Középső agyalapi mirigyi ér"
+  },
+  {
+    "key": 1305,
+    "hu": "Középső csomóközi köteg"
+  },
+  {
+    "key": 1306,
+    "hu": "Középső lebeny"
+  },
+  {
+    "key": 1307,
+    "hu": "Középső agyhártyai ér"
+  },
+  {
+    "key": 1308,
+    "hu": "Középső garatszűkítő izom"
+  },
+  {
+    "key": 1309,
+    "hu": "Középső végbéli ér"
+  },
+  {
+    "key": 1310,
+    "hu": "Középső keresztcsonti nyirokcsomók"
+  },
+  {
+    "key": 1311,
+    "hu": "Középső halántéki ág"
+  },
+  {
+    "key": 1312,
+    "hu": "Középső pajzsmirigyi ér"
+  },
+  {
+    "key": 1313,
+    "hu": "Középső törzs (C07)"
+  },
+  {
+    "key": 1314,
+    "hu": "Kéthegyű (mitrális) billentyű"
+  },
+  {
+    "key": 1315,
+    "hu": "Kéthegyű billentyű, billentyűgyűrű"
+  },
+  {
+    "key": 1316,
+    "hu": "Kéthegyű billentyű, elülső összeköttetés"
+  },
+  {
+    "key": 1317,
+    "hu": "Kéthegyű billentyű, elülső-belső (sövényi) vitorla"
+  },
+  {
+    "key": 1318,
+    "hu": "Kéthegyű billentyű, ínhúrok"
+  },
+  {
+    "key": 1319,
+    "hu": "Kéthegyű billentyű, hátsó összeköttetés"
+  },
+  {
+    "key": 1320,
+    "hu": "Kéthegyű billentyű, hátsó-oldalsó (fali) vitorla"
+  },
+  {
+    "key": 1321,
+    "hu": "Sövény-széli izomgerenda (moderátorköteg)"
+  },
+  {
+    "key": 1322,
+    "hu": "Nyálkahártya"
+  },
+  {
+    "key": 1323,
+    "hu": "Sokbahasadt izom"
+  },
+  {
+    "key": 1324,
+    "hu": "Izomrendszer"
+  },
+  {
+    "key": 1325,
+    "hu": "Izom-bőrideg (C05-C07)"
+  },
+  {
+    "key": 1326,
+    "hu": "Izom-rekeszi ér"
+  },
+  {
+    "key": 1327,
+    "hu": "Nyúltagy (nyúltvelő)"
+  },
+  {
+    "key": 1328,
+    "hu": "Nyúltagy (myelencephalon)"
+  },
+  {
+    "key": 1329,
+    "hu": "Állkapocs-nyelvcsonti izom"
+  },
+  {
+    "key": 1330,
+    "hu": "Szívizomzat"
+  },
+  {
+    "key": 1331,
+    "hu": "Orrporcok"
+  },
+  {
+    "key": 1332,
+    "hu": "Orrüreg"
+  },
+  {
+    "key": 1333,
+    "hu": "Alsó orrkagyló"
+  },
+  {
+    "key": 1334,
+    "hu": "Alsó orrkagylók"
+  },
+  {
+    "key": 1335,
+    "hu": "Középső orrkagylók"
+  },
+  {
+    "key": 1336,
+    "hu": "Felső orrkagylók"
+  },
+  {
+    "key": 1337,
+    "hu": "Orrcsont"
+  },
+  {
+    "key": 1338,
+    "hu": "Orrizom, szárnyi rész"
+  },
+  {
+    "key": 1339,
+    "hu": "Orrizom, haránt rész"
+  },
+  {
+    "key": 1340,
+    "hu": "Arci nyirokér orr-ajki nyirokcsomója"
+  },
+  {
+    "key": 1341,
+    "hu": "Könny-orr vezeték"
+  },
+  {
+    "key": 1342,
+    "hu": "Orr-szájpadi (nasopalatinus)"
+  },
+  {
+    "key": 1343,
+    "hu": "Orrgarat"
+  },
+  {
+    "key": 1344,
+    "hu": "Lábtői sajkacsont"
+  },
+  {
+    "key": 1345,
+    "hu": "Nyak"
+  },
+  {
+    "key": 1346,
+    "hu": "Röpnyúlványi csatorna idege"
+  },
+  {
+    "key": 1347,
+    "hu": "Végbélemelő izom idege"
+  },
+  {
+    "key": 1348,
+    "hu": "Négyszögű combizom idege"
+  },
+  {
+    "key": 1349,
+    "hu": "Kulcscsont alatti izom idege (C05, C06)"
+  },
+  {
+    "key": 1350,
+    "hu": "Belső fül idegei"
+  },
+  {
+    "key": 1351,
+    "hu": "Idegrendszer"
+  },
+  {
+    "key": 1352,
+    "hu": "Agyalapi mirigy hátsó lebenye (neurohypophysis)"
+  },
+  {
+    "key": 1353,
+    "hu": "Kilencedik borda (09)"
+  },
+  {
+    "key": 1354,
+    "hu": "Cloquet–Rosenmüller-nyirokcsomó (legfelső mély lágyéki nyirokcsomó)"
+  },
+  {
+    "key": 1355,
+    "hu": "Artériás szalag nyirokcsomója (nem állandó)"
+  },
+  {
+    "key": 1356,
+    "hu": "Nem ízlelő nyelvszemölcsök"
+  },
+  {
+    "key": 1357,
+    "hu": "Tarkószalag"
+  },
+  {
+    "key": 1358,
+    "hu": "Nuel-tér"
+  },
+  {
+    "key": 1359,
+    "hu": "Ferde (belső) izomréteg"
+  },
+  {
+    "key": 1360,
+    "hu": "Ferde kannaporcizom"
+  },
+  {
+    "key": 1361,
+    "hu": "Ferde köteg (könyök)"
+  },
+  {
+    "key": 1362,
+    "hu": "Ferde hasadék"
+  },
+  {
+    "key": 1363,
+    "hu": "Alsó ferde fejizom"
+  },
+  {
+    "key": 1364,
+    "hu": "Felső ferde fejizom"
+  },
+  {
+    "key": 1365,
+    "hu": "Elzáródott köldökvéna (a máj kerek szalagjában)"
+  },
+  {
+    "key": 1366,
+    "hu": "Külső elfedőizom"
+  },
+  {
+    "key": 1367,
+    "hu": "Belső elfedőizom"
+  },
+  {
+    "key": 1368,
+    "hu": "Elfedőideg menti nyirokcsomók"
+  },
+  {
+    "key": 1369,
+    "hu": "Elfedőhártya"
+  },
+  {
+    "key": 1370,
+    "hu": "Elfedő (obturatorius)"
+  },
+  {
+    "key": 1371,
+    "hu": "Nyakszirti lebeny"
+  },
+  {
+    "key": 1372,
+    "hu": "Nyakszirti nyirokcsomók"
+  },
+  {
+    "key": 1373,
+    "hu": "Nyakszirti nyirokér"
+  },
+  {
+    "key": 1374,
+    "hu": "Nyakszirti öböl"
+  },
+  {
+    "key": 1375,
+    "hu": "Nyakszirti (occipitalis)"
+  },
+  {
+    "key": 1376,
+    "hu": "Nyakszirtcsont–forgócsigolya közötti szalagok"
+  },
+  {
+    "key": 1377,
+    "hu": "Nyakszirt-homlokizom (koponyatetői izom)"
+  },
+  {
+    "key": 1378,
+    "hu": "Könyökcsúcsi nyáktömlő"
+  },
+  {
+    "key": 1379,
+    "hu": "Lapocka-nyelvcsonti izom"
+  },
+  {
+    "key": 1380,
+    "hu": "Szemi (ophthalmicus)"
+  },
+  {
+    "key": 1381,
+    "hu": "Kisujjszembehelyező izom (láb)"
+  },
+  {
+    "key": 1382,
+    "hu": "Kisujjszembehelyező izom (kéz)"
+  },
+  {
+    "key": 1383,
+    "hu": "Hüvelykujjszembehelyező izom"
+  },
+  {
+    "key": 1384,
+    "hu": "Látóideg-kereszteződés"
+  },
+  {
+    "key": 1385,
+    "hu": "Látóidegfő"
+  },
+  {
+    "key": 1386,
+    "hu": "Látóideg nyílása"
+  },
+  {
+    "key": 1387,
+    "hu": "Fűrészes szél (ora serrata)"
+  },
+  {
+    "key": 1388,
+    "hu": "Szájüreg"
+  },
+  {
+    "key": 1389,
+    "hu": "Szem körüli körizom"
+  },
+  {
+    "key": 1390,
+    "hu": "Száj körüli körizom"
+  },
+  {
+    "key": 1391,
+    "hu": "Szemüregi ágak"
+  },
+  {
+    "key": 1392,
+    "hu": "Corti-szerv"
+  },
+  {
+    "key": 1393,
+    "hu": "Szájgarat* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 1394,
+    "hu": "Szájgarat* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 1395,
+    "hu": "Külső fül"
+  },
+  {
+    "key": 1396,
+    "hu": "Külső szőrsejtek (1. sor)"
+  },
+  {
+    "key": 1397,
+    "hu": "Külső szőrsejtek (2. sor)"
+  },
+  {
+    "key": 1398,
+    "hu": "Külső szőrsejtek (3. sor)"
+  },
+  {
+    "key": 1399,
+    "hu": "Külső szőrök (1. sor)"
+  },
+  {
+    "key": 1400,
+    "hu": "Külső szőrök (2. sor)"
+  },
+  {
+    "key": 1401,
+    "hu": "Külső szőrök (3. sor)"
+  },
+  {
+    "key": 1402,
+    "hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 1. sor)"
+  },
+  {
+    "key": 1403,
+    "hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 2. sor)"
+  },
+  {
+    "key": 1404,
+    "hu": "Külső ujjpercszerű támasztósejtek (Deiters-sejtek, 3. sor)"
+  },
+  {
+    "key": 1405,
+    "hu": "Külső pillérsejtek"
+  },
+  {
+    "key": 1406,
+    "hu": "Ovális ablak"
+  },
+  {
+    "key": 1407,
+    "hu": "Petefészek saját szalagja (méh–petefészeki szalag)"
+  },
+  {
+    "key": 1408,
+    "hu": "Petefészeki fonat"
+  },
+  {
+    "key": 1409,
+    "hu": "Petefészeki vénás fonat"
+  },
+  {
+    "key": 1410,
+    "hu": "Petefészek, elülső fél"
+  },
+  {
+    "key": 1411,
+    "hu": "Petefészek"
+  },
+  {
+    "key": 1412,
+    "hu": "Petefészek, hátsó fél"
+  },
+  {
+    "key": 1413,
+    "hu": "Vater–Pacini-testek"
+  },
+  {
+    "key": 1414,
+    "hu": "Szájpadmandula"
+  },
+  {
+    "key": 1415,
+    "hu": "Szájpadmandulák"
+  },
+  {
+    "key": 1416,
+    "hu": "Szájpadi (palatinus)"
+  },
+  {
+    "key": 1417,
+    "hu": "Szájpad-nyelvizom"
+  },
+  {
+    "key": 1418,
+    "hu": "Szájpad-garatizom"
+  },
+  {
+    "key": 1419,
+    "hu": "Tenyéri kéztő–kézközépcsonti szalag"
+  },
+  {
+    "key": 1420,
+    "hu": "Tenyéri orsócsont–singcsonti szalag"
+  },
+  {
+    "key": 1421,
+    "hu": "Tenyéri ujjideg (középideg)"
+  },
+  {
+    "key": 1422,
+    "hu": "Tenyéri ujjideg (singideg)"
+  },
+  {
+    "key": 1423,
+    "hu": "Tenyéri ujjágak (digitales palmares)"
+  },
+  {
+    "key": 1424,
+    "hu": "Tenyéri kéztőcsontközi szalag (sajkacsont–nagy sokszögű csont)"
+  },
+  {
+    "key": 1425,
+    "hu": "I. tenyéri csontközi izom"
+  },
+  {
+    "key": 1426,
+    "hu": "II. tenyéri csontközi izom"
+  },
+  {
+    "key": 1427,
+    "hu": "III. tenyéri csontközi izom"
+  },
+  {
+    "key": 1428,
+    "hu": "Tenyéri kézközépcsonti szalagok"
+  },
+  {
+    "key": 1429,
+    "hu": "Tenyéri kézközépcsonti ér"
+  },
+  {
+    "key": 1430,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–fejes csonti rész"
+  },
+  {
+    "key": 1431,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–fejes csonti rész"
+  },
+  {
+    "key": 1432,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–sajkacsont–holdas csonti rész"
+  },
+  {
+    "key": 1433,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–sajkacsont–holdas csonti rész"
+  },
+  {
+    "key": 1434,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–háromszögű csonti rész"
+  },
+  {
+    "key": 1435,
+    "hu": "Tenyéri orsócsont–kéztői szalag, orsócsont–háromszögű csonti rész"
+  },
+  {
+    "key": 1436,
+    "hu": "Tenyéri singcsont–kéztői szalag (singcsont–holdas és singcsont–háromszögű csonti)"
+  },
+  {
+    "key": 1437,
+    "hu": "Mély tenyéri vénás ív"
+  },
+  {
+    "key": 1438,
+    "hu": "Felületes tenyéri vénás ív"
+  },
+  {
+    "key": 1439,
+    "hu": "Rövid tenyérizom"
+  },
+  {
+    "key": 1440,
+    "hu": "Hosszú tenyérizom"
+  },
+  {
+    "key": 1441,
+    "hu": "Repkényszerű vénás fonat (plexus pampiniformis)"
+  },
+  {
+    "key": 1442,
+    "hu": "Hasnyálmirigy"
+  },
+  {
+    "key": 1443,
+    "hu": "Hasnyálmirigy teste"
+  },
+  {
+    "key": 1444,
+    "hu": "Hasnyálmirigy feje"
+  },
+  {
+    "key": 1445,
+    "hu": "Hasnyálmirigy farka"
+  },
+  {
+    "key": 1446,
+    "hu": "Hasnyálmirigy fejéhez futó ágak"
+  },
+  {
+    "key": 1447,
+    "hu": "Hasnyálmirigyi ágak"
+  },
+  {
+    "key": 1448,
+    "hu": "Hasnyálmirigyi ágak, farki ágak"
+  },
+  {
+    "key": 1449,
+    "hu": "Hasnyálmirigyi ágak, felső ágak"
+  },
+  {
+    "key": 1450,
+    "hu": "Járulékos hasnyálmirigy-vezeték (Santorini-vezeték)"
+  },
+  {
+    "key": 1451,
+    "hu": "Fő hasnyálmirigy-vezeték (Wirsung-vezeték)"
+  },
+  {
+    "key": 1452,
+    "hu": "Hasnyálmirigyi nyirokerek"
+  },
+  {
+    "key": 1453,
+    "hu": "Hasnyálmirigy-nyombéli nyirokcsomók"
+  },
+  {
+    "key": 1454,
+    "hu": "Elülső alsó hasnyálmirigy-nyombéli ér"
+  },
+  {
+    "key": 1455,
+    "hu": "Elülső felső hasnyálmirigy-nyombéli ér"
+  },
+  {
+    "key": 1456,
+    "hu": "Közös alsó hasnyálmirigy-nyombéli ér"
+  },
+  {
+    "key": 1457,
+    "hu": "Hátsó alsó hasnyálmirigy-nyombéli ér"
+  },
+  {
+    "key": 1458,
+    "hu": "Hátsó felső hasnyálmirigy-nyombéli ér"
+  },
+  {
+    "key": 1459,
+    "hu": "Szemölcsök (papillák)"
+  },
+  {
+    "key": 1460,
+    "hu": "Elülső szemölcsizom"
+  },
+  {
+    "key": 1461,
+    "hu": "Belső szemölcsizom"
+  },
+  {
+    "key": 1462,
+    "hu": "Hátsó szemölcsizom"
+  },
+  {
+    "key": 1463,
+    "hu": "Központ melletti ágak"
+  },
+  {
+    "key": 1464,
+    "hu": "Nyelőcső körüli nyirokcsomók"
+  },
+  {
+    "key": 1465,
+    "hu": "Orrmelléküregek (nyálkahártyák)"
+  },
+  {
+    "key": 1466,
+    "hu": "Szegycsont melletti nyirokcsomók"
+  },
+  {
+    "key": 1467,
+    "hu": "Szegycsont melletti nyirokerek"
+  },
+  {
+    "key": 1468,
+    "hu": "Alsó mellékpajzsmirigy"
+  },
+  {
+    "key": 1469,
+    "hu": "Felső mellékpajzsmirigy"
+  },
+  {
+    "key": 1470,
+    "hu": "Mellékpajzsmirigyek"
+  },
+  {
+    "key": 1471,
+    "hu": "Légcső melletti nyirokerek"
+  },
+  {
+    "key": 1472,
+    "hu": "Kamra melletti mag"
+  },
+  {
+    "key": 1473,
+    "hu": "Fali ág"
+  },
+  {
+    "key": 1474,
+    "hu": "Fali lebeny"
+  },
+  {
+    "key": 1475,
+    "hu": "Falcsont"
+  },
+  {
+    "key": 1476,
+    "hu": "Fali-nyakszirti ág"
+  },
+  {
+    "key": 1477,
+    "hu": "Fali-nyakszirti barázda"
+  },
+  {
+    "key": 1478,
+    "hu": "Fültőmirigy"
+  },
+  {
+    "key": 1479,
+    "hu": "Fültőmirigy-fülkagylói nyirokér"
+  },
+  {
+    "key": 1480,
+    "hu": "Távoli rész (pars distalis)"
+  },
+  {
+    "key": 1481,
+    "hu": "Köztes rész (pars intermedia)"
+  },
+  {
+    "key": 1482,
+    "hu": "Gumói rész (pars tuberalis)"
+  },
+  {
+    "key": 1483,
+    "hu": "Szem részei"
+  },
+  {
+    "key": 1484,
+    "hu": "Térdkalács"
+  },
+  {
+    "key": 1485,
+    "hu": "Térdkalácsszalag"
+  },
+  {
+    "key": 1486,
+    "hu": "Fésűizom"
+  },
+  {
+    "key": 1487,
+    "hu": "Nagy mellizom"
+  },
+  {
+    "key": 1488,
+    "hu": "Kis mellizom"
+  },
+  {
+    "key": 1489,
+    "hu": "Medencei nyirokutak és nyirokcsomók"
+  },
+  {
+    "key": 1490,
+    "hu": "Medenceöv"
+  },
+  {
+    "key": 1491,
+    "hu": "Medencei zsigeri idegek"
+  },
+  {
+    "key": 1492,
+    "hu": "Medence"
+  },
+  {
+    "key": 1493,
+    "hu": "Hímvessző"
+  },
+  {
+    "key": 1494,
+    "hu": "Comb átfúró ágai"
+  },
+  {
+    "key": 1495,
+    "hu": "Átfúró ágak"
+  },
+  {
+    "key": 1496,
+    "hu": "Kérgestest körüli ér"
+  },
+  {
+    "key": 1497,
+    "hu": "Szívburok"
+  },
+  {
+    "key": 1498,
+    "hu": "Gáthártya"
+  },
+  {
+    "key": 1499,
+    "hu": "Gáti (perinealis)"
+  },
+  {
+    "key": 1500,
+    "hu": "Környéki idegrendszer"
+  },
+  {
+    "key": 1501,
+    "hu": "Hashártya"
+  },
+  {
+    "key": 1502,
+    "hu": "Lábujjpercek"
+  },
+  {
+    "key": 1503,
+    "hu": "Kézujjpercek"
+  },
+  {
+    "key": 1504,
+    "hu": "Garati (pharyngeus)"
+  },
+  {
+    "key": 1505,
+    "hu": "Garat"
+  },
+  {
+    "key": 1506,
+    "hu": "Garat* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 1507,
+    "hu": "Rekeszideg (C03-C05)"
+  },
+  {
+    "key": 1508,
+    "hu": "Tobozmirigy (epiphysis)"
+  },
+  {
+    "key": 1509,
+    "hu": "Körte alakú árok* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 1510,
+    "hu": "Körte alakú árok* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 1511,
+    "hu": "Körteképű izom"
+  },
+  {
+    "key": 1512,
+    "hu": "Borsócsont"
+  },
+  {
+    "key": 1513,
+    "hu": "Borsócsont–horgas csonti szalag"
+  },
+  {
+    "key": 1514,
+    "hu": "Agyalapi mirigy (hypophysis; belső elválasztású mirigy is)"
+  },
+  {
+    "key": 1515,
+    "hu": "Talp"
+  },
+  {
+    "key": 1516,
+    "hu": "Talpi bőnye"
+  },
+  {
+    "key": 1517,
+    "hu": "Talpi sarok–köbcsonti szalag (rövid talpi szalag)"
+  },
+  {
+    "key": 1518,
+    "hu": "Talpi sarok–sajkacsonti szalag (rugószalag)"
+  },
+  {
+    "key": 1519,
+    "hu": "Talpi köbcsont–sajkacsonti szalag"
+  },
+  {
+    "key": 1520,
+    "hu": "Talpi ujjágak (digitales plantares)"
+  },
+  {
+    "key": 1521,
+    "hu": "Talpi csontközi izmok"
+  },
+  {
+    "key": 1522,
+    "hu": "Talpi lábközépcsonti szalagok"
+  },
+  {
+    "key": 1523,
+    "hu": "Talpi lábközépcsonti ér"
+  },
+  {
+    "key": 1524,
+    "hu": "Talpi izom (plantaris)"
+  },
+  {
+    "key": 1525,
+    "hu": "Nyaki bőrizom (platysma)"
+  },
+  {
+    "key": 1526,
+    "hu": "Homlokpólusi ér"
+  },
+  {
+    "key": 1527,
+    "hu": "Híd"
+  },
+  {
+    "key": 1528,
+    "hu": "Hídi ér"
+  },
+  {
+    "key": 1529,
+    "hu": "Térdhajlati nyirokcsomók"
+  },
+  {
+    "key": 1530,
+    "hu": "Térdhajlati (popliteus)"
+  },
+  {
+    "key": 1531,
+    "hu": "Térdhajlati izom"
+  },
+  {
+    "key": 1532,
+    "hu": "Központ mögötti tekervény (fali lebeny; elsődleges testi érzőkéreg)"
+  },
+  {
+    "key": 1533,
+    "hu": "Hátsó fejgyám–forgócsigolya közötti szalag"
+  },
+  {
+    "key": 1534,
+    "hu": "Hátsó fejgyám–nyakszirti hártya"
+  },
+  {
+    "key": 1535,
+    "hu": "Hátsó fülkagylói (auricularis posterior)"
+  },
+  {
+    "key": 1536,
+    "hu": "Hátsó agyi artéria (PCA) ágai"
+  },
+  {
+    "key": 1537,
+    "hu": "Hátsó agyi ér"
+  },
+  {
+    "key": 1538,
+    "hu": "Hátsó sugárartériák"
+  },
+  {
+    "key": 1539,
+    "hu": "Hátsó sugártesti (ciliaris posterior)"
+  },
+  {
+    "key": 1540,
+    "hu": "Hátsó összekötő ér"
+  },
+  {
+    "key": 1541,
+    "hu": "Hátsó izomrekesz (lábszár)"
+  },
+  {
+    "key": 1542,
+    "hu": "Hátsó izomrekesz (comb)"
+  },
+  {
+    "key": 1543,
+    "hu": "Hátsó köteg (C05-T01)"
+  },
+  {
+    "key": 1544,
+    "hu": "Hátsó gyűrű-kannaporcizom"
+  },
+  {
+    "key": 1545,
+    "hu": "Hátsó keresztszalag (PCL)"
+  },
+  {
+    "key": 1546,
+    "hu": "Hátsó mély halántéki ér"
+  },
+  {
+    "key": 1547,
+    "hu": "Hátsó osztódás"
+  },
+  {
+    "key": 1548,
+    "hu": "Hátsó köteg"
+  },
+  {
+    "key": 1549,
+    "hu": "Hátsó combbőrideg"
+  },
+  {
+    "key": 1550,
+    "hu": "Hátsó alsó kisagyi ér"
+  },
+  {
+    "key": 1551,
+    "hu": "Hátsó barlangközi öböl"
+  },
+  {
+    "key": 1552,
+    "hu": "Hátsó csomóközi köteg"
+  },
+  {
+    "key": 1553,
+    "hu": "Hátsó csontközi (interosseus posterior)"
+  },
+  {
+    "key": 1554,
+    "hu": "Jobb koszorúér hátsó kamraközi (hátsó leszálló) ága"
+  },
+  {
+    "key": 1555,
+    "hu": "Hátsó oldalsó orrágak"
+  },
+  {
+    "key": 1556,
+    "hu": "Hátsó oldalsó felületes nyaki (járulékos ideg menti) nyirokcsomók"
+  },
+  {
+    "key": 1557,
+    "hu": "Üllő hátsó szalagja"
+  },
+  {
+    "key": 1558,
+    "hu": "Hátsó hosszanti szalag"
+  },
+  {
+    "key": 1559,
+    "hu": "Hátsó agyhártyai ér"
+  },
+  {
+    "key": 1560,
+    "hu": "Hátsó mag (hátsó hipotalamikus terület)"
+  },
+  {
+    "key": 1561,
+    "hu": "Hátsó fali ér"
+  },
+  {
+    "key": 1562,
+    "hu": "Hátsó keresztcsont–csípőcsonti szalag, alsó rész"
+  },
+  {
+    "key": 1563,
+    "hu": "Hátsó keresztcsont–csípőcsonti szalag, felső rész"
+  },
+  {
+    "key": 1564,
+    "hu": "Hátsó herezacskói (scrotalis posterior)"
+  },
+  {
+    "key": 1565,
+    "hu": "Hátsó félkörös ívjárat"
+  },
+  {
+    "key": 1566,
+    "hu": "Hátsó felső fogmedri (alveolaris superior posterior)"
+  },
+  {
+    "key": 1567,
+    "hu": "Hátsó ugrócsont–sarokcsonti szalag"
+  },
+  {
+    "key": 1568,
+    "hu": "Hátsó halántéki ág"
+  },
+  {
+    "key": 1569,
+    "hu": "Hátsó sípcsonti (tibialis posterior)"
+  },
+  {
+    "key": 1570,
+    "hu": "Hátsó sípcsont–szárkapocscsonti szalag"
+  },
+  {
+    "key": 1571,
+    "hu": "Hátsó bolygóidegi ág a kisgörbülethez"
+  },
+  {
+    "key": 1572,
+    "hu": "Hátsó bolygóidegtörzs"
+  },
+  {
+    "key": 1573,
+    "hu": "Bal kamra hátsó vénája"
+  },
+  {
+    "key": 1574,
+    "hu": "Hátsó-belső homloki ág"
+  },
+  {
+    "key": 1575,
+    "hu": "Aorta előtti (alsó bélfodri) nyirokcsomók"
+  },
+  {
+    "key": 1576,
+    "hu": "Aorta előtti (felső bélfodri) nyirokcsomók"
+  },
+  {
+    "key": 1577,
+    "hu": "Aorta előtti alsó bélfodri nyirokerek"
+  },
+  {
+    "key": 1578,
+    "hu": "Aorta előtti nyirokcsomók"
+  },
+  {
+    "key": 1579,
+    "hu": "Üres véna előtti (jobb oldali aorta melletti) nyirokcsomók"
+  },
+  {
+    "key": 1580,
+    "hu": "Központ előtti tekervény (homlokkéreg; elsődleges mozgatókéreg)"
+  },
+  {
+    "key": 1581,
+    "hu": "Központ előtti tekervény (homloklebeny; elsődleges mozgatókéreg)"
+  },
+  {
+    "key": 1582,
+    "hu": "Előékhez futó ágak"
+  },
+  {
+    "key": 1583,
+    "hu": "Homlok előtti (Rolando-barázda előtti) ér"
+  },
+  {
+    "key": 1584,
+    "hu": "Hasnyálmirigy előtti (prepancreaticus)"
+  },
+  {
+    "key": 1585,
+    "hu": "Szívburok előtti nyirokcsomók"
+  },
+  {
+    "key": 1586,
+    "hu": "Előbőr (csiklófedő)"
+  },
+  {
+    "key": 1587,
+    "hu": "Gyomorkapu előtti véna (vena prepylorica)"
+  },
+  {
+    "key": 1588,
+    "hu": "Végbél előtti rostok (a végbélemelő izom része)"
+  },
+  {
+    "key": 1589,
+    "hu": "Szeméremcsonti összeköttetés előtti nyirokcsomó"
+  },
+  {
+    "key": 1590,
+    "hu": "Csigolya előtti nyirokcsomók"
+  },
+  {
+    "key": 1591,
+    "hu": "Csigolya előtti izmok"
+  },
+  {
+    "key": 1592,
+    "hu": "Főhörgő"
+  },
+  {
+    "key": 1593,
+    "hu": "Elsődleges hajszálérfonat"
+  },
+  {
+    "key": 1594,
+    "hu": "Elsődleges porcgyűrűk"
+  },
+  {
+    "key": 1595,
+    "hu": "Hüvelykujj fő artériája"
+  },
+  {
+    "key": 1596,
+    "hu": "Elülső bolygóideg fő ága a gyomor kisgörbületéhez"
+  },
+  {
+    "key": 1597,
+    "hu": "Orrgyöki izom"
+  },
+  {
+    "key": 1598,
+    "hu": "Mély kari artéria"
+  },
+  {
+    "key": 1599,
+    "hu": "Mély combartéria"
+  },
+  {
+    "key": 1600,
+    "hu": "Mély combvéna (a mély combartériát kísérő véna)"
+  },
+  {
+    "key": 1601,
+    "hu": "Keresztcsonti előfok nyirokcsomója"
+  },
+  {
+    "key": 1602,
+    "hu": "Négyszögű borintóizom"
+  },
+  {
+    "key": 1603,
+    "hu": "Hengeres borintóizom"
+  },
+  {
+    "key": 1604,
+    "hu": "Saját májartéria"
+  },
+  {
+    "key": 1605,
+    "hu": "Saját májartéria, bal ág"
+  },
+  {
+    "key": 1606,
+    "hu": "Saját májartéria, jobb ág"
+  },
+  {
+    "key": 1607,
+    "hu": "Saját tenyéri ujjágak (digitales palmares proprii)"
+  },
+  {
+    "key": 1608,
+    "hu": "Saját talpi ujjágak (digitales plantares proprii)"
+  },
+  {
+    "key": 1609,
+    "hu": "Prosztata elülső lebenye"
+  },
+  {
+    "key": 1610,
+    "hu": "Prosztata oldalsó lebenye"
+  },
+  {
+    "key": 1611,
+    "hu": "Prosztata középső lebenye"
+  },
+  {
+    "key": 1612,
+    "hu": "Prosztata hátsó lebenye"
+  },
+  {
+    "key": 1613,
+    "hu": "Prosztata (dülmirigy)"
+  },
+  {
+    "key": 1614,
+    "hu": "Prosztata, bal fele"
+  },
+  {
+    "key": 1615,
+    "hu": "Prosztata, jobb fele"
+  },
+  {
+    "key": 1616,
+    "hu": "Prosztata tokja"
+  },
+  {
+    "key": 1617,
+    "hu": "Prosztata idegfonata"
+  },
+  {
+    "key": 1618,
+    "hu": "Prosztata vénás fonata"
+  },
+  {
+    "key": 1619,
+    "hu": "Comb"
+  },
+  {
+    "key": 1620,
+    "hu": "Közelebbi átfúró ágak"
+  },
+  {
+    "key": 1621,
+    "hu": "Nagy horpaszizom"
+  },
+  {
+    "key": 1622,
+    "hu": "Kis horpaszizom"
+  },
+  {
+    "key": 1623,
+    "hu": "Röpnyúlványi csatorna"
+  },
+  {
+    "key": 1624,
+    "hu": "Röpnyúlványi vénás fonat"
+  },
+  {
+    "key": 1625,
+    "hu": "Röp-szájpadi (ékcsont-szájpadi) dúc"
+  },
+  {
+    "key": 1626,
+    "hu": "Szeméremcsonti összeköttetés"
+  },
+  {
+    "key": 1627,
+    "hu": "Szeméremcsont"
+  },
+  {
+    "key": 1628,
+    "hu": "Szeméremcsont–méhnyaki pólya"
+  },
+  {
+    "key": 1629,
+    "hu": "Szeméremcsont–farkcsonti izom (a végbélemelő izom része)"
+  },
+  {
+    "key": 1630,
+    "hu": "Szeméremcsont–combcsonti szalag"
+  },
+  {
+    "key": 1631,
+    "hu": "Szeméremcsont–végbéli izom (a végbélemelő izom része)"
+  },
+  {
+    "key": 1632,
+    "hu": "Szeméremcsont–húgycsői szalag"
+  },
+  {
+    "key": 1633,
+    "hu": "Szeméremideg"
+  },
+  {
+    "key": 1634,
+    "hu": "Tüdőartériák (kezdeti szakasz)"
+  },
+  {
+    "key": 1635,
+    "hu": "Tüdőartériák (oxigénszegény vérrel)"
+  },
+  {
+    "key": 1636,
+    "hu": "Tüdőartériák"
+  },
+  {
+    "key": 1637,
+    "hu": "Kisvérkör (tüdőkeringés)"
+  },
+  {
+    "key": 1638,
+    "hu": "Tüdőfonat"
+  },
+  {
+    "key": 1639,
+    "hu": "Tüdőverőértörzs (kezdeti szakasz)"
+  },
+  {
+    "key": 1640,
+    "hu": "Tüdőverőértörzs"
+  },
+  {
+    "key": 1641,
+    "hu": "Tüdőverőér-billentyű"
+  },
+  {
+    "key": 1642,
+    "hu": "Tüdőverőér-billentyű, billentyűgyűrű"
+  },
+  {
+    "key": 1643,
+    "hu": "Tüdőverőér-billentyű, elülső tasak"
+  },
+  {
+    "key": 1644,
+    "hu": "Tüdőverőér-billentyű, bal tasak"
+  },
+  {
+    "key": 1645,
+    "hu": "Tüdőverőér-billentyű, jobb tasak"
+  },
+  {
+    "key": 1646,
+    "hu": "Tüdővénák (kezdeti szakasz)"
+  },
+  {
+    "key": 1647,
+    "hu": "Tüdővénák (oxigéndús vérrel)"
+  },
+  {
+    "key": 1648,
+    "hu": "Alsó tüdővénák"
+  },
+  {
+    "key": 1649,
+    "hu": "Tüdővénák"
+  },
+  {
+    "key": 1650,
+    "hu": "Felső tüdővénák"
+  },
+  {
+    "key": 1651,
+    "hu": "Talamuszpárna (pulvinar)"
+  },
+  {
+    "key": 1652,
+    "hu": "Pupilla"
+  },
+  {
+    "key": 1653,
+    "hu": "Pupillatágító izom"
+  },
+  {
+    "key": 1654,
+    "hu": "Pupillaszűkítő izom"
+  },
+  {
+    "key": 1655,
+    "hu": "Purkinje-rostok"
+  },
+  {
+    "key": 1656,
+    "hu": "Köpeny (putamen)"
+  },
+  {
+    "key": 1657,
+    "hu": "Gyomorkapu záróizma (billentyűje), elülső rész"
+  },
+  {
+    "key": 1658,
+    "hu": "Piramisizom"
+  },
+  {
+    "key": 1659,
+    "hu": "Piramisok"
+  },
+  {
+    "key": 1660,
+    "hu": "Négyszögű combizom"
+  },
+  {
+    "key": 1661,
+    "hu": "Négyszögű ágyékizom"
+  },
+  {
+    "key": 1662,
+    "hu": "Négyszögű talpizom (járulékos hajlítóizom)"
+  },
+  {
+    "key": 1663,
+    "hu": "Négyfejű combizom"
+  },
+  {
+    "key": 1664,
+    "hu": "Orsóideg (C05-T01)"
+  },
+  {
+    "key": 1665,
+    "hu": "Orsócsonti nyáktömlő"
+  },
+  {
+    "key": 1666,
+    "hu": "Orsócsonti oldalszalag"
+  },
+  {
+    "key": 1667,
+    "hu": "Orsócsonti oldalsó ér"
+  },
+  {
+    "key": 1668,
+    "hu": "Nyirokerek orsócsonti csoportja"
+  },
+  {
+    "key": 1669,
+    "hu": "Visszahajló orsócsonti ér"
+  },
+  {
+    "key": 1670,
+    "hu": "Orsócsonti ér, háti kéztői ág"
+  },
+  {
+    "key": 1671,
+    "hu": "Orsócsonti (radialis)"
+  },
+  {
+    "key": 1672,
+    "hu": "Orsóideg, felületes ág"
+  },
+  {
+    "key": 1673,
+    "hu": "Sugárzó kéztőszalag, fejes–horgas csonti rész"
+  },
+  {
+    "key": 1674,
+    "hu": "Sugárzó kéztőszalag, fejes–nagy sokszögű csonti rész"
+  },
+  {
+    "key": 1675,
+    "hu": "Sugárzó kéztőszalag"
+  },
+  {
+    "key": 1676,
+    "hu": "Sugárzó kéztőszalag, holdas–háromszögű csonti rész"
+  },
+  {
+    "key": 1677,
+    "hu": "Sugárzó kéztőszalag, sajkacsont–nagy sokszögű csonti rész"
+  },
+  {
+    "key": 1678,
+    "hu": "Orsócsont–kéztői és singcsont–kéztői szalagok"
+  },
+  {
+    "key": 1679,
+    "hu": "Orsócsont (alkar)"
+  },
+  {
+    "key": 1680,
+    "hu": "Végbél–hüvelyi pólya"
+  },
+  {
+    "key": 1681,
+    "hu": "Végbél"
+  },
+  {
+    "key": 1682,
+    "hu": "Egyenes hasizom"
+  },
+  {
+    "key": 1683,
+    "hu": "Elülső egyenes fejizom"
+  },
+  {
+    "key": 1684,
+    "hu": "Oldalsó egyenes fejizom"
+  },
+  {
+    "key": 1685,
+    "hu": "Nagy hátsó egyenes fejizom"
+  },
+  {
+    "key": 1686,
+    "hu": "Kis hátsó egyenes fejizom"
+  },
+  {
+    "key": 1687,
+    "hu": "Egyenes combizom"
+  },
+  {
+    "key": 1688,
+    "hu": "Vesemedence"
+  },
+  {
+    "key": 1689,
+    "hu": "Vesefonat"
+  },
+  {
+    "key": 1690,
+    "hu": "Vesei ér"
+  },
+  {
+    "key": 1691,
+    "hu": "Nemi szervrendszer"
+  },
+  {
+    "key": 1692,
+    "hu": "Légzőrendszer"
+  },
+  {
+    "key": 1693,
+    "hu": "Hálózatos hártya (lemez)"
+  },
+  {
+    "key": 1694,
+    "hu": "Ideghártya (retina)"
+  },
+  {
+    "key": 1695,
+    "hu": "Láb inainak leszorító szalagjai"
+  },
+  {
+    "key": 1696,
+    "hu": "Aorta mögötti nyirokcsomók"
+  },
+  {
+    "key": 1697,
+    "hu": "Fül mögötti (csecsnyúlványi) nyirokcsomók"
+  },
+  {
+    "key": 1698,
+    "hu": "Sarokcsont mögötti nyáktömlő"
+  },
+  {
+    "key": 1699,
+    "hu": "Üres véna mögötti nyirokcsomók"
+  },
+  {
+    "key": 1700,
+    "hu": "Állkapocs mögötti véna, elülső ág"
+  },
+  {
+    "key": 1701,
+    "hu": "Állkapocs mögötti véna"
+  },
+  {
+    "key": 1702,
+    "hu": "Állkapocs mögötti véna, hátsó ág"
+  },
+  {
+    "key": 1703,
+    "hu": "Garat mögötti nyirokcsomók"
+  },
+  {
+    "key": 1704,
+    "hu": "Gyomorkapu mögötti nyirokcsomó"
+  },
+  {
+    "key": 1705,
+    "hu": "Nagy rombuszizom"
+  },
+  {
+    "key": 1706,
+    "hu": "Kis rombuszizom"
+  },
+  {
+    "key": 1707,
+    "hu": "Jobb aorta-vesei dúc"
+  },
+  {
+    "key": 1708,
+    "hu": "Jobb pitvar"
+  },
+  {
+    "key": 1709,
+    "hu": "Jobb vastagbéli fonat"
+  },
+  {
+    "key": 1710,
+    "hu": "Jobb vastagbéli ér"
+  },
+  {
+    "key": 1711,
+    "hu": "Jobb koszorúér"
+  },
+  {
+    "key": 1712,
+    "hu": "Jobb gyomri ér"
+  },
+  {
+    "key": 1713,
+    "hu": "Jobb ágyéki nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 1714,
+    "hu": "Jobb nyirokvezeték (mellkasi)"
+  },
+  {
+    "key": 1715,
+    "hu": "Jobb nyirokvezeték"
+  },
+  {
+    "key": 1716,
+    "hu": "Jobb széli artéria"
+  },
+  {
+    "key": 1717,
+    "hu": "Jobb kamra"
+  },
+  {
+    "key": 1718,
+    "hu": "Jobb kamra, rekeszi felszín"
+  },
+  {
+    "key": 1719,
+    "hu": "Jobb kamra, szegycsont-bordai felszín"
+  },
+  {
+    "key": 1720,
+    "hu": "Nevetőizom"
+  },
+  {
+    "key": 1721,
+    "hu": "Tüdőgyökér (tüdőkapu)"
+  },
+  {
+    "key": 1722,
+    "hu": "Gyökerek"
+  },
+  {
+    "key": 1723,
+    "hu": "Rotátorköpeny"
+  },
+  {
+    "key": 1724,
+    "hu": "Rövid forgatóizmok"
+  },
+  {
+    "key": 1725,
+    "hu": "Hosszú forgatóizmok"
+  },
+  {
+    "key": 1726,
+    "hu": "Forgatóizmok"
+  },
+  {
+    "key": 1727,
+    "hu": "Méh kerek szalagja"
+  },
+  {
+    "key": 1728,
+    "hu": "Kerek ablak"
+  },
+  {
+    "key": 1729,
+    "hu": "S01 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1730,
+    "hu": "S01 Hátsó gyökér"
+  },
+  {
+    "key": 1731,
+    "hu": "S01 Gerincvelői ideg"
+  },
+  {
+    "key": 1732,
+    "hu": "S01 Elülső gyökér"
+  },
+  {
+    "key": 1733,
+    "hu": "S01-05 Keresztcsont"
+  },
+  {
+    "key": 1734,
+    "hu": "S02 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1735,
+    "hu": "S02 Hátsó gyökér"
+  },
+  {
+    "key": 1736,
+    "hu": "S02 Gerincvelői ideg"
+  },
+  {
+    "key": 1737,
+    "hu": "S02 Elülső gyökér"
+  },
+  {
+    "key": 1738,
+    "hu": "S03 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1739,
+    "hu": "S03 Hátsó gyökér"
+  },
+  {
+    "key": 1740,
+    "hu": "S03 Gerincvelői ideg"
+  },
+  {
+    "key": 1741,
+    "hu": "S03 Elülső gyökér"
+  },
+  {
+    "key": 1742,
+    "hu": "S04 Hátsó gyöki dúc"
+  },
+  {
+    "key": 1743,
+    "hu": "S04 Hátsó gyökér"
+  },
+  {
+    "key": 1744,
+    "hu": "S04 Gerincvelői ideg"
+  },
+  {
+    "key": 1745,
+    "hu": "S04 Elülső gyökér"
+  },
+  {
+    "key": 1746,
+    "hu": "S05 Hátsó gyökér"
+  },
+  {
+    "key": 1747,
+    "hu": "S05 Gerincvelői ideg, a farkcsonti fonathoz futó ág"
+  },
+  {
+    "key": 1748,
+    "hu": "S05 Elülső gyökér"
+  },
+  {
+    "key": 1749,
+    "hu": "S05 Elülső gyökér, jobb oldal"
+  },
+  {
+    "key": 1750,
+    "hu": "Keresztcsonti dúc"
+  },
+  {
+    "key": 1751,
+    "hu": "Keresztcsonti nyirokerek"
+  },
+  {
+    "key": 1752,
+    "hu": "Keresztcsonti idegfonat"
+  },
+  {
+    "key": 1753,
+    "hu": "Keresztcsonti gerincszakasz"
+  },
+  {
+    "key": 1754,
+    "hu": "Keresztcsonti zsigeri idegek"
+  },
+  {
+    "key": 1755,
+    "hu": "Keresztcsont–ülőtövisi szalag"
+  },
+  {
+    "key": 1756,
+    "hu": "Keresztcsont–ülőgumói szalag"
+  },
+  {
+    "key": 1757,
+    "hu": "Fültőmirigy (nyálmirigy)"
+  },
+  {
+    "key": 1758,
+    "hu": "Fültőmirigy kivezetőcsöve (Stensen-vezeték)"
+  },
+  {
+    "key": 1759,
+    "hu": "Nyelv alatti nyálmirigy"
+  },
+  {
+    "key": 1760,
+    "hu": "Állkapocs alatti nyálmirigy kivezetőcsöve"
+  },
+  {
+    "key": 1761,
+    "hu": "Állkapocs alatti nyálmirigy kivezetőcsövei"
+  },
+  {
+    "key": 1762,
+    "hu": "Állkapocs alatti nyálmirigy"
+  },
+  {
+    "key": 1763,
+    "hu": "Nyálmirigyek"
+  },
+  {
+    "key": 1764,
+    "hu": "Fülkürt-garatizom"
+  },
+  {
+    "key": 1765,
+    "hu": "Rejtett ideg (nervus saphenus)"
+  },
+  {
+    "key": 1766,
+    "hu": "Szabóizom"
+  },
+  {
+    "key": 1767,
+    "hu": "Doblépcső (scala tympani)"
+  },
+  {
+    "key": 1768,
+    "hu": "Tornáclépcső (scala vestibuli)"
+  },
+  {
+    "key": 1769,
+    "hu": "Elülső ferde nyakizom"
+  },
+  {
+    "key": 1770,
+    "hu": "Középső ferde nyakizom"
+  },
+  {
+    "key": 1771,
+    "hu": "Hátsó ferde nyakizom"
+  },
+  {
+    "key": 1772,
+    "hu": "Sajkacsont–fejes csonti szalag"
+  },
+  {
+    "key": 1773,
+    "hu": "Kéztői sajkacsont"
+  },
+  {
+    "key": 1774,
+    "hu": "Lapocka"
+  },
+  {
+    "key": 1775,
+    "hu": "Ülőideg"
+  },
+  {
+    "key": 1776,
+    "hu": "Ínhártya"
+  },
+  {
+    "key": 1777,
+    "hu": "Faggyúmirigy"
+  },
+  {
+    "key": 1778,
+    "hu": "Faggyú"
+  },
+  {
+    "key": 1779,
+    "hu": "Második bordaközi (intercostalis secundus)"
+  },
+  {
+    "key": 1780,
+    "hu": "Második borda (02)"
+  },
+  {
+    "key": 1781,
+    "hu": "Másodlagos (lebenyi) hörgők"
+  },
+  {
+    "key": 1782,
+    "hu": "Másodlagos hajszálérfonat"
+  },
+  {
+    "key": 1783,
+    "hu": "Másodlagos porcgyűrűk"
+  },
+  {
+    "key": 1784,
+    "hu": "Szegmentális (segmentalis)"
+  },
+  {
+    "key": 1785,
+    "hu": "Félighártyás izom nyáktömlője"
+  },
+  {
+    "key": 1786,
+    "hu": "Félighártyás izom"
+  },
+  {
+    "key": 1787,
+    "hu": "Ondóhólyag"
+  },
+  {
+    "key": 1788,
+    "hu": "Feji féltövises izom (oldalsó köteg)"
+  },
+  {
+    "key": 1789,
+    "hu": "Feji féltövises izom (belső köteg)"
+  },
+  {
+    "key": 1790,
+    "hu": "Nyaki féltövises izom"
+  },
+  {
+    "key": 1791,
+    "hu": "Háti féltövises izom"
+  },
+  {
+    "key": 1792,
+    "hu": "Féltövises izom"
+  },
+  {
+    "key": 1793,
+    "hu": "Féliginas izom"
+  },
+  {
+    "key": 1794,
+    "hu": "Érzőidegek"
+  },
+  {
+    "key": 1795,
+    "hu": "Orrsövényporc"
+  },
+  {
+    "key": 1796,
+    "hu": "Sövényi mag"
+  },
+  {
+    "key": 1797,
+    "hu": "Elülső fűrészizom"
+  },
+  {
+    "key": 1798,
+    "hu": "Alsó hátsó fűrészizom"
+  },
+  {
+    "key": 1799,
+    "hu": "Felső hátsó fűrészizom"
+  },
+  {
+    "key": 1800,
+    "hu": "Külső szezámcsont"
+  },
+  {
+    "key": 1801,
+    "hu": "Belső szezámcsont"
+  },
+  {
+    "key": 1802,
+    "hu": "Hetedik borda (07)"
+  },
+  {
+    "key": 1803,
+    "hu": "Rövid gyomri erek"
+  },
+  {
+    "key": 1804,
+    "hu": "Vállöv"
+  },
+  {
+    "key": 1805,
+    "hu": "Vállízület, elülső oldal"
+  },
+  {
+    "key": 1806,
+    "hu": "Vállízület"
+  },
+  {
+    "key": 1807,
+    "hu": "Vállízület, hátsó oldal"
+  },
+  {
+    "key": 1808,
+    "hu": "Oldalsó köteg mellékágai"
+  },
+  {
+    "key": 1809,
+    "hu": "Belső köteg mellékágai"
+  },
+  {
+    "key": 1810,
+    "hu": "Hátsó köteg mellékágai"
+  },
+  {
+    "key": 1811,
+    "hu": "Szigmabél"
+  },
+  {
+    "key": 1812,
+    "hu": "Szigmabél, hosszanti izomszalag (taenia coli)"
+  },
+  {
+    "key": 1813,
+    "hu": "Szigmabél fonata"
+  },
+  {
+    "key": 1814,
+    "hu": "Szigmaöböl"
+  },
+  {
+    "key": 1815,
+    "hu": "Szigmabéli ér"
+  },
+  {
+    "key": 1816,
+    "hu": "Szinuszcsomó"
+  },
+  {
+    "key": 1817,
+    "hu": "Vénás öblök, középnyílirányú metszet"
+  },
+  {
+    "key": 1818,
+    "hu": "Hatodik borda (06)"
+  },
+  {
+    "key": 1819,
+    "hu": "Csontrendszer"
+  },
+  {
+    "key": 1820,
+    "hu": "Bőr keresztmetszete"
+  },
+  {
+    "key": 1821,
+    "hu": "Koponya"
+  },
+  {
+    "key": 1822,
+    "hu": "Kis artériák"
+  },
+  {
+    "key": 1823,
+    "hu": "Kis szívvéna"
+  },
+  {
+    "key": 1824,
+    "hu": "Vékonybél"
+  },
+  {
+    "key": 1825,
+    "hu": "Kis rejtett véna"
+  },
+  {
+    "key": 1826,
+    "hu": "Kis vénák"
+  },
+  {
+    "key": 1827,
+    "hu": "Lágyszájpad"
+  },
+  {
+    "key": 1828,
+    "hu": "Gázlóizom (a háromfejű lábikraizom része)"
+  },
+  {
+    "key": 1829,
+    "hu": "Ondózsinór pólyája"
+  },
+  {
+    "key": 1830,
+    "hu": "Ékcsonti üregek (nyálkahártyák)"
+  },
+  {
+    "key": 1831,
+    "hu": "Ékcsont"
+  },
+  {
+    "key": 1832,
+    "hu": "Ékcsont–állkapcsi szalag"
+  },
+  {
+    "key": 1833,
+    "hu": "Ékcsont-szájpadi (sphenopalatinus)"
+  },
+  {
+    "key": 1834,
+    "hu": "Ékcsont-falcsonti öböl"
+  },
+  {
+    "key": 1835,
+    "hu": "Gerincvelő"
+  },
+  {
+    "key": 1836,
+    "hu": "Tövisizom (belső izomvonulat)"
+  },
+  {
+    "key": 1837,
+    "hu": "Nyaki tövisizom"
+  },
+  {
+    "key": 1838,
+    "hu": "Háti tövisizom"
+  },
+  {
+    "key": 1839,
+    "hu": "Spirális szalag"
+  },
+  {
+    "key": 1840,
+    "hu": "Spirális szegély"
+  },
+  {
+    "key": 1841,
+    "hu": "Zsigeri idegek"
+  },
+  {
+    "key": 1842,
+    "hu": "Lép"
+  },
+  {
+    "key": 1843,
+    "hu": "Lépi nyirokcsomók"
+  },
+  {
+    "key": 1844,
+    "hu": "Lépi nyirokerek"
+  },
+  {
+    "key": 1845,
+    "hu": "Lépi ér"
+  },
+  {
+    "key": 1846,
+    "hu": "Lépfonat"
+  },
+  {
+    "key": 1847,
+    "hu": "Szíjizom (tövis-harántnyúlványi izom)"
+  },
+  {
+    "key": 1848,
+    "hu": "Feji szíjizom"
+  },
+  {
+    "key": 1849,
+    "hu": "Nyaki szíjizom"
+  },
+  {
+    "key": 1850,
+    "hu": "Kengyelizom"
+  },
+  {
+    "key": 1851,
+    "hu": "Kengyel"
+  },
+  {
+    "key": 1852,
+    "hu": "Kengyel elülső szára"
+  },
+  {
+    "key": 1853,
+    "hu": "Kengyel talpa"
+  },
+  {
+    "key": 1854,
+    "hu": "Kengyel feje"
+  },
+  {
+    "key": 1855,
+    "hu": "Kengyel nyaka"
+  },
+  {
+    "key": 1856,
+    "hu": "Kengyel hátsó szára"
+  },
+  {
+    "key": 1857,
+    "hu": "Szegycsonti izom"
+  },
+  {
+    "key": 1858,
+    "hu": "Szegycsont–kulcscsonti szalag"
+  },
+  {
+    "key": 1859,
+    "hu": "Fejbiccentő izom menti nyirokcsomók"
+  },
+  {
+    "key": 1860,
+    "hu": "Fejbiccentő izom"
+  },
+  {
+    "key": 1861,
+    "hu": "Szegy-nyelvcsonti izom"
+  },
+  {
+    "key": 1862,
+    "hu": "Szegy-pajzsporcizom"
+  },
+  {
+    "key": 1863,
+    "hu": "Szegycsont"
+  },
+  {
+    "key": 1864,
+    "hu": "Gyomor"
+  },
+  {
+    "key": 1865,
+    "hu": "Gyomor, hátsó rész (metszett)"
+  },
+  {
+    "key": 1866,
+    "hu": "Gyomor, gyomorszáji fedőrész"
+  },
+  {
+    "key": 1867,
+    "hu": "Gyomor, elülső rész (metszett)"
+  },
+  {
+    "key": 1868,
+    "hu": "Gyomor, gyomorfenéki és gyomorkapui réteges fedőrész"
+  },
+  {
+    "key": 1869,
+    "hu": "Gyomor, savós hártya és nyálkahártya"
+  },
+  {
+    "key": 1870,
+    "hu": "Egyenes öböl"
+  },
+  {
+    "key": 1871,
+    "hu": "Alapi réteg"
+  },
+  {
+    "key": 1872,
+    "hu": "Szaruréteg"
+  },
+  {
+    "key": 1873,
+    "hu": "Szemcsés réteg"
+  },
+  {
+    "key": 1874,
+    "hu": "Tüskés réteg"
+  },
+  {
+    "key": 1875,
+    "hu": "Eres csík (stria vascularis)"
+  },
+  {
+    "key": 1876,
+    "hu": "Íróvessző-nyelvizom (musculus styloglossus)"
+  },
+  {
+    "key": 1877,
+    "hu": "Íróvessző–nyelvcsonti szalag"
+  },
+  {
+    "key": 1878,
+    "hu": "Íróvessző-nyelvcsonti izom"
+  },
+  {
+    "key": 1879,
+    "hu": "Íróvessző–állkapcsi szalag"
+  },
+  {
+    "key": 1880,
+    "hu": "Íróvessző–csecsnyúlványi nyílás"
+  },
+  {
+    "key": 1881,
+    "hu": "Íróvessző-garatizom"
+  },
+  {
+    "key": 1882,
+    "hu": "Vállcsúcs alatti nyáktömlő"
+  },
+  {
+    "key": 1883,
+    "hu": "Kulcscsont alatti nyirokcsomó"
+  },
+  {
+    "key": 1884,
+    "hu": "Kulcscsont alatti nyiroktörzs és hozzá vezető nyirokcsomók"
+  },
+  {
+    "key": 1885,
+    "hu": "Kulcscsont alatti nyiroktörzs"
+  },
+  {
+    "key": 1886,
+    "hu": "Kulcscsont alatti ér"
+  },
+  {
+    "key": 1887,
+    "hu": "Kulcscsont alatti izom"
+  },
+  {
+    "key": 1888,
+    "hu": "Hollócsőrnyúlvány alatti nyáktömlő"
+  },
+  {
+    "key": 1889,
+    "hu": "Borda alatti izom (legbelső bordaközi izom)"
+  },
+  {
+    "key": 1890,
+    "hu": "Borda alatti (subcostalis) [12]"
+  },
+  {
+    "key": 1891,
+    "hu": "Bőr alatti vállcsúcsi nyáktömlő"
+  },
+  {
+    "key": 1892,
+    "hu": "Bőr alatti sarokcsonti nyáktömlő (külső boka)"
+  },
+  {
+    "key": 1893,
+    "hu": "Bőr alatti sarokcsonti nyáktömlő (belső boka)"
+  },
+  {
+    "key": 1894,
+    "hu": "Bőr alatti sarokcsonti nyáktömlő"
+  },
+  {
+    "key": 1895,
+    "hu": "Bőr alatti zsír (bőralja)"
+  },
+  {
+    "key": 1896,
+    "hu": "Bőr alatti szövet"
+  },
+  {
+    "key": 1897,
+    "hu": "Deltaizom alatti nyáktömlő"
+  },
+  {
+    "key": 1898,
+    "hu": "Állkapocs alatti nyirokcsomók"
+  },
+  {
+    "key": 1899,
+    "hu": "Állkapocs alatti nyirokér"
+  },
+  {
+    "key": 1900,
+    "hu": "Állcsúcs alatti nyirokcsomók"
+  },
+  {
+    "key": 1901,
+    "hu": "Állcsúcs alatti nyirokerek"
+  },
+  {
+    "key": 1902,
+    "hu": "Állcsúcs alatti ér"
+  },
+  {
+    "key": 1903,
+    "hu": "Nyakszirt alatti ideg"
+  },
+  {
+    "key": 1904,
+    "hu": "Fültőmirigy alatti nyirokcsomó"
+  },
+  {
+    "key": 1905,
+    "hu": "Térdhajlati izom alatti nyáktömlő (recessus)"
+  },
+  {
+    "key": 1906,
+    "hu": "Gyomorkapu alatti nyirokcsomók"
+  },
+  {
+    "key": 1907,
+    "hu": "Szabóizom alatti (lúdlábi) nyáktömlő"
+  },
+  {
+    "key": 1908,
+    "hu": "Lapocka alatti (hátsó) hónalji nyirokcsomók"
+  },
+  {
+    "key": 1909,
+    "hu": "Lapocka alatti (subscapularis)"
+  },
+  {
+    "key": 1910,
+    "hu": "Lapocka alatti izom"
+  },
+  {
+    "key": 1911,
+    "hu": "Ugrócsont alatti, ugrócsont–sarokcsonti szalagok (ízület)"
+  },
+  {
+    "key": 1912,
+    "hu": "Ín alatti nyáktömlő"
+  },
+  {
+    "key": 1913,
+    "hu": "Felületes (háti) ujjágak (digitales dorsales)"
+  },
+  {
+    "key": 1914,
+    "hu": "Felületes (háti) lábközépcsonti ér"
+  },
+  {
+    "key": 1915,
+    "hu": "Felületes réteg (alkar, elülső oldal)"
+  },
+  {
+    "key": 1916,
+    "hu": "Felületes réteg (alkar, hátsó oldal)"
+  },
+  {
+    "key": 1917,
+    "hu": "Felületes réteg (kéz)"
+  },
+  {
+    "key": 1918,
+    "hu": "Felületes (bőr alatti) térdkalács alatti nyáktömlő"
+  },
+  {
+    "key": 1919,
+    "hu": "Felületes (bőr alatti) térdkalács előtti nyáktömlő"
+  },
+  {
+    "key": 1920,
+    "hu": "Felületes nyaki ér (a haránt nyaki ér felületes ága)"
+  },
+  {
+    "key": 1921,
+    "hu": "Felületes csípőkörüli ér"
+  },
+  {
+    "key": 1922,
+    "hu": "Hímvessző felületes háti vénája"
+  },
+  {
+    "key": 1923,
+    "hu": "Felületes gyomortáji ér"
+  },
+  {
+    "key": 1924,
+    "hu": "Felületes külső szeméremér"
+  },
+  {
+    "key": 1925,
+    "hu": "Felületes szárkapocsideg, köztes lábháti bőrág"
+  },
+  {
+    "key": 1926,
+    "hu": "Felületes szárkapocsideg"
+  },
+  {
+    "key": 1927,
+    "hu": "Felületes szárkapocsideg, belső lábháti bőrág"
+  },
+  {
+    "key": 1928,
+    "hu": "Felületes lágyéki nyirokcsomók (vízszintes csoport)"
+  },
+  {
+    "key": 1929,
+    "hu": "Felületes lágyéki nyirokcsomók (függőleges csoport)"
+  },
+  {
+    "key": 1930,
+    "hu": "Felületes lágyéki nyirokerek"
+  },
+  {
+    "key": 1931,
+    "hu": "Hímvessző felületes nyirokerei"
+  },
+  {
+    "key": 1932,
+    "hu": "Felületes középső agyi véna"
+  },
+  {
+    "key": 1933,
+    "hu": "Felületes tenyéri érív"
+  },
+  {
+    "key": 1934,
+    "hu": "Felületes fültőmirigyi nyirokcsomók"
+  },
+  {
+    "key": 1935,
+    "hu": "Felületes halántéki ér"
+  },
+  {
+    "key": 1936,
+    "hu": "Felületes haránt kézközépcsonti szalagok"
+  },
+  {
+    "key": 1937,
+    "hu": "Felületes haránt gátizom"
+  },
+  {
+    "key": 1938,
+    "hu": "Felső fogmedri (alveolaris superior)"
+  },
+  {
+    "key": 1939,
+    "hu": "Felső kisagyi ér"
+  },
+  {
+    "key": 1940,
+    "hu": "Felső nyaki szimpatikus szívideg"
+  },
+  {
+    "key": 1941,
+    "hu": "Felső nyaki bolygóidegi szívág"
+  },
+  {
+    "key": 1942,
+    "hu": "Felső nyaki szimpatikus dúc"
+  },
+  {
+    "key": 1943,
+    "hu": "Felső fari bőridegek"
+  },
+  {
+    "key": 1944,
+    "hu": "Felső ikertest"
+  },
+  {
+    "key": 1945,
+    "hu": "Felső mély oldalsó nyaki (belső torkolati véna menti) nyirokcsomók"
+  },
+  {
+    "key": 1946,
+    "hu": "Felső gyomortáji ér"
+  },
+  {
+    "key": 1947,
+    "hu": "Feszítőinak felső leszorító szalagja"
+  },
+  {
+    "key": 1948,
+    "hu": "Felső ikerizom"
+  },
+  {
+    "key": 1949,
+    "hu": "Felső vállízületi szalag"
+  },
+  {
+    "key": 1950,
+    "hu": "Felső fari (gluteus superior)"
+  },
+  {
+    "key": 1951,
+    "hu": "Felső alhasi idegfonat"
+  },
+  {
+    "key": 1952,
+    "hu": "Felső agyalapi mirigyi ér"
+  },
+  {
+    "key": 1953,
+    "hu": "Felső bordaközi ér"
+  },
+  {
+    "key": 1954,
+    "hu": "Felső ajki ér"
+  },
+  {
+    "key": 1955,
+    "hu": "Felső oldalsó szemhéji artéria"
+  },
+  {
+    "key": 1956,
+    "hu": "Felső oldalsó szemhéji véna"
+  },
+  {
+    "key": 1957,
+    "hu": "Felső oldalsó szemhéji (palpebralis lateralis superior)"
+  },
+  {
+    "key": 1958,
+    "hu": "Felső oldalsó felületes nyaki (külső torkolati véna menti) nyirokcsomó"
+  },
+  {
+    "key": 1959,
+    "hu": "Felső lebeny"
+  },
+  {
+    "key": 1960,
+    "hu": "Felső belső szemhéji artéria"
+  },
+  {
+    "key": 1961,
+    "hu": "Felső belső szemhéji véna"
+  },
+  {
+    "key": 1962,
+    "hu": "Felső belső szemhéji (palpebralis medialis superior)"
+  },
+  {
+    "key": 1963,
+    "hu": "Felső bélfodri dúc"
+  },
+  {
+    "key": 1964,
+    "hu": "Felső bélfodri nyirokerek"
+  },
+  {
+    "key": 1965,
+    "hu": "Felső bélfodri fonat ágai"
+  },
+  {
+    "key": 1966,
+    "hu": "Felső bélfodri fonat"
+  },
+  {
+    "key": 1967,
+    "hu": "Felső bélfodri ér"
+  },
+  {
+    "key": 1968,
+    "hu": "Felső bélfodri ér, ágak"
+  },
+  {
+    "key": 1969,
+    "hu": "Felső ferde szemizom"
+  },
+  {
+    "key": 1970,
+    "hu": "Felső szemvéna"
+  },
+  {
+    "key": 1971,
+    "hu": "Felső szemüregi rés"
+  },
+  {
+    "key": 1972,
+    "hu": "Felső szemhéji artériás ív"
+  },
+  {
+    "key": 1973,
+    "hu": "Felső szemhéji vénás ív"
+  },
+  {
+    "key": 1974,
+    "hu": "Felső hasnyálmirigyi nyirokcsomók"
+  },
+  {
+    "key": 1975,
+    "hu": "Felső hasnyálmirigy-nyombéli nyirokcsomók"
+  },
+  {
+    "key": 1976,
+    "hu": "Szárkapcsi inak felső leszorító szalagja"
+  },
+  {
+    "key": 1977,
+    "hu": "Felső sziklacsonti öböl"
+  },
+  {
+    "key": 1978,
+    "hu": "Felső garatszűkítő izom"
+  },
+  {
+    "key": 1979,
+    "hu": "Felső rekeszi nyirokcsomók"
+  },
+  {
+    "key": 1980,
+    "hu": "Felső rekeszi ér"
+  },
+  {
+    "key": 1981,
+    "hu": "Felső végbéli fonat"
+  },
+  {
+    "key": 1982,
+    "hu": "Felső végbéli ér"
+  },
+  {
+    "key": 1983,
+    "hu": "Felső egyenes szemizom"
+  },
+  {
+    "key": 1984,
+    "hu": "Felső nyílirányú öböl"
+  },
+  {
+    "key": 1985,
+    "hu": "Felső félkörös ívjárat"
+  },
+  {
+    "key": 1986,
+    "hu": "Felső mellkasi ér"
+  },
+  {
+    "key": 1987,
+    "hu": "Felső pajzsmirigyi nyirokcsomók"
+  },
+  {
+    "key": 1988,
+    "hu": "Felső pajzsmirigyi ér"
+  },
+  {
+    "key": 1989,
+    "hu": "Felső légcső-hörgői nyirokcsomók"
+  },
+  {
+    "key": 1990,
+    "hu": "Felső haránt lapockaszalag (a lapocka feletti nyílás határa)"
+  },
+  {
+    "key": 1991,
+    "hu": "Felső üres véna (kezdeti szakasz)"
+  },
+  {
+    "key": 1992,
+    "hu": "Felső üres véna"
+  },
+  {
+    "key": 1993,
+    "hu": "Felső húgyhólyagi ér"
+  },
+  {
+    "key": 1994,
+    "hu": "Hanyintóizom"
+  },
+  {
+    "key": 1995,
+    "hu": "Látóideg-kereszteződés feletti mag"
+  },
+  {
+    "key": 1996,
+    "hu": "Kötegek kulcscsont feletti ágai"
+  },
+  {
+    "key": 1997,
+    "hu": "Kulcscsont feletti nyirokcsomók"
+  },
+  {
+    "key": 1998,
+    "hu": "Kulcscsont feletti idegek"
+  },
+  {
+    "key": 1999,
+    "hu": "Nyelvcsont feletti nyirokcsomó"
+  },
+  {
+    "key": 2000,
+    "hu": "Látóideg feletti mag"
+  },
+  {
+    "key": 2001,
+    "hu": "Szemüreg feletti artéria"
+  },
+  {
+    "key": 2002,
+    "hu": "Szemüreg feletti véna"
+  },
+  {
+    "key": 2003,
+    "hu": "Szemüreg feletti (supraorbitalis)"
+  },
+  {
+    "key": 2004,
+    "hu": "Térdkalács feletti nyáktömlő"
+  },
+  {
+    "key": 2005,
+    "hu": "Gyomorkapu feletti nyirokcsomók"
+  },
+  {
+    "key": 2006,
+    "hu": "Mellékvesei fonat"
+  },
+  {
+    "key": 2007,
+    "hu": "Mellékvesei ér"
+  },
+  {
+    "key": 2008,
+    "hu": "Lapocka feletti ideg (C04-C06)"
+  },
+  {
+    "key": 2009,
+    "hu": "Lapocka feletti (suprascapularis)"
+  },
+  {
+    "key": 2010,
+    "hu": "Tövis feletti izom"
+  },
+  {
+    "key": 2011,
+    "hu": "Tövisnyúlványok feletti szalag"
+  },
+  {
+    "key": 2012,
+    "hu": "Sodor feletti artéria"
+  },
+  {
+    "key": 2013,
+    "hu": "Könyökbütyök feletti nyirokcsomók"
+  },
+  {
+    "key": 2014,
+    "hu": "Sodor feletti véna"
+  },
+  {
+    "key": 2015,
+    "hu": "Sodor feletti (supratrochlearis)"
+  },
+  {
+    "key": 2016,
+    "hu": "Legfelső bordaközi ér"
+  },
+  {
+    "key": 2017,
+    "hu": "Lábikrai (suralis)"
+  },
+  {
+    "key": 2018,
+    "hu": "Verejtékmirigy"
+  },
+  {
+    "key": 2019,
+    "hu": "Verejték"
+  },
+  {
+    "key": 2020,
+    "hu": "Szimpatikus dúclánc"
+  },
+  {
+    "key": 2021,
+    "hu": "Szimpatikus dúc"
+  },
+  {
+    "key": 2022,
+    "hu": "Szimpatikus határköteg"
+  },
+  {
+    "key": 2023,
+    "hu": "Nagyvérkör (testi keringés)"
+  },
+  {
+    "key": 2024,
+    "hu": "T01 Hozzájáruló ág"
+  },
+  {
+    "key": 2025,
+    "hu": "T01 Elülső bőrágak"
+  },
+  {
+    "key": 2026,
+    "hu": "T01 Oldalsó bőrágak"
+  },
+  {
+    "key": 2027,
+    "hu": "T01 Hátsó ág"
+  },
+  {
+    "key": 2028,
+    "hu": "T01 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2029,
+    "hu": "T01 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2030,
+    "hu": "T01 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2031,
+    "hu": "T01 Hátsó gyökér"
+  },
+  {
+    "key": 2032,
+    "hu": "T01 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2033,
+    "hu": "T01 Elülső gyökér"
+  },
+  {
+    "key": 2034,
+    "hu": "T01 Csigolya"
+  },
+  {
+    "key": 2035,
+    "hu": "T01"
+  },
+  {
+    "key": 2036,
+    "hu": "T01-T02 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2037,
+    "hu": "T02 Elülső bőrágak"
+  },
+  {
+    "key": 2038,
+    "hu": "T02 Hátsó ág"
+  },
+  {
+    "key": 2039,
+    "hu": "T02 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2040,
+    "hu": "T02 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2041,
+    "hu": "T02 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2042,
+    "hu": "T02 Hátsó gyökér"
+  },
+  {
+    "key": 2043,
+    "hu": "T02 Bordaközti-kari ideg"
+  },
+  {
+    "key": 2044,
+    "hu": "T02 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2045,
+    "hu": "T02 Elülső gyökér"
+  },
+  {
+    "key": 2046,
+    "hu": "T02 Csigolya"
+  },
+  {
+    "key": 2047,
+    "hu": "T02"
+  },
+  {
+    "key": 2048,
+    "hu": "T02-T03 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2049,
+    "hu": "T03 Elülső bőrágak"
+  },
+  {
+    "key": 2050,
+    "hu": "T03 Oldalsó bőrágak"
+  },
+  {
+    "key": 2051,
+    "hu": "T03 Hátsó ág"
+  },
+  {
+    "key": 2052,
+    "hu": "T03 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2053,
+    "hu": "T03 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2054,
+    "hu": "T03 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2055,
+    "hu": "T03 Hátsó gyökér"
+  },
+  {
+    "key": 2056,
+    "hu": "T03 Bordaközti-kari ideg"
+  },
+  {
+    "key": 2057,
+    "hu": "T03 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2058,
+    "hu": "T03 Elülső gyökér"
+  },
+  {
+    "key": 2059,
+    "hu": "T03 Csigolya"
+  },
+  {
+    "key": 2060,
+    "hu": "T03"
+  },
+  {
+    "key": 2061,
+    "hu": "T03-T04 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2062,
+    "hu": "T04 Elülső bőrágak"
+  },
+  {
+    "key": 2063,
+    "hu": "T04 Oldalsó bőrágak"
+  },
+  {
+    "key": 2064,
+    "hu": "T04 Hátsó ág"
+  },
+  {
+    "key": 2065,
+    "hu": "T04 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2066,
+    "hu": "T04 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2067,
+    "hu": "T04 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2068,
+    "hu": "T04 Hátsó gyökér"
+  },
+  {
+    "key": 2069,
+    "hu": "T04 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2070,
+    "hu": "T04 Elülső gyökér"
+  },
+  {
+    "key": 2071,
+    "hu": "T04 Csigolya"
+  },
+  {
+    "key": 2072,
+    "hu": "T04"
+  },
+  {
+    "key": 2073,
+    "hu": "T04-T05 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2074,
+    "hu": "T05 Elülső bőrágak"
+  },
+  {
+    "key": 2075,
+    "hu": "T05 Oldalsó bőrágak"
+  },
+  {
+    "key": 2076,
+    "hu": "T05 Hátsó ág"
+  },
+  {
+    "key": 2077,
+    "hu": "T05 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2078,
+    "hu": "T05 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2079,
+    "hu": "T05 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2080,
+    "hu": "T05 Hátsó gyökér"
+  },
+  {
+    "key": 2081,
+    "hu": "T05 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2082,
+    "hu": "T05 Elülső gyökér"
+  },
+  {
+    "key": 2083,
+    "hu": "T05 Csigolya"
+  },
+  {
+    "key": 2084,
+    "hu": "T05"
+  },
+  {
+    "key": 2085,
+    "hu": "T05-T06 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2086,
+    "hu": "T06 Elülső bőrágak"
+  },
+  {
+    "key": 2087,
+    "hu": "T06 Oldalsó bőrágak"
+  },
+  {
+    "key": 2088,
+    "hu": "T06 Hátsó ág"
+  },
+  {
+    "key": 2089,
+    "hu": "T06 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2090,
+    "hu": "T06 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2091,
+    "hu": "T06 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2092,
+    "hu": "T06 Hátsó gyökér"
+  },
+  {
+    "key": 2093,
+    "hu": "T06 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2094,
+    "hu": "T06 Elülső gyökér"
+  },
+  {
+    "key": 2095,
+    "hu": "T06 Csigolya"
+  },
+  {
+    "key": 2096,
+    "hu": "T06"
+  },
+  {
+    "key": 2097,
+    "hu": "T06-T07 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2098,
+    "hu": "T07 Elülső bőrágak"
+  },
+  {
+    "key": 2099,
+    "hu": "T07 Oldalsó bőrágak"
+  },
+  {
+    "key": 2100,
+    "hu": "T07 Hátsó ág"
+  },
+  {
+    "key": 2101,
+    "hu": "T07 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2102,
+    "hu": "T07 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2103,
+    "hu": "T07 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2104,
+    "hu": "T07 Hátsó gyökér"
+  },
+  {
+    "key": 2105,
+    "hu": "T07 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2106,
+    "hu": "T07 Elülső gyökér"
+  },
+  {
+    "key": 2107,
+    "hu": "T07 Csigolya"
+  },
+  {
+    "key": 2108,
+    "hu": "T07"
+  },
+  {
+    "key": 2109,
+    "hu": "T07-T08 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2110,
+    "hu": "T08 Elülső bőrágak"
+  },
+  {
+    "key": 2111,
+    "hu": "T08 Oldalsó bőrágak"
+  },
+  {
+    "key": 2112,
+    "hu": "T08 Hátsó ág"
+  },
+  {
+    "key": 2113,
+    "hu": "T08 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2114,
+    "hu": "T08 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2115,
+    "hu": "T08 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2116,
+    "hu": "T08 Hátsó gyökér"
+  },
+  {
+    "key": 2117,
+    "hu": "T08 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2118,
+    "hu": "T08 Elülső gyökér"
+  },
+  {
+    "key": 2119,
+    "hu": "T08 Csigolya"
+  },
+  {
+    "key": 2120,
+    "hu": "T08"
+  },
+  {
+    "key": 2121,
+    "hu": "T08-T09 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2122,
+    "hu": "T09 Elülső bőrágak"
+  },
+  {
+    "key": 2123,
+    "hu": "T09 Oldalsó bőrágak"
+  },
+  {
+    "key": 2124,
+    "hu": "T09 Hátsó ág"
+  },
+  {
+    "key": 2125,
+    "hu": "T09 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2126,
+    "hu": "T09 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2127,
+    "hu": "T09 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2128,
+    "hu": "T09 Hátsó gyökér"
+  },
+  {
+    "key": 2129,
+    "hu": "T09 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2130,
+    "hu": "T09 Elülső gyökér"
+  },
+  {
+    "key": 2131,
+    "hu": "T09 Csigolya"
+  },
+  {
+    "key": 2132,
+    "hu": "T09"
+  },
+  {
+    "key": 2133,
+    "hu": "T09-T10 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2134,
+    "hu": "T10 Elülső bőrágak"
+  },
+  {
+    "key": 2135,
+    "hu": "T10 Oldalsó bőrágak"
+  },
+  {
+    "key": 2136,
+    "hu": "T10 Hátsó ág"
+  },
+  {
+    "key": 2137,
+    "hu": "T10 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2138,
+    "hu": "T10 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2139,
+    "hu": "T10 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2140,
+    "hu": "T10 Hátsó gyökér"
+  },
+  {
+    "key": 2141,
+    "hu": "T10 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2142,
+    "hu": "T10 Elülső gyökér"
+  },
+  {
+    "key": 2143,
+    "hu": "T10 Csigolya"
+  },
+  {
+    "key": 2144,
+    "hu": "T10"
+  },
+  {
+    "key": 2145,
+    "hu": "T10-T11 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2146,
+    "hu": "T11 Elülső bőrágak"
+  },
+  {
+    "key": 2147,
+    "hu": "T11 Oldalsó bőrágak"
+  },
+  {
+    "key": 2148,
+    "hu": "T11 Hátsó ág"
+  },
+  {
+    "key": 2149,
+    "hu": "T11 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2150,
+    "hu": "T11 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2151,
+    "hu": "T11 Hátsó gyöki dúc"
+  },
+  {
+    "key": 2152,
+    "hu": "T11 Hátsó gyökér"
+  },
+  {
+    "key": 2153,
+    "hu": "T11 Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2154,
+    "hu": "T11 Elülső gyökér"
+  },
+  {
+    "key": 2155,
+    "hu": "T11 Csigolya"
+  },
+  {
+    "key": 2156,
+    "hu": "T11"
+  },
+  {
+    "key": 2157,
+    "hu": "T11-T12 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2158,
+    "hu": "T12 (borda alatti) Elülső bőrágak"
+  },
+  {
+    "key": 2159,
+    "hu": "T12 (borda alatti) Oldalsó bőrágak"
+  },
+  {
+    "key": 2160,
+    "hu": "T12 (borda alatti) Hátsó gyöki dúc"
+  },
+  {
+    "key": 2161,
+    "hu": "T12 (borda alatti) Hátsó gyökér"
+  },
+  {
+    "key": 2162,
+    "hu": "T12 (borda alatti) Gerincvelői ideg (elülső ág)"
+  },
+  {
+    "key": 2163,
+    "hu": "T12 (borda alatti) Elülső gyökér"
+  },
+  {
+    "key": 2164,
+    "hu": "T12 (borda alatti)"
+  },
+  {
+    "key": 2165,
+    "hu": "T12 Hátsó ág"
+  },
+  {
+    "key": 2166,
+    "hu": "T12 Hátsó ág, oldalsó ág"
+  },
+  {
+    "key": 2167,
+    "hu": "T12 Hátsó ág, belső ág"
+  },
+  {
+    "key": 2168,
+    "hu": "T12 Csigolya"
+  },
+  {
+    "key": 2169,
+    "hu": "T12-L01 Csigolyaközti porckorong (rostos porc)"
+  },
+  {
+    "key": 2170,
+    "hu": "Bokaízületi szalagok, külső oldal"
+  },
+  {
+    "key": 2171,
+    "hu": "Bokaízületi szalagok, belső oldal"
+  },
+  {
+    "key": 2172,
+    "hu": "Ugrócsont–sajkacsonti szalag"
+  },
+  {
+    "key": 2173,
+    "hu": "Ugrócsont"
+  },
+  {
+    "key": 2174,
+    "hu": "Lábtő (lábtőcsontok)"
+  },
+  {
+    "key": 2175,
+    "hu": "Ízlelőbimbók"
+  },
+  {
+    "key": 2176,
+    "hu": "Fejgyám–forgócsigolya ízület fedőhártyája"
+  },
+  {
+    "key": 2177,
+    "hu": "Fedőhártya (membrana tectoria)"
+  },
+  {
+    "key": 2178,
+    "hu": "Fedőhártya (mély járulékos rész)"
+  },
+  {
+    "key": 2179,
+    "hu": "Középagytető"
+  },
+  {
+    "key": 2180,
+    "hu": "Fogak"
+  },
+  {
+    "key": 2181,
+    "hu": "Halántékcsont (metszett)"
+  },
+  {
+    "key": 2182,
+    "hu": "Halántéklebeny"
+  },
+  {
+    "key": 2183,
+    "hu": "Halántékcsont"
+  },
+  {
+    "key": 2184,
+    "hu": "Halántékizom"
+  },
+  {
+    "key": 2185,
+    "hu": "Inas ív"
+  },
+  {
+    "key": 2186,
+    "hu": "Szélespólya-feszítő izom"
+  },
+  {
+    "key": 2187,
+    "hu": "Dobhártyafeszítő izom"
+  },
+  {
+    "key": 2188,
+    "hu": "Lágyszájpadfeszítő izom"
+  },
+  {
+    "key": 2189,
+    "hu": "Tizedik borda (10)"
+  },
+  {
+    "key": 2190,
+    "hu": "Nagy görgetegizom"
+  },
+  {
+    "key": 2191,
+    "hu": "Kis görgetegizom"
+  },
+  {
+    "key": 2192,
+    "hu": "Oldalsó köteg végágai"
+  },
+  {
+    "key": 2193,
+    "hu": "Belső köteg végágai"
+  },
+  {
+    "key": 2194,
+    "hu": "Hátsó köteg végágai"
+  },
+  {
+    "key": 2195,
+    "hu": "Harmadlagos (szegmentális) hörgők"
+  },
+  {
+    "key": 2196,
+    "hu": "Here"
+  },
+  {
+    "key": 2197,
+    "hu": "Here, külső fél"
+  },
+  {
+    "key": 2198,
+    "hu": "Here, belső fél"
+  },
+  {
+    "key": 2199,
+    "hu": "Herei fonat"
+  },
+  {
+    "key": 2200,
+    "hu": "Here és mellékhere nyirokerei"
+  },
+  {
+    "key": 2201,
+    "hu": "Talamuszmagok"
+  },
+  {
+    "key": 2202,
+    "hu": "Talamusz"
+  },
+  {
+    "key": 2203,
+    "hu": "Harmadik borda (03)"
+  },
+  {
+    "key": 2204,
+    "hu": "Harmadik agykamra"
+  },
+  {
+    "key": 2205,
+    "hu": "Mellkasi szimpatikus szívágak"
+  },
+  {
+    "key": 2206,
+    "hu": "Mellkasi aortafonat"
+  },
+  {
+    "key": 2207,
+    "hu": "Mellkas csontos váza"
+  },
+  {
+    "key": 2208,
+    "hu": "Mellvezeték"
+  },
+  {
+    "key": 2209,
+    "hu": "Háti gerinc"
+  },
+  {
+    "key": 2210,
+    "hu": "Mellkas-vállcsúcsi verőértörzs"
+  },
+  {
+    "key": 2211,
+    "hu": "Mellkas-vállcsúcsi ér, vállcsúcsi ág"
+  },
+  {
+    "key": 2212,
+    "hu": "Mellkas-vállcsúcsi ér, deltaizmi ág"
+  },
+  {
+    "key": 2213,
+    "hu": "Mellkas-vállcsúcsi ér, mellizmi ág"
+  },
+  {
+    "key": 2214,
+    "hu": "Mellkas-háti ideg (középső, hosszú lapocka alatti ideg; C06-C08)"
+  },
+  {
+    "key": 2215,
+    "hu": "Mellkas-háti (thoracodorsalis)"
+  },
+  {
+    "key": 2216,
+    "hu": "Mellkas-gyomortáji véna"
+  },
+  {
+    "key": 2217,
+    "hu": "Mellkas"
+  },
+  {
+    "key": 2218,
+    "hu": "Mellkas, elülső oldal"
+  },
+  {
+    "key": 2219,
+    "hu": "Mellkas, hátsó oldal"
+  },
+  {
+    "key": 2220,
+    "hu": "Csecsemőmirigy"
+  },
+  {
+    "key": 2221,
+    "hu": "Pajzs-kannaporcizom"
+  },
+  {
+    "key": 2222,
+    "hu": "Pajzsmirigy-nyaki verőértörzs"
+  },
+  {
+    "key": 2223,
+    "hu": "Pajzsporc-gégefedői izom"
+  },
+  {
+    "key": 2224,
+    "hu": "Pajzsporc–nyelvcsonti hártya"
+  },
+  {
+    "key": 2225,
+    "hu": "Pajzsporc-nyelvcsonti izom"
+  },
+  {
+    "key": 2226,
+    "hu": "Pajzsporc"
+  },
+  {
+    "key": 2227,
+    "hu": "Pajzsmirigy"
+  },
+  {
+    "key": 2228,
+    "hu": "Sípcsont (lábszár)"
+  },
+  {
+    "key": 2229,
+    "hu": "Nyirokerek sípcsonti csoportja"
+  },
+  {
+    "key": 2230,
+    "hu": "Sípcsonti (tibialis)"
+  },
+  {
+    "key": 2231,
+    "hu": "Elülső sípcsonti izom"
+  },
+  {
+    "key": 2232,
+    "hu": "Hátsó sípcsonti izom"
+  },
+  {
+    "key": 2233,
+    "hu": "Elülső sípcsont–szárkapocscsonti szalag"
+  },
+  {
+    "key": 2234,
+    "hu": "Sípcsont–szárkapocscsonti szalagok"
+  },
+  {
+    "key": 2235,
+    "hu": "Nyelv keresztmetszete"
+  },
+  {
+    "key": 2236,
+    "hu": "Nyelv"
+  },
+  {
+    "key": 2237,
+    "hu": "Nyelvcsúcs"
+  },
+  {
+    "key": 2238,
+    "hu": "Nyelvtest"
+  },
+  {
+    "key": 2239,
+    "hu": "Nyelvgyök"
+  },
+  {
+    "key": 2240,
+    "hu": "Légcső"
+  },
+  {
+    "key": 2241,
+    "hu": "Légcső porcgyűrűi"
+  },
+  {
+    "key": 2242,
+    "hu": "Haránt kannaporcizom"
+  },
+  {
+    "key": 2243,
+    "hu": "Haránt nyaki nyirokcsomólánc"
+  },
+  {
+    "key": 2244,
+    "hu": "Haránt nyaki ér"
+  },
+  {
+    "key": 2245,
+    "hu": "Haránt vastagbél"
+  },
+  {
+    "key": 2246,
+    "hu": "Haránt vastagbél, hosszanti izomszalag (taenia coli)"
+  },
+  {
+    "key": 2247,
+    "hu": "Haránt arci artéria"
+  },
+  {
+    "key": 2248,
+    "hu": "Haránt arci véna"
+  },
+  {
+    "key": 2249,
+    "hu": "Haránt arci ér"
+  },
+  {
+    "key": 2250,
+    "hu": "Haránt felkarcsonti szalag"
+  },
+  {
+    "key": 2251,
+    "hu": "Harántszalag (a fejgyám keresztszalagjának része)"
+  },
+  {
+    "key": 2252,
+    "hu": "Harántöböl"
+  },
+  {
+    "key": 2253,
+    "hu": "Haránt lábtőízületi szalagok (ízület)"
+  },
+  {
+    "key": 2254,
+    "hu": "Haránt-tövisnyúlványi izomzat"
+  },
+  {
+    "key": 2255,
+    "hu": "Haránt hasizom"
+  },
+  {
+    "key": 2256,
+    "hu": "Haránt mellkasizom (legbelső bordaközi izom)"
+  },
+  {
+    "key": 2257,
+    "hu": "Nagy sokszögű csont"
+  },
+  {
+    "key": 2258,
+    "hu": "Csuklyásizom"
+  },
+  {
+    "key": 2259,
+    "hu": "Kis sokszögű csont"
+  },
+  {
+    "key": 2260,
+    "hu": "Háromszögletű szalag"
+  },
+  {
+    "key": 2261,
+    "hu": "Háromfejű karizom, belső fej"
+  },
+  {
+    "key": 2262,
+    "hu": "Háromfejű karizom ina"
+  },
+  {
+    "key": 2263,
+    "hu": "Háromfejű karizom, külső fej"
+  },
+  {
+    "key": 2264,
+    "hu": "Háromfejű karizom, hosszú fej"
+  },
+  {
+    "key": 2265,
+    "hu": "Háromhegyű billentyű"
+  },
+  {
+    "key": 2266,
+    "hu": "Háromhegyű billentyű, billentyűgyűrű"
+  },
+  {
+    "key": 2267,
+    "hu": "Háromhegyű billentyű, elülső vitorla"
+  },
+  {
+    "key": 2268,
+    "hu": "Háromhegyű billentyű, ínhúrok"
+  },
+  {
+    "key": 2269,
+    "hu": "Háromhegyű billentyű, összeköttetés"
+  },
+  {
+    "key": 2270,
+    "hu": "Háromhegyű billentyű, hátsó vitorla"
+  },
+  {
+    "key": 2271,
+    "hu": "Háromhegyű billentyű, sövényi vitorla"
+  },
+  {
+    "key": 2272,
+    "hu": "Húgyhólyag-háromszög, bal fele"
+  },
+  {
+    "key": 2273,
+    "hu": "Húgyhólyag-háromszög, jobb fele"
+  },
+  {
+    "key": 2274,
+    "hu": "Háromszögű csont"
+  },
+  {
+    "key": 2275,
+    "hu": "Sodor (trochlea)"
+  },
+  {
+    "key": 2276,
+    "hu": "Törzsek"
+  },
+  {
+    "key": 2277,
+    "hu": "Fehér burok (tunica albuginea)"
+  },
+  {
+    "key": 2278,
+    "hu": "Tizenkettedik borda (12)"
+  },
+  {
+    "key": 2279,
+    "hu": "Dobhártya"
+  },
+  {
+    "key": 2280,
+    "hu": "Dobideg, a IX. agyideg (nyelv-garat ideg) ága"
+  },
+  {
+    "key": 2281,
+    "hu": "Singcsont (alkar)"
+  },
+  {
+    "key": 2282,
+    "hu": "Singideg (C08, T01)"
+  },
+  {
+    "key": 2283,
+    "hu": "Singcsonti nyáktömlő"
+  },
+  {
+    "key": 2284,
+    "hu": "Singcsonti oldalszalag, elülső rész"
+  },
+  {
+    "key": 2285,
+    "hu": "Singcsonti oldalszalag"
+  },
+  {
+    "key": 2286,
+    "hu": "Singcsonti oldalszalag, borsócsonti rész (belső csuklóoldalszalag)"
+  },
+  {
+    "key": 2287,
+    "hu": "Singcsonti oldalszalag, haránt rész"
+  },
+  {
+    "key": 2288,
+    "hu": "Singcsonti oldalsó ér"
+  },
+  {
+    "key": 2289,
+    "hu": "Nyirokerek singcsonti csoportja"
+  },
+  {
+    "key": 2290,
+    "hu": "Elülső visszahajló singcsonti ér"
+  },
+  {
+    "key": 2291,
+    "hu": "Visszahajló singcsonti ér"
+  },
+  {
+    "key": 2292,
+    "hu": "Hátsó visszahajló singcsonti ér"
+  },
+  {
+    "key": 2293,
+    "hu": "Singideg, összekötő ág"
+  },
+  {
+    "key": 2294,
+    "hu": "Singideg, háti ág"
+  },
+  {
+    "key": 2295,
+    "hu": "Singcsonti ér, háti kéztői ág"
+  },
+  {
+    "key": 2296,
+    "hu": "Singcsonti (ulnaris)"
+  },
+  {
+    "key": 2297,
+    "hu": "Singideg, felületes ág"
+  },
+  {
+    "key": 2298,
+    "hu": "Singcsont–kéztői ízület (ízületi porckorong)"
+  },
+  {
+    "key": 2299,
+    "hu": "Köldöki ér"
+  },
+  {
+    "key": 2300,
+    "hu": "Felső ív"
+  },
+  {
+    "key": 2301,
+    "hu": "Felső végtag"
+  },
+  {
+    "key": 2302,
+    "hu": "Felső légutak"
+  },
+  {
+    "key": 2303,
+    "hu": "Felső lapocka alatti ideg (C05-C06)"
+  },
+  {
+    "key": 2304,
+    "hu": "Felső törzs (C05, C06)"
+  },
+  {
+    "key": 2305,
+    "hu": "Felső rész"
+  },
+  {
+    "key": 2306,
+    "hu": "Húgyvezeték fonata"
+  },
+  {
+    "key": 2307,
+    "hu": "Húgyvezeték"
+  },
+  {
+    "key": 2308,
+    "hu": "Húgyvezeték szájadéka"
+  },
+  {
+    "key": 2309,
+    "hu": "Húgycső"
+  },
+  {
+    "key": 2310,
+    "hu": "Húgycső, bal fele"
+  },
+  {
+    "key": 2311,
+    "hu": "Húgycső hártyás szakasza, bal fele"
+  },
+  {
+    "key": 2312,
+    "hu": "Húgycső hártyás szakasza, jobb fele"
+  },
+  {
+    "key": 2313,
+    "hu": "Húgycső prosztatán áthaladó szakasza, bal fele"
+  },
+  {
+    "key": 2314,
+    "hu": "Húgycső prosztatán áthaladó szakasza, jobb fele"
+  },
+  {
+    "key": 2315,
+    "hu": "Húgycső, jobb fele"
+  },
+  {
+    "key": 2316,
+    "hu": "Húgycső szivacsos (hímvesszői) szakasza, bal fele"
+  },
+  {
+    "key": 2317,
+    "hu": "Húgycső szivacsos (hímvesszői) szakasza, jobb fele"
+  },
+  {
+    "key": 2318,
+    "hu": "Húgycsőnyílás"
+  },
+  {
+    "key": 2319,
+    "hu": "Húgyúti rendszer"
+  },
+  {
+    "key": 2320,
+    "hu": "Húgyúti rendszer"
+  },
+  {
+    "key": 2321,
+    "hu": "Nyirokerek méhi ága"
+  },
+  {
+    "key": 2322,
+    "hu": "Méhi vénás fonat"
+  },
+  {
+    "key": 2323,
+    "hu": "Méhi ér"
+  },
+  {
+    "key": 2324,
+    "hu": "Méhi ér, petefészeki ág"
+  },
+  {
+    "key": 2325,
+    "hu": "Méhi ér, hüvelyi ág"
+  },
+  {
+    "key": 2326,
+    "hu": "Méh–keresztcsonti szalag"
+  },
+  {
+    "key": 2327,
+    "hu": "Méhtest, bal fele"
+  },
+  {
+    "key": 2328,
+    "hu": "Méhtest, jobb fele"
+  },
+  {
+    "key": 2329,
+    "hu": "Méhnyak, bal fele"
+  },
+  {
+    "key": 2330,
+    "hu": "Méhnyak, jobb fele"
+  },
+  {
+    "key": 2331,
+    "hu": "Méhszarv"
+  },
+  {
+    "key": 2332,
+    "hu": "Méhnyálkahártya, bal fele"
+  },
+  {
+    "key": 2333,
+    "hu": "Méhnyálkahártya, jobb fele"
+  },
+  {
+    "key": 2334,
+    "hu": "Méhfenék, bal fele"
+  },
+  {
+    "key": 2335,
+    "hu": "Méhfenék, jobb fele"
+  },
+  {
+    "key": 2336,
+    "hu": "Méh, bal fele"
+  },
+  {
+    "key": 2337,
+    "hu": "Méh, jobb fele"
+  },
+  {
+    "key": 2338,
+    "hu": "Méh, tájéki nézet"
+  },
+  {
+    "key": 2339,
+    "hu": "Nyelvcsap"
+  },
+  {
+    "key": 2340,
+    "hu": "Bolygóidegi ág a gyomorfenékhez és gyomortesthez"
+  },
+  {
+    "key": 2341,
+    "hu": "Bolygóidegi ág a gyomorfenékhez és gyomorszájhoz"
+  },
+  {
+    "key": 2342,
+    "hu": "Hüvely"
+  },
+  {
+    "key": 2343,
+    "hu": "Hüvelyi vénás fonat"
+  },
+  {
+    "key": 2344,
+    "hu": "Hüvelyi ér"
+  },
+  {
+    "key": 2345,
+    "hu": "Ondóvezeték"
+  },
+  {
+    "key": 2346,
+    "hu": "Közbülső vaskosizom"
+  },
+  {
+    "key": 2347,
+    "hu": "Külső vaskosizom"
+  },
+  {
+    "key": 2348,
+    "hu": "Belső vaskosizom"
+  },
+  {
+    "key": 2349,
+    "hu": "Vénák"
+  },
+  {
+    "key": 2350,
+    "hu": "Vénás öblök"
+  },
+  {
+    "key": 2351,
+    "hu": "Gégekamrák"
+  },
+  {
+    "key": 2352,
+    "hu": "Kamrák"
+  },
+  {
+    "key": 2353,
+    "hu": "Hasi-belső mag"
+  },
+  {
+    "key": 2354,
+    "hu": "Kisagyi féreg"
+  },
+  {
+    "key": 2355,
+    "hu": "Lengőbordák (11-12)"
+  },
+  {
+    "key": 2356,
+    "hu": "Gerincoszlop"
+  },
+  {
+    "key": 2357,
+    "hu": "Csigolya menti (vertebralis)"
+  },
+  {
+    "key": 2358,
+    "hu": "Csigolya-porci bordák (08-10)"
+  },
+  {
+    "key": 2359,
+    "hu": "Valódi, szegycsonti bordák (01-07)"
+  },
+  {
+    "key": 2360,
+    "hu": "Ondódomb a húgycső prosztatai szakaszán, bal fele"
+  },
+  {
+    "key": 2361,
+    "hu": "Ondódomb a húgycső prosztatai szakaszán, jobb fele"
+  },
+  {
+    "key": 2362,
+    "hu": "Hólyagfonat"
+  },
+  {
+    "key": 2363,
+    "hu": "Hólyagi vénás fonat"
+  },
+  {
+    "key": 2364,
+    "hu": "Tornáci hártya (Reissner-hártya)"
+  },
+  {
+    "key": 2365,
+    "hu": "Tornácredők (álhangszalagok)"
+  },
+  {
+    "key": 2366,
+    "hu": "Gégetornác* (lásd még: emésztőrendszer)"
+  },
+  {
+    "key": 2367,
+    "hu": "Gégetornác* (lásd még: légzőrendszer)"
+  },
+  {
+    "key": 2368,
+    "hu": "Tornác (vestibulum)"
+  },
+  {
+    "key": 2369,
+    "hu": "Vidian-artéria (röpnyúlványi csatorna artériája)"
+  },
+  {
+    "key": 2370,
+    "hu": "Virchow-nyirokcsomó"
+  },
+  {
+    "key": 2371,
+    "hu": "Üvegtest"
+  },
+  {
+    "key": 2372,
+    "hu": "Hangporcok"
+  },
+  {
+    "key": 2373,
+    "hu": "Hangredők (valódi hangszalagok)"
+  },
+  {
+    "key": 2374,
+    "hu": "Hangszalag"
+  },
+  {
+    "key": 2375,
+    "hu": "Hangizom"
+  },
+  {
+    "key": 2376,
+    "hu": "Ekecsont"
+  },
+  {
+    "key": 2377,
+    "hu": "Örvényvénák"
+  },
+  {
+    "key": 2378,
+    "hu": "Örvényér"
+  },
+  {
+    "key": 2379,
+    "hu": "Fehér összekötő ágak"
+  },
+  {
+    "key": 2380,
+    "hu": "Kardnyúlvány"
+  },
+  {
+    "key": 2381,
+    "hu": "Lencsefüggesztő rostok"
+  },
+  {
+    "key": 2382,
+    "hu": "Járomcsonti (zygomaticus)"
+  },
+  {
+    "key": 2383,
+    "hu": "Járomcsont, szemüregi járomcsonti nyílás"
+  },
+  {
+    "key": 2384,
+    "hu": "Járomcsont, járomcsont-arci nyílás"
+  },
+  {
+    "key": 2385,
+    "hu": "Járomcsont, járomcsont-halántéki nyílás"
+  },
+  {
+    "key": 2386,
+    "hu": "Járomcsont-arci (zygomaticofacialis)"
+  },
+  {
+    "key": 2387,
+    "hu": "Járomcsont-halántéki (zygomaticotemporalis)"
+  },
+  {
+    "key": 2388,
+    "hu": "Nagy járomizom"
+  },
+  {
+    "key": 2389,
+    "hu": "Kis járomizom"
+  },
+  {
+    "key": 2390,
+    "hu": "(I) Máj, farkos lebeny"
+  },
+  {
+    "key": 2391,
+    "hu": "(II) Máj, bal hátsó-oldalsó szegmentum"
+  },
+  {
+    "key": 2392,
+    "hu": "(III) Máj, bal elülső-oldalsó szegmentum"
+  },
+  {
+    "key": 2393,
+    "hu": "(IV) Máj, belső szegmentum (felső alszegmentum)"
+  },
+  {
+    "key": 2394,
+    "hu": "(IVb) Máj, belső szegmentum (alsó alszegmentum, a négyszögű lebenyt is beleértve)"
+  },
+  {
+    "key": 2395,
+    "hu": "(V) Máj, elülső-belső szegmentum"
+  },
+  {
+    "key": 2396,
+    "hu": "(VI) Máj, jobb elülső-oldalsó szegmentum"
+  },
+  {
+    "key": 2397,
+    "hu": "(VII) Máj, jobb hátsó-oldalsó szegmentum"
+  },
+  {
+    "key": 2398,
+    "hu": "(VIII) Máj, hátsó-belső szegmentum"
+  },
+  {
+    "key": 2399,
+    "hu": "[01] Harmadik nagyőrlő (bölcsességfog)"
+  },
+  {
+    "key": 2400,
+    "hu": "[02] Második nagyőrlő"
+  },
+  {
+    "key": 2401,
+    "hu": "[03] Első nagyőrlő"
+  },
+  {
+    "key": 2402,
+    "hu": "[04] Második kisőrlő"
+  },
+  {
+    "key": 2403,
+    "hu": "[05] Első kisőrlő"
+  },
+  {
+    "key": 2404,
+    "hu": "[06] Szemfog"
+  },
+  {
+    "key": 2405,
+    "hu": "[07] Oldalsó metszőfog"
+  },
+  {
+    "key": 2406,
+    "hu": "[08] Középső metszőfog"
+  },
+  {
+    "key": 2407,
+    "hu": "[09] Középső metszőfog"
+  },
+  {
+    "key": 2408,
+    "hu": "[10] Oldalsó metszőfog"
+  },
+  {
+    "key": 2409,
+    "hu": "[11] Szemfog"
+  },
+  {
+    "key": 2410,
+    "hu": "[12] Első kisőrlő"
+  },
+  {
+    "key": 2411,
+    "hu": "[13] Második kisőrlő"
+  },
+  {
+    "key": 2412,
+    "hu": "[14] Első nagyőrlő"
+  },
+  {
+    "key": 2413,
+    "hu": "[15] Második nagyőrlő"
+  },
+  {
+    "key": 2414,
+    "hu": "[16] Harmadik nagyőrlő (bölcsességfog)"
+  },
+  {
+    "key": 2415,
+    "hu": "[17] Harmadik nagyőrlő (bölcsességfog)"
+  },
+  {
+    "key": 2416,
+    "hu": "[18] Második nagyőrlő"
+  },
+  {
+    "key": 2417,
+    "hu": "[19] Első nagyőrlő"
+  },
+  {
+    "key": 2418,
+    "hu": "[20] Második kisőrlő"
+  },
+  {
+    "key": 2419,
+    "hu": "[21] Első kisőrlő"
+  },
+  {
+    "key": 2420,
+    "hu": "[22] Szemfog"
+  },
+  {
+    "key": 2421,
+    "hu": "[23] Oldalsó metszőfog"
+  },
+  {
+    "key": 2422,
+    "hu": "[24] Középső metszőfog"
+  },
+  {
+    "key": 2423,
+    "hu": "[25] Középső metszőfog"
+  },
+  {
+    "key": 2424,
+    "hu": "[26] Oldalsó metszőfog"
+  },
+  {
+    "key": 2425,
+    "hu": "[27] Szemfog"
+  },
+  {
+    "key": 2426,
+    "hu": "[28] Első kisőrlő"
+  },
+  {
+    "key": 2427,
+    "hu": "[29] Második kisőrlő"
+  },
+  {
+    "key": 2428,
+    "hu": "[30] Első nagyőrlő"
+  },
+  {
+    "key": 2429,
+    "hu": "[31] Második nagyőrlő"
+  },
+  {
+    "key": 2430,
+    "hu": "[32] Harmadik nagyőrlő (bölcsességfog)"
+  },
+  {
+    "key": 2431,
+    "hu": "1. lábujj (öregujj), ujjpercek"
+  },
+  {
+    "key": 2432,
+    "hu": "1. kézujj (hüvelykujj), ujjpercek"
+  },
+  {
+    "key": 2433,
+    "hu": "1. távolabbi ujjperc (öregujj)"
+  },
+  {
+    "key": 2434,
+    "hu": "1. távolabbi ujjperc (hüvelykujj)"
+  },
+  {
+    "key": 2435,
+    "hu": "1. ágyéki zsigeri ideg"
+  },
+  {
+    "key": 2436,
+    "hu": "1. kézközépcsont (hüvelykujj)"
+  },
+  {
+    "key": 2437,
+    "hu": "1. lábközépcsont (öregujj)"
+  },
+  {
+    "key": 2438,
+    "hu": "1. közelebbi ujjperc (öregujj)"
+  },
+  {
+    "key": 2439,
+    "hu": "1. közelebbi ujjperc (hüvelykujj)"
+  },
+  {
+    "key": 2440,
+    "hu": "2. lábujj, ujjpercek"
+  },
+  {
+    "key": 2441,
+    "hu": "2. kézujj, ujjpercek"
+  },
+  {
+    "key": 2442,
+    "hu": "2. távolabbi ujjperc (láb)"
+  },
+  {
+    "key": 2443,
+    "hu": "2. távolabbi ujjperc (kéz)"
+  },
+  {
+    "key": 2444,
+    "hu": "2. ágyéki zsigeri ideg"
+  },
+  {
+    "key": 2445,
+    "hu": "2. kézközépcsont"
+  },
+  {
+    "key": 2446,
+    "hu": "2. lábközépcsont"
+  },
+  {
+    "key": 2447,
+    "hu": "2. középső ujjperc (láb)"
+  },
+  {
+    "key": 2448,
+    "hu": "2. középső ujjperc (kéz)"
+  },
+  {
+    "key": 2449,
+    "hu": "2. közelebbi ujjperc (láb)"
+  },
+  {
+    "key": 2450,
+    "hu": "2. közelebbi ujjperc (kéz)"
+  },
+  {
+    "key": 2451,
+    "hu": "3. lábujj, ujjpercek"
+  },
+  {
+    "key": 2452,
+    "hu": "3. kézujj, ujjpercek"
+  },
+  {
+    "key": 2453,
+    "hu": "3. távolabbi ujjperc (láb)"
+  },
+  {
+    "key": 2454,
+    "hu": "3. távolabbi ujjperc (kéz)"
+  },
+  {
+    "key": 2455,
+    "hu": "3. ágyéki zsigeri ideg"
+  },
+  {
+    "key": 2456,
+    "hu": "3. kézközépcsont"
+  },
+  {
+    "key": 2457,
+    "hu": "3. lábközépcsont"
+  },
+  {
+    "key": 2458,
+    "hu": "3. középső ujjperc (láb)"
+  },
+  {
+    "key": 2459,
+    "hu": "3. középső ujjperc (kéz)"
+  },
+  {
+    "key": 2460,
+    "hu": "3. közelebbi ujjperc (láb)"
+  },
+  {
+    "key": 2461,
+    "hu": "3. közelebbi ujjperc (kéz)"
+  },
+  {
+    "key": 2462,
+    "hu": "4. lábujj, ujjpercek"
+  },
+  {
+    "key": 2463,
+    "hu": "4. kézujj, ujjpercek"
+  },
+  {
+    "key": 2464,
+    "hu": "4. távolabbi ujjperc (láb)"
+  },
+  {
+    "key": 2465,
+    "hu": "4. távolabbi ujjperc (kéz)"
+  },
+  {
+    "key": 2466,
+    "hu": "4. ágyéki zsigeri ideg"
+  },
+  {
+    "key": 2467,
+    "hu": "4. kézközépcsont"
+  },
+  {
+    "key": 2468,
+    "hu": "4. lábközépcsont"
+  },
+  {
+    "key": 2469,
+    "hu": "4. középső ujjperc (láb)"
+  },
+  {
+    "key": 2470,
+    "hu": "4. középső ujjperc (kéz)"
+  },
+  {
+    "key": 2471,
+    "hu": "4. közelebbi ujjperc (láb)"
+  },
+  {
+    "key": 2472,
+    "hu": "4. közelebbi ujjperc (kéz)"
+  },
+  {
+    "key": 2473,
+    "hu": "5. lábujj, ujjpercek"
+  },
+  {
+    "key": 2474,
+    "hu": "5. kézujj, ujjpercek"
+  },
+  {
+    "key": 2475,
+    "hu": "5. távolabbi ujjperc (láb)"
+  },
+  {
+    "key": 2476,
+    "hu": "5. távolabbi ujjperc (kéz)"
+  },
+  {
+    "key": 2477,
+    "hu": "5. ágyéki zsigeri ideg"
+  },
+  {
+    "key": 2478,
+    "hu": "5. kézközépcsont"
+  },
+  {
+    "key": 2479,
+    "hu": "5. lábközépcsont"
+  },
+  {
+    "key": 2480,
+    "hu": "5. középső ujjperc (láb)"
+  },
+  {
+    "key": 2481,
+    "hu": "5. középső ujjperc (kéz)"
+  },
+  {
+    "key": 2482,
+    "hu": "5. közelebbi ujjperc (láb)"
+  },
+  {
+    "key": 2483,
+    "hu": "5. közelebbi ujjperc (kéz)"
+  }
+]

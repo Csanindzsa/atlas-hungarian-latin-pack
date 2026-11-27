@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$PackDirectory = $PSScriptRoot,
     [string]$AtlasDirectory = '',
     [ValidateSet('', 'magyar', 'latinos', 'latinkviz')]

@@ -6,8 +6,8 @@ from variants import apply_latin_quiz
 
 cat = json.loads((ROOT/'fulltext/source_catalog.json').read_text())
 fields = json.loads((ROOT/'fulltext/merged/field-translations.json').read_text())
-answers, latin, base = quiz_inputs(cat)
-new, changed = apply_latin_quiz(fields, cat, answers, latin, base)
+answers, latin, base, english = quiz_inputs(cat)
+new, changed = apply_latin_quiz(fields, cat, answers, latin, base, english)
 en = {e['key']: e['en'] for e in cat if e['category'] == 'quiz_prompts'}
 print('prompts', len(en), 'latin', len(changed))
 for w in sys.argv[1:]:

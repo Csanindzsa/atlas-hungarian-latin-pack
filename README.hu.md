@@ -9,7 +9,7 @@ Nem hivatalos, közösségi fordítás tanuláshoz. **Nem orvosilag lektorált t
 - **Három változat**, telepítéskor választhatsz:
   - **1 = magyaros:** oldalsó / belső (pl. „Oldalsó combcsont körüli ér”).
   - **2 = latinos:** laterális / mediális (pl. „Laterális combcsont körüli ér”). Csak ott változik, ahol a latin név is lateralis/medialis; a belső = internus (pl. „Belső csípőér”) mindkét stílusban marad.
-  - **3 = latin kvíz (latin gyakorláshoz):** a nevek és leírások magyarosak, de a kvízkérdések a képlet **latin nevét** adják meg (pl. „Válassza ki a jobb vagy bal oldali képletet: M. vastus lateralis.”). Ahol a latin név nem egyértelmű (pl. sorszámozott idegek, bordák, több képletből álló csoportok), a kérdés magyarul marad; ez a kérdések kb. negyede.
+  - **3 = latin kvíz (latin gyakorláshoz):** a nevek és leírások magyarosak, de a kvízkérdések a képlet **latin nevét** adják meg (pl. „Válassza ki a jobb vagy bal oldali képletet: M. vastus lateralis.”). Ahol a latin név nem egyértelmű (pl. sorszámozott idegek, bordák, több különböző képletből álló csoportok), a kérdés magyarul marad (a kérdések kb. 16%-a). Sorszámozott csontoknál a szabványos latin sorszámot használja (pl. „Vertebra cervicalis VII”, „Os metacarpi III”, „Dens molaris secundus”).
 - A program az angol nyelvi helyet használja: a programban az **English** nyelvet válaszd, ennek helyén jelenik meg a magyar.
 
 ## Telepítés (Windows)
@@ -23,7 +23,7 @@ Nem hivatalos, közösségi fordítás tanuláshoz. **Nem orvosilag lektorált t
 A telepítő magától megkeresi az Atlas 7.4.01 mappáját (Program Files és a Windows telepített programjainak listája alapján), és csak akkor használja, ha a fájljai pontosan egyeznek a 7.4.01-es verzióval. Ha nem találja, vagy több telepítés is van, rendszergazdai PowerShellben add meg a mappát:
 
 ```powershell
-& .\Install-Pack.ps1 -PackDirectory $PWD.Path -AtlasDirectory 'D:\SajatAtlasMappa' -Variant magyar   # vagy latinos / latinkviz
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Install-Pack.ps1 -PackDirectory $PWD.Path -AtlasDirectory 'D:\SajatAtlasMappa' -Variant magyar   # vagy latinos / latinkviz
 ```
 
 **Váltás:** futtasd újra az `Install.cmd` fájlt, és válassz másik számot. Nem kell előbb visszaállítani.

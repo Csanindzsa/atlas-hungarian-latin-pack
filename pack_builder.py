@@ -179,11 +179,12 @@ def quiz_inputs(catalog):
         for i in e['node_route'].split('.')[1:-1]: node=node[int(i)]
         if node.tag!='question': raise ValueError('Unexpected quiz XML shape at '+e['key'])
         answers[e['key']]=[a.text.strip() for a in node if a.tag=='answer' and a.text]
-    latin=defaultdict(set); base={}
+    latin=defaultdict(set); base={}; english={}
     occ=ROOT/'quality-review/name-accuracy/run-01/structure-occurrences.json'
     for r in json.loads(occ.read_text()):
         latin[r['id']].update(x for x in r['native_latin'] if x); base[r['id']]=r['key']
-    return answers,latin,base
+        english.setdefault(r['id'],r['original_en'])
+    return answers,latin,base,english
 
 def build_assets(variant='magyar'):
     from variants import apply_variant, apply_variant_to_fields, apply_latin_quiz, VARIANTS
@@ -209,8 +210,8 @@ def build_assets(variant='magyar'):
     fulltext_fields,variant_field_changes=apply_variant_to_fields(fulltext_fields,variant_changes)
     quiz_changes={}
     if variant=='latinkviz':
-        answers,latin_by_id,base_by_id=quiz_inputs(catalog)
-        fulltext_fields,quiz_changes=apply_latin_quiz(fulltext_fields,catalog,answers,latin_by_id,base_by_id)
+        answers,latin_by_id,base_by_id,english_by_id=quiz_inputs(catalog)
+        fulltext_fields,quiz_changes=apply_latin_quiz(fulltext_fields,catalog,answers,latin_by_id,base_by_id,english_by_id)
         variant_field_changes+=len(quiz_changes)
     translations=validate_translations(terms_source,terms)
     (build/'terms_hu.resolved.json').write_text(json.dumps(terms,ensure_ascii=False,indent=2),encoding='utf-8')

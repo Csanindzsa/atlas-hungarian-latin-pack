@@ -64,6 +64,30 @@ class VariantTests(unittest.TestCase):
         same, ch = apply_variant(terms, {1: {'Fasciculus lateralis'}}, 'latinkviz')
         self.assertEqual((same, ch), (terms, {}))
 
+    def test_latin_quiz_whole_bone_with_landmarks(self):
+        from variants import apply_latin_quiz
+        cat = [{'key': 'k', 'category': 'quiz_prompts', 'en': 'Select the right or left temporal bone.'}]
+        latin = {'1': {'Os temporale'}, '2': {'Meatus acusticus internus'}, '3': {'Os temporale'}}
+        english = {'1': 'Temporal, L#dummy', '2': 'Internal auditory (acoustic) meatus, L#', '3': 'Temporal bone (cut)#'}
+        _, ch = apply_latin_quiz({'k': 'hu'}, cat, {'k': ['1', '2']}, latin, {'1': 10, '2': 11, '3': 12}, english)
+        self.assertEqual(ch['k'][1], 'Válassza ki a jobb vagy bal oldali képletet: Os temporale.')
+        # a qualifier in parentheses that the Latin would drop keeps the Hungarian prompt
+        cat[0]['en'] = 'Select the right or left semispinalis capitis (lateral fascicle).'
+        latin = {'1': {'M. semispinalis capitis'}, '3': {'M. semispinalis capitis'}}
+        english = {'1': 'Semispinalis capitis (lateral fascicle), L#', '3': 'Semispinalis capitis (medial fascicle), L#'}
+        _, ch = apply_latin_quiz({'k': 'hu'}, cat, {'k': ['1']}, latin, {'1': 10, '3': 12}, english)
+        self.assertEqual(ch, {})
+
+    def test_numbered_latin(self):
+        from variants import numbered_latin
+        self.assertEqual(numbered_latin('Select the seventh cervical vertebra.', 'Vertebra cervicalis'), 'Vertebra cervicalis VII')
+        self.assertEqual(numbered_latin('Select the 3rd metacarpal.', 'Os metacarpi'), 'Os metacarpi III')
+        self.assertEqual(numbered_latin('Select the 1st distal phalanx (pollex).', 'Phalanx distalis'), 'Phalanx distalis digiti I manus')
+        self.assertEqual(numbered_latin('Select a second molar.', 'Dens molaris'), 'Dens molaris secundus')
+        self.assertIsNone(numbered_latin('Select a third premolar.', 'Dens premolaris'))
+        self.assertIsNone(numbered_latin('Select the eighth cervical vertebra.', 'Vertebra cervicalis'))
+        self.assertIsNone(numbered_latin('Select the 2nd distal phalanx.', 'Phalanx distalis'))  # hand or foot unknown
+
 
 if __name__ == '__main__':
     unittest.main()

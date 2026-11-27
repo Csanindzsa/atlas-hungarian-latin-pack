@@ -138,7 +138,8 @@ def latin_quiz_prompt(english_prompt, answer_latin_sets, latin_is_exclusive=True
     name = single_latin(set().union(*answer_latin_sets))
     if not name:
         return None
-    if _ORDINAL.search(english_prompt) and not re.search(r'\d|\b[IVX]+\b', name):
+    proper_name = name.lower() in english_prompt.lower()  # e.g. "first cervical vertebra (atlas)" -> Atlas
+    if _ORDINAL.search(english_prompt) and not re.search(r'\d|\b[IVX]+\b|\b(primus|secundus|tertius)$', name) and not proper_name:
         return None
     if not latin_is_exclusive and not _GROUP.match(english_prompt.strip()):
         return None
@@ -153,14 +154,81 @@ def latin_quiz_prompt(english_prompt, answer_latin_sets, latin_is_exclusive=True
     return None
 
 
-def apply_latin_quiz(fields, catalog, answers_by_key, latin_by_structure_id, base_by_structure_id=None):
+_SUBJECT_PREFIX = re.compile(r'^Selec?t? (the right or left|any (part|region|lobe|leaflet|cusp|branch) of (the right or left|the|a|an)|the|an?) ', re.I)
+
+
+def _norm(text):
+    text = re.sub(r'#.*$', '', text or '')
+    text = re.sub(r',\s*[LR]$', '', text.strip())
+    text = re.sub(r'\([^)]*\)', ' ', text)
+    text = re.sub(r'[^a-z0-9]+', ' ', text.lower()).strip()
+    return re.sub(r' bone$', '', text)  # mesh names say "Zygomatic", prompts "zygomatic bone"
+
+
+def prompt_subject(english_prompt):
+    """'Select the right or left temporal bone.' -> 'temporal bone' (None for group prompts)."""
+    text = english_prompt.strip()
+    m = _SUBJECT_PREFIX.match(text)
+    if not m:
+        return None
+    text = re.sub(r', or any of its branches\.?$', '', text[m.end():])
+    return _norm(text.rstrip('.'))
+
+
+def main_structure_latin(english_prompt, ids, latin_by_structure_id, english_by_structure_id):
+    """Latin name of the structure the prompt names, when the other accepted answers are its parts or
+    landmarks (e.g. temporal bone + its foramina). Requires an answer whose English name equals the
+    prompt subject, and all such answers to share one Latin name."""
+    subject = prompt_subject(english_prompt)
+    if not subject:
+        return None
+    main = [i for i in ids if _norm(english_by_structure_id.get(i, '')) == subject]
+    names = set().union(*[set(latin_by_structure_id.get(i, ())) for i in main]) if main else set()
+    return single_latin(names)
+
+
+_ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII']
+_ORD_WORDS = {w: i for i, w in enumerate(['', 'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh',
+                                          'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth'])}
+_TOOTH_ORD = {1: 'primus', 2: 'secundus', 3: 'tertius'}
+_NUMBERED = ('Vertebra cervicalis', 'Vertebra thoracica', 'Vertebra lumbalis', 'Os metacarpi', 'Os metatarsi',
+             'Phalanx distalis', 'Phalanx media', 'Phalanx proximalis', 'Dens molaris', 'Dens premolaris')
+
+
+def numbered_latin(english_prompt, base):
+    """Standard numbered Latin for serial structures whose native Latin has no number:
+    'the seventh cervical vertebra' + 'Vertebra cervicalis' -> 'Vertebra cervicalis VII'."""
+    if base not in _NUMBERED:
+        return None
+    text = english_prompt.lower()
+    nums = [int(m) for m in re.findall(r'\b(\d{1,2})(?:st|nd|rd|th)\b', text)]
+    nums += [_ORD_WORDS[w] for w in re.findall(r'\b(' + '|'.join(w for w in _ORD_WORDS if w) + r')\b', text)]
+    if len(set(nums)) != 1:
+        return None
+    n = nums[0]
+    if base.startswith('Dens'):
+        return base + ' ' + _TOOTH_ORD[n] if n in _TOOTH_ORD and (n < 3 or base == 'Dens molaris') else None
+    limit = {'Vertebra cervicalis': 7, 'Vertebra thoracica': 12, 'Vertebra lumbalis': 5}.get(base, 5)
+    if not 1 <= n <= limit:
+        return None
+    if base.startswith('Phalanx'):
+        hand = re.search(r'\b(hand|pollex|finger)\b', text)
+        foot = re.search(r'\b(foot|hallux|toe)\b', text)
+        if bool(hand) == bool(foot) or (base == 'Phalanx media' and n == 1):
+            return None
+        return base + ' digiti ' + _ROMAN[n] + (' manus' if hand else ' pedis')
+    return base + ' ' + _ROMAN[n]
+
+
+def apply_latin_quiz(fields, catalog, answers_by_key, latin_by_structure_id, base_by_structure_id=None, english_by_structure_id=None):
     """fields: key->hu. catalog: source_catalog entries. answers_by_key: field key -> [structure IDs].
     base_by_structure_id: structure ID -> canonical name key, used to detect Latin names shared with
     structures outside the answer set."""
     users = {}
     for sid, names in latin_by_structure_id.items():
         for n in names:
-            users.setdefault(n, set()).add((base_by_structure_id or {}).get(sid, sid))
+            users.setdefault(n, set()).add(sid)
+    base_of = lambda sid: (base_by_structure_id or {}).get(sid, sid)
     out, changed = dict(fields), {}
     for e in catalog:
         if e['category'] != 'quiz_prompts':
@@ -168,8 +236,21 @@ def apply_latin_quiz(fields, catalog, answers_by_key, latin_by_structure_id, bas
         ids = answers_by_key.get(e['key'], [])
         sets = [set(latin_by_structure_id.get(i, ())) for i in ids]
         name = single_latin(set().union(*sets)) if sets and all(sets) else None
-        answer_bases = {(base_by_structure_id or {}).get(i, i) for i in ids}
-        exclusive = bool(name) and users.get(name, set()) <= answer_bases
+        if not name and english_by_structure_id:
+            name = main_structure_latin(e['en'], ids, latin_by_structure_id, english_by_structure_id)
+            if name:
+                sets = [{name}]
+        answer_bases = {base_of(i) for i in ids}
+        outside = [s for s in users.get(name, ()) if base_of(s) not in answer_bases]
+        # Another mesh of the very same structure (e.g. "Temporal bone (cut)") is not a conflict.
+        same = {_norm((english_by_structure_id or {}).get(i, '')) for i in ids} | {prompt_subject(e['en'])}
+        # The relaxation is skipped when the prompt carries a parenthetical qualifier
+        # ("semispinalis capitis (lateral fascicle)") that the Latin name would drop.
+        exclusive = bool(name) and (not outside or bool(english_by_structure_id) and '(' not in e['en'] and
+                                    all(_norm(english_by_structure_id.get(s, '')) in same for s in outside))
+        composed = numbered_latin(e['en'], name) if name else None
+        if composed:  # the number makes it unambiguous even though the base Latin is shared
+            sets, exclusive = [{composed}], True
         new = latin_quiz_prompt(e['en'], sets, exclusive)
         if new:
             changed[e['key']] = (out[e['key']], new)

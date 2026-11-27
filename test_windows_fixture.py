@@ -19,7 +19,7 @@ local.mkdir(parents=True)
 shutil.copy2(ROOT/'Install-Pack.ps1', local/'Install-Pack.ps1')
 paths = ['Human Anatomy Atlas_Data/resources.assets', 'Human Anatomy Atlas_Data/Managed/Assembly-UnityScript.dll']
 variants = {}
-for v in ('magyar', 'latinos'):
+for v in ('magyar', 'latinos', 'latinkviz'):
     entries = []
     for i, path in enumerate(paths):
         old = local/'source'/path; old.parent.mkdir(parents=True, exist_ok=True)
@@ -43,6 +43,7 @@ foreach($f in $m.variants.latinos.files){ if((Get-FileHash (Join-Path ($r+'\stag
 & $code -PackDirectory $r -AtlasDirectory $source -Variant magyar; Assert-State 'magyar'
 & $code -PackDirectory $r -AtlasDirectory $source -Variant magyar; Assert-State 'magyar'
 & $code -PackDirectory $r -AtlasDirectory $source -Variant latinos; Assert-State 'latinos'
+& $code -PackDirectory $r -AtlasDirectory $source -Variant latinkviz; Assert-State 'latinkviz'
 & $code -PackDirectory $r -AtlasDirectory $source -Restore; Assert-State 'source'
 & $code -PackDirectory $r -AtlasDirectory $source -Restore; Assert-State 'source'
 [IO.File]::WriteAllText(($r+'\file-magyar-0.literals'),'corrupted synthetic test data'); $rejected=$false; try{& $code -PackDirectory $r -AtlasDirectory $source -Variant magyar}catch{$rejected=$true}; if(!$rejected){throw 'Corrupt patch was accepted'}; Assert-State 'source'

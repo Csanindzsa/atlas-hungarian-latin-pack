@@ -38,6 +38,32 @@ class VariantTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             apply_variant(terms, {}, 'english')
 
+    def test_latin_quiz_prompts(self):
+        from variants import latin_quiz_prompt
+        lat = [{'M. vastus lateralis'}, {'M. vastus lateralis'}]
+        self.assertEqual(latin_quiz_prompt('Select the right or left vastus lateralis.', lat),
+                         'Válassza ki a jobb vagy bal oldali képletet: M. vastus lateralis.')
+        self.assertEqual(latin_quiz_prompt('Select the left superior lobe.', [{'Lobus superior'}]),
+                         'Válassza ki a bal oldali képletet: Lobus superior.')
+        # sub-parts collapse to the base name
+        self.assertEqual(latin_quiz_prompt('Select any part of the right or left internal carotid artery.',
+                                           [{'A. carotis interna'}, {'A. carotis interna, pars cervicalis'}]),
+                         'Válassza ki a jobb vagy bal oldali képlet bármely részét: A. carotis interna.')
+
+    def test_latin_quiz_keeps_hungarian_when_information_would_be_lost(self):
+        from variants import latin_quiz_prompt
+        self.assertIsNone(latin_quiz_prompt('Select the right or left S4 spinal nerve.', [{'N. spinalis'}]))
+        self.assertIsNone(latin_quiz_prompt('Select the second rib.', [{'Costa vera'}]))
+        self.assertIsNone(latin_quiz_prompt('Select any of the cerebellar arteries.', [{'A. cerebelli superior'}, {'A. cerebelli inferior posterior'}]))
+        self.assertIsNone(latin_quiz_prompt('Select any of the lumbricals.', [{'M. lumbricalis'}, set()]))
+        self.assertIsNone(latin_quiz_prompt('Select the occipital vein.', [{'V. occipitalis'}], latin_is_exclusive=False))
+        self.assertIsNotNone(latin_quiz_prompt('Select one of the ureters.', [{'Ureter'}], latin_is_exclusive=False))
+
+    def test_latin_quiz_variant_keeps_names(self):
+        terms = [{'key': 1, 'hu': 'Oldalsó köteg'}]
+        same, ch = apply_variant(terms, {1: {'Fasciculus lateralis'}}, 'latinkviz')
+        self.assertEqual((same, ch), (terms, {}))
+
 
 if __name__ == '__main__':
     unittest.main()

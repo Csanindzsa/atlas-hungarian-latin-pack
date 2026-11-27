@@ -1,7 +1,7 @@
 param(
     [string]$PackDirectory = $PSScriptRoot,
     [string]$AtlasDirectory = '',
-    [ValidateSet('', 'magyar', 'latinos')]
+    [ValidateSet('', 'magyar', 'latinos', 'latinkviz')]
     [string]$Variant = '',
     [string]$OutputDirectory = '',
     [switch]$Restore
@@ -14,7 +14,7 @@ $PackDirectory = [IO.Path]::GetFullPath($PackDirectory)
 $manifest = Get-Content -LiteralPath (Join-Path $PackDirectory 'manifest.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $allowed = @('Human Anatomy Atlas_Data/resources.assets', 'Human Anatomy Atlas_Data/Managed/Assembly-UnityScript.dll')
 if ($manifest.schema -ne 2) { throw 'Unsupported pack manifest.' }
-$variantNames = @('magyar', 'latinos')
+$variantNames = @('magyar', 'latinos', 'latinkviz')
 foreach ($v in $variantNames) {
     $files = @($manifest.variants.$v.files)
     if ($files.Count -ne 2) { throw ('Unsupported pack manifest variant: ' + $v) }
@@ -124,8 +124,9 @@ if (!$Variant) {
     Write-Output 'Válassza ki a nevek stílusát / Choose the naming style:'
     Write-Output '  1 = magyaros (oldalsó / belső)       pl. "Oldalsó combcsont körüli ér"'
     Write-Output '  2 = latinos  (laterális / mediális)  pl. "Laterális combcsont körüli ér"'
-    $answer = ([string](Read-Host 'Választás / Choice [1/2]')).Trim().ToLowerInvariant()
-    if ($answer -eq '1' -or $answer -eq 'magyar') { $Variant = 'magyar' } elseif ($answer -eq '2' -or $answer -eq 'latinos') { $Variant = 'latinos' } else { throw 'Érvénytelen választás / Invalid choice.' }
+    Write-Output '  3 = latin kvíz (magyaros nevek, a kvízkérdések latin névvel)  pl. "... képletet: M. vastus lateralis."'
+    $answer = ([string](Read-Host 'Választás / Choice [1/2/3]')).Trim().ToLowerInvariant()
+    if ($answer -eq '1' -or $answer -eq 'magyar') { $Variant = 'magyar' } elseif ($answer -eq '2' -or $answer -eq 'latinos') { $Variant = 'latinos' } elseif ($answer -eq '3' -or $answer -eq 'latinkviz') { $Variant = 'latinkviz' } else { throw 'Érvénytelen választás / Invalid choice.' }
 }
 
 $already = $true

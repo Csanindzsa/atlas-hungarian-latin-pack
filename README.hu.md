@@ -6,9 +6,10 @@ Nem hivatalos, közösségi fordítás tanuláshoz. **Nem orvosilag lektorált t
 - Magyar kezelőfelület (241 sor) és 4 643 anatómiai név; az eredeti **latin nevek és a latin nézet változatlanok**.
 - Magyar definíciók, betegségleírások, kvízkérdések és feliratok (11 385 szövegmező).
 - Magyar keresés, ékezettel és ékezet nélkül is (pl. „gégefedő” és „gegefedo”).
-- **Két névstílus**, telepítéskor választhatsz (mindkettőt elfogadják az egyetemen):
+- **Három változat**, telepítéskor választhatsz:
   - **1 = magyaros:** oldalsó / belső (pl. „Oldalsó combcsont körüli ér”).
   - **2 = latinos:** laterális / mediális (pl. „Laterális combcsont körüli ér”). Csak ott változik, ahol a latin név is lateralis/medialis; a belső = internus (pl. „Belső csípőér”) mindkét stílusban marad.
+  - **3 = latin kvíz (latin gyakorláshoz):** a nevek és leírások magyarosak, de a kvízkérdések a képlet **latin nevét** adják meg (pl. „Válassza ki a jobb vagy bal oldali képletet: M. vastus lateralis.”). Ahol a latin név nem egyértelmű (pl. sorszámozott idegek, bordák, több képletből álló csoportok), a kérdés magyarul marad; ez a kérdések kb. negyede.
 - A program az angol nyelvi helyet használja: a programban az **English** nyelvet válaszd, ennek helyén jelenik meg a magyar.
 
 ## Telepítés (Windows)
@@ -16,16 +17,16 @@ Nem hivatalos, közösségi fordítás tanuláshoz. **Nem orvosilag lektorált t
 2. Csomagold ki a ZIP teljes tartalmát egy mappába.
 3. Zárd be az Atlast.
 4. Jobb gomb az `Install.cmd` fájlon, majd **Futtatás rendszergazdaként**. A Windows engedélykérését neked kell jóváhagynod.
-5. Írd be: `1` (magyaros) vagy `2` (latinos), majd Enter.
+5. Írd be: `1` (magyaros), `2` (latinos) vagy `3` (latin kvíz), majd Enter.
 6. Indítsd el az Atlast, és válaszd az **English** nyelvet.
 
 A telepítő magától megkeresi az Atlas 7.4.01 mappáját (Program Files és a Windows telepített programjainak listája alapján), és csak akkor használja, ha a fájljai pontosan egyeznek a 7.4.01-es verzióval. Ha nem találja, vagy több telepítés is van, rendszergazdai PowerShellben add meg a mappát:
 
 ```powershell
-& .\Install-Pack.ps1 -PackDirectory $PWD.Path -AtlasDirectory 'D:\SajatAtlasMappa' -Variant magyar   # vagy latinos
+& .\Install-Pack.ps1 -PackDirectory $PWD.Path -AtlasDirectory 'D:\SajatAtlasMappa' -Variant magyar   # vagy latinos / latinkviz
 ```
 
-**Stílusváltás:** futtasd újra az `Install.cmd` fájlt, és válaszd a másik számot. Nem kell előbb visszaállítani.
+**Váltás:** futtasd újra az `Install.cmd` fájlt, és válassz másik számot. Nem kell előbb visszaállítani.
 
 ## Visszaállítás az eredeti angolra
 Zárd be az Atlast, majd futtasd rendszergazdaként a `Restore.cmd` fájlt. A telepítő a két érintett eredeti fájlról ellenőrzött másolatot tesz a `HungarianLatinPack-backup-7.4.01` mappába; ezt ne töröld.

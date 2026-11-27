@@ -10,9 +10,10 @@ The user guide is in Hungarian: **[README.hu.md](README.hu.md)**.
 ## What it does
 - Translates 241 UI rows, 4,643 anatomical name rows and 11,385 catalog text fields (definitions, health descriptions, quizzes and labels) into Hungarian. It also translates 4 hard-coded UI strings.
 - Adds Hungarian search that works with or without accents.
-- Lets you pick one of two naming styles at install time. Both are accepted at Hungarian universities:
+- Lets you pick one of three variants at install time:
   - `magyar`: Hungarian-style terms (*oldalsó / belső*)
   - `latinos`: Latin-style terms (*laterális / mediális*), derived from the native Latin names
+  - `latinkviz`: Hungarian names, but quiz questions name the target by its native Latin name (for Latin practice); prompts stay Hungarian where the Latin would be ambiguous
 - Is reversible. The installer verifies every file by SHA-256, writes a verified backup, and refuses to touch unknown or modified files. Running `Restore.cmd` brings back the original English files.
 
 ## How it works

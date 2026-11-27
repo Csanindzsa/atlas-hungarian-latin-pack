@@ -4,7 +4,8 @@ import json, subprocess, sys, zipfile
 from pack_builder import ROOT, build_assets, hashfile, matching_ranges, make_delta, apply_delta
 
 PACKAGE_ID = 'Atlas-Hungarian-Latin-7.4.01-v1.0'
-VARIANT_LABELS = {'magyar': 'magyaros nevek (oldalsó / belső)', 'latinos': 'latinos nevek (laterális / mediális)'}
+VARIANT_LABELS = {'magyar': 'magyaros nevek (oldalsó / belső)', 'latinos': 'latinos nevek (laterális / mediális)',
+                  'latinkviz': 'magyaros nevek, kvízkérdések latin névvel'}
 HARD_GATES = ('full_text_inventory_completed', 'all_inventoried_text_translated', 'terminology_corrections_resolved',
               'runtime_language_search_latin_verified', 'final_code_review_ship')
 SOFT_GATES = ('qualified_medical_review_completed',)

@@ -167,8 +167,26 @@ def variant_inputs():
     english={r['key']:r['en'] for r in json.loads((ROOT/'terms_source.json').read_text())}
     return latin,english
 
+def quiz_inputs(catalog):
+    """Correct structure IDs per quiz-prompt field (from the original quiz XML) and native Latin per structure ID."""
+    trees={}; answers={}
+    for e in catalog:
+        if e['category']!='quiz_prompts': continue
+        if e['path_id'] not in trees:
+            path=next(EXPORTS.glob(str(e['path_id'])+'_*.txt'))
+            trees[e['path_id']]=ET.fromstring(path.read_text(encoding='utf-8'))
+        node=trees[e['path_id']]
+        for i in e['node_route'].split('.')[1:-1]: node=node[int(i)]
+        if node.tag!='question': raise ValueError('Unexpected quiz XML shape at '+e['key'])
+        answers[e['key']]=[a.text.strip() for a in node if a.tag=='answer' and a.text]
+    latin=defaultdict(set); base={}
+    occ=ROOT/'quality-review/name-accuracy/run-01/structure-occurrences.json'
+    for r in json.loads(occ.read_text()):
+        latin[r['id']].update(x for x in r['native_latin'] if x); base[r['id']]=r['key']
+    return answers,latin,base
+
 def build_assets(variant='magyar'):
-    from variants import apply_variant, apply_variant_to_fields, VARIANTS
+    from variants import apply_variant, apply_variant_to_fields, apply_latin_quiz, VARIANTS
     if variant not in VARIANTS: raise ValueError('Unknown variant')
     from collect_fulltext import load_complete_fulltext
     from preview_fulltext import apply_fulltext_fields
@@ -189,10 +207,15 @@ def build_assets(variant='magyar'):
     latin,english=variant_inputs()
     terms,variant_changes=apply_variant(terms,latin,variant,english)
     fulltext_fields,variant_field_changes=apply_variant_to_fields(fulltext_fields,variant_changes)
+    quiz_changes={}
+    if variant=='latinkviz':
+        answers,latin_by_id,base_by_id=quiz_inputs(catalog)
+        fulltext_fields,quiz_changes=apply_latin_quiz(fulltext_fields,catalog,answers,latin_by_id,base_by_id)
+        variant_field_changes+=len(quiz_changes)
     translations=validate_translations(terms_source,terms)
     (build/'terms_hu.resolved.json').write_text(json.dumps(terms,ensure_ascii=False,indent=2),encoding='utf-8')
     (build/'ui_hu.resolved.json').write_text(json.dumps(ui,ensure_ascii=False,indent=2),encoding='utf-8')
-    (build/'variant-changes.json').write_text(json.dumps({'variant':variant,'core_names_changed':{str(k):v for k,v in variant_changes.items()},'catalog_fields_changed':variant_field_changes},ensure_ascii=False,indent=2),encoding='utf-8')
+    (build/'variant-changes.json').write_text(json.dumps({'variant':variant,'core_names_changed':{str(k):v for k,v in variant_changes.items()},'catalog_fields_changed':variant_field_changes,'quiz_prompts_latin':quiz_changes},ensure_ascii=False,indent=2),encoding='utf-8')
     rows=json.loads((ROOT/'structure_rows.json').read_text())
     docs,stats=build_structure_documents((EXPORTS/'10550_structures_en.txt').read_text(),(EXPORTS/'12714_latin_en_ordering.txt').read_text(),rows,translations)
     docs['ui']=translate_ui((EXPORTS/'9858_ui_en.txt').read_text(),ui)
